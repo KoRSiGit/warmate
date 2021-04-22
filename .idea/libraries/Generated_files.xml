@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/contact-form-7/includes/js/scripts.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/contact-form-7/includes/js/scripts.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/contact-form-7/includes/js/scripts.min.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/dzs-zoomsounds/audioplayer/audioplayer.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/revslider/public/assets/js/rs6.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/ut-shortcodes/js/plugins/modernizr/modernizr.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/ut-shortcodes/js/ut.scplugin.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/plugins/ut-shortcodes/js/ut.scplugin.min.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/pixi/pixi-sound.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/pixi/pixi-sound.min.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/pixi/pixi.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/rainyday.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/ut-init.min.min.js" />
+        <item url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/ut-scriptlibrary.min.min.js" />
+        <item url="file://$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/contact-form-7/includes/js/scripts.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/contact-form-7/includes/js/scripts.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/contact-form-7/includes/js/scripts.min.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/dzs-zoomsounds/audioplayer/audioplayer.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/revslider/public/assets/js/rs6.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/ut-shortcodes/js/plugins/modernizr/modernizr.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/ut-shortcodes/js/ut.scplugin.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/plugins/ut-shortcodes/js/ut.scplugin.min.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/pixi/pixi-sound.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/pixi/pixi-sound.min.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/pixi/pixi.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/rainyday.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/ut-init.min.min.js" />
+      <root url="file://$PROJECT_DIR$/notarc/wp-content/themes/brooklyn/js/ut-scriptlibrary.min.min.js" />
+      <root url="file://$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
