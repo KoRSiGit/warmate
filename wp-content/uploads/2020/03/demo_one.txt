@@ -1,1 +1,0 @@
-{"result" : "access_denied", "reason" : "License valid but not registered with server."}
