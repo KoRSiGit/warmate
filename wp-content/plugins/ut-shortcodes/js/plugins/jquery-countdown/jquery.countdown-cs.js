@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Czech initialisation for the jQuery countdown extension
  * Written by Roman Chlebec (creamd@c64.sk) (2008) */
 (function($) {

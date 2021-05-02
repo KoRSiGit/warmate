@@ -1,7 +1,7 @@
 /*
 Tooltipster 3.3.0 | 2014-11-08
 A rockin' custom tooltip jQuery plugin
-Developed by Caleb Jacob under the MIT license http://opensource.org/licenses/MIT
+Developed by Caleb Jacob under the MIT license https://opensource.org/licenses/MIT
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
@@ -1831,7 +1831,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 /*!
  * jQuery Modal
  * Copyright (c) 2015 CreativeDream
- * Website http://creativedream.net/plugins
+ * Website https://creativedream.net/plugins
  * Version: 1.2.3 (10-04-2015)
  * Requires: jQuery v1.7.1 or later
  */
@@ -2137,11 +2137,11 @@ function modal(e) {
 /*
  * jQuery MiniColors: A tiny color picker built on jQuery
  *
- * Copyright: Cory LaViska for A Beautiful Site, LLC: http://www.abeautifulsite.net/
+ * Copyright: Cory LaViska for A Beautiful Site, LLC: https://www.abeautifulsite.net/
  *
  * Contribute: https://github.com/claviska/jquery-minicolors
  *
- * @license: http://opensource.org/licenses/MIT
+ * @license: https://opensource.org/licenses/MIT
  *
  */
 (function (factory) {
@@ -3273,7 +3273,7 @@ function modal(e) {
 
 /*
  jQuery Form Dependencies v2.0
-   http://github.com/digitalnature/Form-Dependencies
+   https://github.com/digitalnature/Form-Dependencies
 */
 
 (function($, window, document, undefined){

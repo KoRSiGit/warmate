@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Latvian initialisation for the jQuery countdown extension
  * Written by Jānis Peisenieks janis.peisenieks@gmail.com (2010) */
 (function($) {

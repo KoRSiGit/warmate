@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Croatian l10n for the jQuery countdown plugin
  * Written by Dejan Broz info@hqfactory.com (2011)
  * Improved by zytzagoo (2014) */

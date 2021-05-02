@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
    Icelandic initialisation for the jQuery countdown extension
    Written by Róbert K. L. */
 (function($) {

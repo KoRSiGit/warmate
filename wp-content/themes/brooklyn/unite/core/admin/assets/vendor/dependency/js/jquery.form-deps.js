@@ -1,7 +1,7 @@
 /*
 
  jQuery Form Dependencies v2.0
-   http://github.com/digitalnature/Form-Dependencies
+   https://github.com/digitalnature/Form-Dependencies
 */
 
 

@@ -218,8 +218,8 @@ var stack;
  *    not captured. thus, we find the long string of `a`s and remember it, then
  *    reference it as a whole unit inside our pattern
  *
- *    @see http://instanceof.me/post/52245507631/regex-emulate-atomic-grouping-with-lookahead
- *    @see http://blog.stevenlevithan.com/archives/mimic-atomic-groups
+ *    @see https://instanceof.me/post/52245507631/regex-emulate-atomic-grouping-with-lookahead
+ *    @see https://blog.stevenlevithan.com/archives/mimic-atomic-groups
  *    @see https://javascript.info/regexp-infinite-backtracking-problem
  *
  *    once browsers reliably support atomic grouping or possessive

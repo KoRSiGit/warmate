@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Bosnian Latin initialisation for the jQuery countdown extension
  * Written by Miralem Mehic miralem@mehic.info (2011) */
 (function($) {

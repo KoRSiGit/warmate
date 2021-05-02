@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Bengali/Bangla initialisation for the jQuery countdown extension
  * Written by Mohammed Tajuddin (tajuddin@chittagong-it.com) Jan 2011. */
 (function($) {

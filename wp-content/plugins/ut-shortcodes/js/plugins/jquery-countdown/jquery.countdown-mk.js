@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Macedonian initialisation for the jQuery countdown extension
  * Written by Gorast Cvetkovski cvetkovski@gorast.com (2016) */
 (function($) {

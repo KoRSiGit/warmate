@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
    Estonian initialisation for the jQuery countdown extension
    Written by Helmer <helmer{at}city.ee> */
 (function($) {

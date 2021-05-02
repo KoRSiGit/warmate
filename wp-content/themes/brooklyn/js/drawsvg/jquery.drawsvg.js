@@ -1,5 +1,5 @@
 /*!
- * jQuery DrawSVG v1.1.0 (Oct 05 2016) - http://lcdsantos.github.io/jquery-drawsvg/
+ * jQuery DrawSVG v1.1.0 (Oct 05 2016) - https://lcdsantos.github.io/jquery-drawsvg/
  *
  * Copyright (c) 2016 Leonardo Santos; MIT License
  *

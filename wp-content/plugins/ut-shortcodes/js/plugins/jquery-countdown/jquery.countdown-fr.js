@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
    French initialisation for the jQuery countdown extension
    Written by Keith Wood (wood.keith{at}optusnet.com.au) Jan 2008. */
 (function($) {

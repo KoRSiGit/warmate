@@ -1,6 +1,6 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
    Dutch initialisation for the jQuery countdown extension
-   Written by Mathias Bynens <http://mathiasbynens.be/> Mar 2008. */
+   Written by Mathias Bynens <https://mathiasbynens.be/> Mar 2008. */
 (function($) {
 	'use strict';
 	$.countdown.regionalOptions.nl = {

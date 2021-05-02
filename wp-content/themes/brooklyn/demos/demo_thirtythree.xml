@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.9.4" created="2018-02-23 02:11" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>BKLYN ICO</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33</link>
 	<description>Demo 33</description>
 	<pubDate>Fri, 23 Feb 2018 02:11:18 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[john@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -70,7 +70,7 @@
 
 	<item>
 		<title>bklyn-logo-white-normal</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-white-normal/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-white-normal/</link>
 		<pubDate>Fri, 08 Dec 2017 09:26:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2017/12/bklyn-logo-white-normal.png</guid>
@@ -101,7 +101,7 @@
 	</item>
 	<item>
 		<title>bklyn-logo-white-retina</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-white-retina/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-white-retina/</link>
 		<pubDate>Fri, 08 Dec 2017 09:26:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2017/12/bklyn-logo-white-retina.png</guid>
@@ -132,7 +132,7 @@
 	</item>
 	<item>
 		<title>bklyn-logo-dark-normal</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-dark-normal/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-dark-normal/</link>
 		<pubDate>Fri, 08 Dec 2017 13:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2017/12/bklyn-logo-dark-normal.png</guid>
@@ -163,7 +163,7 @@
 	</item>
 	<item>
 		<title>bklyn-logo-dark-retina</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-dark-retina/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-dark-retina/</link>
 		<pubDate>Fri, 08 Dec 2017 13:15:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2017/12/bklyn-logo-dark-retina.png</guid>
@@ -194,10 +194,10 @@
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1030</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1030</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1030</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1030</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -256,10 +256,10 @@
 	</item>
 	<item>
 		<title>ICO #1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/mc4wp-form/ico-1/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/mc4wp-form/ico-1/</link>
 		<pubDate>Thu, 22 Feb 2018 12:54:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/mc4wp-form/ico-1/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/mc4wp-form/ico-1/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
 	<input type="email" name="EMAIL" placeholder="Your email address" required />
@@ -344,10 +344,10 @@
 	</item>
 	<item>
 		<title>ICO #1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/mc4wp-form/ico-1-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/mc4wp-form/ico-1-2/</link>
 		<pubDate>Tue, 13 Feb 2018 11:05:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/mc4wp-form/ico-1-2/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/mc4wp-form/ico-1-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
 	<input type="email" name="EMAIL" placeholder="Your email address" required />
@@ -416,7 +416,7 @@
 	</item>
 	<item>
 		<title>33-hero-phone</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/33-hero-phone/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/33-hero-phone/</link>
 		<pubDate>Wed, 14 Feb 2018 14:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/33-hero-phone.png</guid>
@@ -447,7 +447,7 @@
 	</item>
 	<item>
 		<title>33-bg</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/33-bg/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/33-bg/</link>
 		<pubDate>Wed, 14 Feb 2018 14:07:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/33-bg.jpg</guid>
@@ -478,7 +478,7 @@
 	</item>
 	<item>
 		<title>bklyn-logo-blue-normal</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-blue-normal/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-blue-normal/</link>
 		<pubDate>Wed, 14 Feb 2018 16:59:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/bklyn-logo-blue-normal.png</guid>
@@ -509,7 +509,7 @@
 	</item>
 	<item>
 		<title>bklyn-logo-blue-retina</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-blue-retina/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-logo-blue-retina/</link>
 		<pubDate>Wed, 14 Feb 2018 16:59:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/bklyn-logo-blue-retina.png</guid>
@@ -540,7 +540,7 @@
 	</item>
 	<item>
 		<title>avatar-demo-33</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/avatar-demo-33/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/avatar-demo-33/</link>
 		<pubDate>Fri, 23 Feb 2018 01:58:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/avatar-demo-33.jpg</guid>
@@ -571,7 +571,7 @@
 	</item>
 	<item>
 		<title>logo1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo1/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo1/</link>
 		<pubDate>Fri, 23 Feb 2018 01:59:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/logo1.png</guid>
@@ -602,7 +602,7 @@
 	</item>
 	<item>
 		<title>logo2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo2/</link>
 		<pubDate>Fri, 23 Feb 2018 01:59:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/logo2.png</guid>
@@ -633,7 +633,7 @@
 	</item>
 	<item>
 		<title>logo3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo3/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo3/</link>
 		<pubDate>Fri, 23 Feb 2018 01:59:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/logo3.png</guid>
@@ -664,7 +664,7 @@
 	</item>
 	<item>
 		<title>logo4</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo4/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo4/</link>
 		<pubDate>Fri, 23 Feb 2018 01:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/logo4.png</guid>
@@ -695,7 +695,7 @@
 	</item>
 	<item>
 		<title>logo5</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo5/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo5/</link>
 		<pubDate>Fri, 23 Feb 2018 01:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/logo5.png</guid>
@@ -726,7 +726,7 @@
 	</item>
 	<item>
 		<title>logo6</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo6/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo6/</link>
 		<pubDate>Fri, 23 Feb 2018 01:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/logo6.png</guid>
@@ -757,7 +757,7 @@
 	</item>
 	<item>
 		<title>logo7</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo7/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo7/</link>
 		<pubDate>Fri, 23 Feb 2018 01:59:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/logo7.png</guid>
@@ -788,7 +788,7 @@
 	</item>
 	<item>
 		<title>logo8</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo8/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/home/logo8/</link>
 		<pubDate>Fri, 23 Feb 2018 01:59:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/logo8.png</guid>
@@ -819,10 +819,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/15/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/15/</link>
 		<pubDate>Wed, 12 Jul 2017 11:46:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=15</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -882,10 +882,10 @@
 	</item>
 	<item>
 		<title>BKLYN.js</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-js/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-js/</link>
 		<pubDate>Tue, 30 Jan 2018 14:21:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1024</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1024</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -941,10 +941,10 @@
 	</item>
 	<item>
 		<title>BKLYN Smart Contracts</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-smart-contracts/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-smart-contracts/</link>
 		<pubDate>Tue, 30 Jan 2018 14:21:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1025</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1025</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1000,10 +1000,10 @@
 	</item>
 	<item>
 		<title>BKLYN Connect</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-connect/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/bklyn-connect/</link>
 		<pubDate>Tue, 30 Jan 2018 14:21:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1026</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1026</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1059,10 +1059,10 @@
 	</item>
 	<item>
 		<title>Whitepaper</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/whitepaper/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/whitepaper/</link>
 		<pubDate>Tue, 30 Jan 2018 14:21:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1027</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1027</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1118,10 +1118,10 @@
 	</item>
 	<item>
 		<title>Wiki</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/wiki/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/wiki/</link>
 		<pubDate>Tue, 30 Jan 2018 14:21:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1028</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1028</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1177,10 +1177,10 @@
 	</item>
 	<item>
 		<title>FAQ</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/faq/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/faq/</link>
 		<pubDate>Tue, 30 Jan 2018 14:21:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1029</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1029</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1236,10 +1236,10 @@
 	</item>
 	<item>
 		<title>Careers</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/careers/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/careers/</link>
 		<pubDate>Tue, 30 Jan 2018 14:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1031</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1031</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1295,10 +1295,10 @@
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/about/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/about/</link>
 		<pubDate>Tue, 30 Jan 2018 14:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1032</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1032</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1354,10 +1354,10 @@
 	</item>
 	<item>
 		<title>Contact</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/contact/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/contact/</link>
 		<pubDate>Tue, 30 Jan 2018 14:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1033</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1033</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1413,10 +1413,10 @@
 	</item>
 	<item>
 		<title>Whitelist</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/whitelist/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/whitelist/</link>
 		<pubDate>Thu, 22 Feb 2018 17:33:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2585</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2585</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1528,10 +1528,10 @@
 	</item>
 	<item>
 		<title>Token Distribution</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-distribution/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-distribution/</link>
 		<pubDate>Thu, 22 Feb 2018 18:38:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-distribution/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-distribution/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1550,7 +1550,7 @@
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-token-distribution]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-token-distribution]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
@@ -1587,10 +1587,10 @@
 	</item>
 	<item>
 		<title>Token Features</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-features/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-features/</link>
 		<pubDate>Thu, 22 Feb 2018 18:40:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-features/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1641,15 +1641,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-token-features]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-token-features]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Token Architecture</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-architecture/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-architecture/</link>
 		<pubDate>Thu, 22 Feb 2018 18:40:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-architecture/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-architecture/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1700,15 +1700,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-token-architecture]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-token-architecture]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>The Founders</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/the-founders/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/the-founders/</link>
 		<pubDate>Thu, 22 Feb 2018 18:41:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/the-founders/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/the-founders/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1759,15 +1759,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-the-founders]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-the-founders]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Token Roadmap</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-roadmap/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-roadmap/</link>
 		<pubDate>Thu, 22 Feb 2018 18:41:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-roadmap/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/token-roadmap/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1818,15 +1818,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-token-roadmap]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-token-roadmap]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Partnerships</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/partnerships/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/partnerships/</link>
 		<pubDate>Thu, 22 Feb 2018 18:42:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/partnerships/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/partnerships/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1853,7 +1853,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-partnerships]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-partnerships]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -1882,10 +1882,10 @@
 	</item>
 	<item>
 		<title>The Press</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/the-press/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/the-press/</link>
 		<pubDate>Thu, 22 Feb 2018 18:42:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/the-press/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/the-press/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1936,15 +1936,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-the-press]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-the-press]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>test</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2612</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2612</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2612</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2612</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2003,10 +2003,10 @@
 	</item>
 	<item>
 		<title>test</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2614</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2614</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2614</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=2614</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2065,10 +2065,10 @@
 	</item>
 	<item>
 		<title>Hello world!</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/hello-world/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/hello-world/</link>
 		<pubDate>Wed, 12 Jul 2017 11:28:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2104,10 +2104,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Wed, 12 Jul 2017 11:29:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -2131,7 +2131,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)
 john@unitedthemes.com
 Reply-To: [your-email]
 
@@ -2144,7 +2144,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)
 [your-email]
 Reply-To: john@unitedthemes.com
 
@@ -2196,7 +2196,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)";s:9:"recipient";s:21:"john@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)";s:9:"recipient";s:21:"john@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -2204,7 +2204,7 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: john@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: john@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -2221,10 +2221,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/</link>
 		<pubDate>Wed, 12 Jul 2017 11:40:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?page_id=6</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section bklyn_section_anchor_id="Token Distribution"][vc_row][vc_column][ut_custom_heading tag="p" align="center" custom_border="yes" custom_border_bottom="yes" custom_border_style="double" custom_border_width="4" font_source="google" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:500%20bold%20regular%3A500%3Anormal" font_size="14" text_transform="uppercase" delay="true" custom_border_color="#2176ff" effect="fadeInUp" delay_timer="0"]Token Sale[/ut_custom_heading][ut_header align="global" font_weight="" delay="true" title="Token Distribution" effect="fadeInUp" delay_timer="50" delay_timer_lead="100"]KYC Required. Residents in China unable to participate. Unsold tokens are burned[/ut_header][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2" add_box_shadow_spacing="true" animate_once="yes" delay="true" effect="fadeIn" delay_timer="150"][ut_video_player caption_spacing="60" video_shadow="on" video_border="on" play_icon_style="solid" icon_pulsate="on" icon_pulsate_quick_options="off" icon_pulsate_amount_advanced="4" pulse_style_width_1="3" pulse_style_1="double" pulse_style_3="dashed" pulse_style_4="dotted" url="https://vimeo.com/226517043" poster="2287" play_color="#ffffff" play_bg_color="#d5124e" overlay_color="linear-gradient(to bottom, rgba(6, 24, 67, 0.9) 0%, rgba(5, 17, 46, 0.9) 100%)" pulse_color_1="#d5124e" pulse_color_2="#709be7" pulse_color_3="#d5124e" pulse_color_4="#709be7" caption="Explain Token Sale" css=".vc_custom_1519351074276{border-radius: 10px !important;}"][ut_fancy_list list_font_size="16" list_line_height="25" values="%5B%7B%22title%22%3A%22%3Cb%3EMax%20Cap%3A%3C%2Fb%3E%20%20%20%2420%20million%20USD%22%7D%2C%7B%22title%22%3A%22%3Cb%3ESupply%3A%3C%2Fb%3E%20%20%20%24186%20million%20tokens%22%7D%2C%7B%22title%22%3A%22%3Cb%3EWhitelist%20Date%3A%3C%2Fb%3E%20%20%20April%2019%2C%202020%22%7D%2C%7B%22title%22%3A%22%3Cb%3ESale%20Date%3A%3C%2Fb%3E%20%20%20May%201%2C%202020%22%7D%5D"][/vc_column][vc_column width="1/2"][ut_pie_chart chart_max_width="70" chart_align="center" legend_position="bottom-center" slices="%5B%7B%22slice_label%22%3A%22Maximum%20Token%20Amount%20For%20Sale%22%2C%22slice_color%22%3A%22%230f358e%22%2C%22slice_size%22%3A%2245%22%7D%2C%7B%22slice_label%22%3A%22Marketing%20%26%20Partner%20Support%22%2C%22slice_color%22%3A%22%23dc3d6e%22%2C%22slice_size%22%3A%228%22%7D%2C%7B%22slice_label%22%3A%22Team%22%2C%22slice_color%22%3A%22%233a59a2%22%2C%22slice_size%22%3A%2215%22%7D%2C%7B%22slice_label%22%3A%22Community%20Rewards%22%2C%22slice_color%22%3A%22%23d5124e%22%2C%22slice_size%22%3A%2232%22%7D%5D" slice_border_color="#ffffff"][/vc_column][/vc_row][/vc_section][vc_section bklyn_overlay="true" background_position="center top" section_separator_top="true" section_separator_svg_top="double_wave_1" section_separator_top_height="10" section_separator_bottom="true" section_separator_svg_bottom="double_wave_1" section_separator_bottom_height="10" css=".vc_custom_1519324816997{background-image: url(https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/33-bg.jpg?id=2287) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" bklyn_overlay_color="linear-gradient(to bottom, rgba(6, 24, 67, 0.9) 0%, rgba(5, 17, 46, 0.9) 100%)" section_separator_bottom_color_1="#ffffff" section_separator_top_color_1="#ffffff" bklyn_section_anchor_id="Token Features"][vc_row][vc_column][ut_custom_heading tag="p" custom_border="yes" custom_border_bottom="yes" custom_border_style="double" custom_border_width="4" font_source="google" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:500%20bold%20regular%3A500%3Anormal" font_size="14" text_transform="uppercase" delay="true" custom_border_color="#d5124e" effect="fadeInUp" delay_timer="0" color="#ffffff"]Built For The Cloud[/ut_custom_heading][ut_header align="left" font_weight="" delay="true" title="Token Features" effect="fadeInUp" delay_timer="50" delay_timer_lead="100" title_color="#ffffff" lead_color="#709be7"]BKLYN's web services are organized around a microservices architecture
 that provides a series of intelligent apps for building digital products.[/ut_header][/vc_column][/vc_row][vc_row][vc_column width="1/4" animate_once="yes" delay="true" effect="fadeInUp" delay_timer="150"][ut_service_column_vertical icon_type="bklynicons" align="left" animate_once="no" color="#d5124e" icon_bklyn="BklynIcons-Flying-Rocket" headline_color="#ffffff" text_color="#709be7" headline="Built For The New Token Economy"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.[/ut_service_column_vertical][/vc_column][vc_column width="1/4" animate_once="yes" delay="true" effect="fadeInUp" delay_timer="200"][ut_service_column_vertical icon_type="bklynicons" align="left" color="#d5124e" icon_bklyn="BklynIcons-Enlarge" headline_color="#ffffff" text_color="#709be7" headline="Optimized For The Best Experience"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.[/ut_service_column_vertical][/vc_column][vc_column width="1/4" animate_once="yes" delay="true" effect="fadeInUp" delay_timer="250"][ut_service_column_vertical icon_type="bklynicons" align="left" color="#d5124e" icon_bklyn="BklynIcons-Compas-Rose" headline_color="#ffffff" text_color="#709be7" headline="Open Chain Access Protocol"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.[/ut_service_column_vertical][/vc_column][vc_column width="1/4" animate_once="yes" delay="true" effect="fadeInUp" delay_timer="300"][ut_service_column_vertical icon_type="bklynicons" align="left" color="#d5124e" icon_bklyn="BklynIcons-Atom" headline_color="#ffffff" text_color="#709be7" headline="Build With An Open Standard"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.[/ut_service_column_vertical][/vc_column][/vc_row][vc_row][vc_column][ut_btn button_add_icon="yes" button_icon_type="fontawesome" button_effect="aylen" button_size="bklyn-btn-small" button_align="bklyn-btn-left" button_hover_shadow="yes" button_border_radius="50" button_custom_border="yes" button_border_width="2" delay="true" button_text="Join Whitelist" spacing="padding-top:12px;padding-right:40px;padding-bottom:12px;padding-left:40px" button_background_hover="rgba(213, 18, 78, 0.5)" effect="fadeInUp" delay_timer="350" button_text_color="#ffffff" button_background="rgba(213, 18, 78, 0.15)" button_background_hover_2="#d5124e" button_border_color="#d5124e" button_icon="fa fa-angle-double-right" button_link="url:https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1aGnZmH1HFkshb_DuoUxdx6fZof0sGtK5svtY1cqQ2wI%2Fedit||target:%20_blank|"][/vc_column][/vc_row][/vc_section][vc_section section_separator_bottom_width_color_1="#306efe" bklyn_section_anchor_id="Token Architecture" css=".vc_custom_1519324837775{background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_row][vc_column][ut_custom_heading tag="p" align="center" custom_border="yes" custom_border_bottom="yes" custom_border_style="double" custom_border_width="4" font_source="google" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:500%20bold%20regular%3A500%3Anormal" font_size="14" text_transform="uppercase" delay="true" custom_border_color="#2176ff" effect="fadeInUp" delay_timer="0"]How it Works[/ut_custom_heading][ut_header font_weight="" delay="true" title="Token Architecture" effect="fadeInUp" delay_timer="50" delay_timer_lead="100" css=".vc_custom_1519324794643{margin-bottom: 60px !important;}"]BKLYN is a global, decentralized cloud platform, focused on the provision
@@ -2946,10 +2946,10 @@ But getting those walk times in every day is not always possible.]]></wp:meta_va
 	</item>
 	<item>
 		<title>Dog Walkers</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=wpcf7_contact_form&#038;p=73</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=wpcf7_contact_form&#038;p=73</link>
 		<pubDate>Wed, 12 Jul 2017 15:24:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=wpcf7_contact_form&#038;p=73</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=wpcf7_contact_form&#038;p=73</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -2981,7 +2981,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn Dog Walkers (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)
+This e-mail was sent from a contact form on Brooklyn Dog Walkers (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)
 Reply-To: [your-email]
 
 
@@ -2994,7 +2994,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn Dog Walkers (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)
+This e-mail was sent from a contact form on Brooklyn Dog Walkers (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)
 Reply-To: john@unitedthemes.com
 
 
@@ -3070,7 +3070,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn Dog Walkers (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn Dog Walkers (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -3078,7 +3078,7 @@ This e-mail was sent from a contact form on Brooklyn Dog Walkers (http://themefo
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn Dog Walkers (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)";s:18:"additional_headers";s:31:"Reply-To: john@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn Dog Walkers (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33)";s:18:"additional_headers";s:31:"Reply-To: john@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -3095,10 +3095,10 @@ This e-mail was sent from a contact form on Brooklyn Dog Walkers (http://themefo
 	</item>
 	<item>
 		<title>my showcase</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/portfolio-manager/my-showcase/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/portfolio-manager/my-showcase/</link>
 		<pubDate>Mon, 17 Jul 2017 13:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=portfolio-manager&#038;p=108</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=portfolio-manager&#038;p=108</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3161,10 +3161,10 @@ This e-mail was sent from a contact form on Brooklyn Dog Walkers (http://themefo
 	</item>
 	<item>
 		<title>portfolio item</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/portfolio-item/portfolio-item/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/portfolio-item/portfolio-item/</link>
 		<pubDate>Mon, 17 Jul 2017 13:11:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=portfolio&#038;p=112</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=portfolio&#038;p=112</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content" css=".vc_custom_1477926378383{padding-right: 30px !important;padding-left: 30px !important;}"][vc_column width="1/2"][vc_custom_heading text="Portfolio Style 1" font_container="tag:h6|font_size:25px|text_align:left|color:%23dddddd" use_theme_fonts="yes" text_transform="uppercase" css=".vc_custom_1477933051608{margin-bottom: 10px !important;}"][ut_header align="left" title="Street View" title_color="#252525"]We have created an awesome theme that will help designers, developers and companies create websites for their startups quickly and easily.[/ut_header][vc_row_inner][vc_column_inner width="1/2"][vc_custom_heading text="Porsche Design" font_container="tag:h3|text_align:left|color:%23252525" use_theme_fonts="yes" text_transform="uppercase"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][ut_social_share_bar border="true" share_text="SHARE:" share_text_color="#252525" icon_color="#999999" border_color="#efefef"][/vc_column_inner][vc_column_inner width="1/2"][vc_custom_heading text="Way of Life" font_container="tag:h3|text_align:left|color:%23252525" use_theme_fonts="yes" text_transform="uppercase"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][ut_portfolio_details style="inline" values="%5B%7B%22title%22%3A%22CLIENT%3A%22%2C%22description%22%3A%22Envato%22%7D%2C%7B%22title%22%3A%22DATE%3A%22%2C%22description%22%3A%22October%2031%2C%202016%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22PROJECT%3A%22%2C%22description%22%3A%22www.yourlink.com%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2"][ut_image_gallery thumbnail_size="large" grid="2" gap="40" animate_once="yes" delay_animation="true" gallery="4881,4879,4880,4866"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3664,10 +3664,10 @@ This e-mail was sent from a contact form on Brooklyn Dog Walkers (http://themefo
 	</item>
 	<item>
 		<title>Ico Hero</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/ut-content-block/ico-hero__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/ut-content-block/ico-hero__trashed/</link>
 		<pubDate>Mon, 19 Feb 2018 16:58:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=ut-content-block&#038;p=2529</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=ut-content-block&#038;p=2529</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section full_height="yes" content_placement="middle" bklyn_overlay="true" background_position="center center" section_separator_bottom="true" section_separator_svg_bottom="diagonal" section_separator_bottom_height="100" css=".vc_custom_1518617461876{background-image: url(https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/33-bg.jpg?id=2287) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" bklyn_overlay_color="linear-gradient(to bottom, rgba(6, 24, 67, 0.9) 0%, rgba(5, 17, 46, 0.9) 100%)" section_separator_bottom_color_1="#ffffff"][vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][ut_custom_heading tag="p" custom_border="yes" custom_border_bottom="yes" custom_border_style="double" custom_border_width="4" font_source="google" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:500%20bold%20regular%3A500%3Anormal" font_size="14" text_transform="uppercase" delay="true" custom_border_color="#d5124e" effect="fadeInDown" delay_timer="0" color="#ffffff"]Decentralized Web Services[/ut_custom_heading][ut_header align="left" font_size="70" font_weight="700" line_height="70" lead_icon="true" delay="true" title="Brooklyn's
 Token Sale" css=".vc_custom_1518824394456{margin-bottom: 20px !important;}" effect="fadeInUp" delay_timer="50" lead_icon_fontawesome="fa fa-long-arrow-right" title_color="#ffffff" lead_color="#ffffff"][/ut_header][ut_countdown format="dHMS" cd_font_size="35" cd_font_weight="300" cp_font_weight="" delay="true" date="2020/04/19 00:00" cd_font_color="#ffffff" cp_font_color="#709be7" css=".vc_custom_1518824388833{margin-bottom: 20px !important;}" effect="fadeInUp" delay_timer="100"][ut_header align="left" font_size="70" font_weight="700" line_height="70" lead_icon="true" delay="true" css=".vc_custom_1518824383029{margin-bottom: 20px !important;}" effect="fadeInUp" delay_timer_lead="150" lead_icon_fontawesome="fa fa-long-arrow-right" title_color="#ffffff" lead_color="#ffffff" lead_icon_color="#709be7"]The Registration for BKLYN Token Sale Event is open.[/ut_header][ut_btn_group][ut_btn button_add_icon="yes" button_icon_type="fontawesome" button_add_lightbox="yes" button_lightbox_content="video" button_effect="aylen" button_size="bklyn-btn-small" button_hover_shadow="yes" button_border_radius="50" button_custom_border="yes" button_border_width="2" delay="true" button_text="introduction" spacing="padding-top:12px;padding-right:40px;padding-bottom:12px;padding-left:40px" button_lightbox_video="https://vimeo.com/226517043" button_background_hover="rgba(213, 18, 78, 0.5)" effect="fadeInUp" delay_timer="200" button_text_color="#ffffff" button_background="rgba(213, 18, 78, 0.15)" button_background_hover_2="#d5124e" button_border_color="#d5124e" button_icon="fa fa-play"][ut_btn button_add_icon="yes" button_icon_type="fontawesome" button_effect="aylen" button_size="bklyn-btn-small" button_hover_shadow="yes" button_border_radius="50" button_custom_border="yes" button_border_width="2" delay="true" button_text="Whitelist" button_link="url:https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1aGnZmH1HFkshb_DuoUxdx6fZof0sGtK5svtY1cqQ2wI%2Fedit||target:%20_blank|" spacing="padding-top:12px;padding-right:40px;padding-bottom:12px;padding-left:40px" effect="fadeInUp" delay_timer="250" button_background_hover="rgba(33, 118, 255, 0.5)" button_background_hover_2="#2176ff" button_background="rgba(33, 118, 255, 0.15)" button_text_color="#ffffff" button_icon="fa fa-angle-double-right" button_border_color="#2176ff" button_border_color_hover="#2176ff"][/ut_btn_group][/vc_column][vc_column width="1/2"][ut_animated_image size="full" align="right" delay="true" image="2285" effect="fadeIn" delay_timer="0"][/vc_column][/vc_row][vc_row hide_on_mobile="true"][vc_column effect="none"][ut_image_gallery thumbnail_size="full" grid="4" gap="40" lightbox="no" global_delay_animation="true" delay_animation="true" gallery="968,965,971,969,970,966,967,972" effect="bounceIn" global_delay_timer="300" delay_timer="200"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
@@ -3719,10 +3719,10 @@ Token Sale" css=".vc_custom_1518824394456{margin-bottom: 20px !important;}" effe
 	</item>
 	<item>
 		<title>Demo 33 - Hero Section (Visual Composer - Content Block)</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/ut-content-block/demo-33-hero-section-visual-composer-content-block/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/ut-content-block/demo-33-hero-section-visual-composer-content-block/</link>
 		<pubDate>Thu, 22 Feb 2018 13:18:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=ut-content-block&#038;p=2569</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?post_type=ut-content-block&#038;p=2569</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section full_height="yes" content_placement="middle" bklyn_overlay="true" background_position="center center" section_separator_bottom="true" section_separator_svg_bottom="diagonal" section_separator_bottom_height="100" hide_on_tablet="true" hide_on_mobile="true" css=".vc_custom_1519325224132{padding-bottom: 0px !important;background-image: url(https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/33-bg.jpg?id=2287) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" bklyn_overlay_color="linear-gradient(to bottom, rgba(6, 24, 67, 0.9) 0%, rgba(5, 17, 46, 0.9) 100%)" section_separator_bottom_color_1="#ffffff" el_name="Desktop Variant + Padding Bottom 0"][vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][ut_custom_heading tag="p" custom_border="yes" custom_border_bottom="yes" custom_border_style="double" custom_border_width="4" font_source="google" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:500%20bold%20regular%3A500%3Anormal" font_size="14" text_transform="uppercase" delay="true" custom_border_color="#d5124e" effect="fadeInUp" delay_timer="0" color="#ffffff"]Decentralized Web Services[/ut_custom_heading][ut_header align="left" font_size="70" font_weight="700" line_height="70" lead_icon="true" delay="true" title="Brooklyn's
 Token Sale" css=".vc_custom_1519229981000{margin-bottom: 20px !important;}" effect="fadeInUp" delay_timer="50" lead_icon_fontawesome="fa fa-long-arrow-right" title_color="#ffffff" lead_color="#ffffff"][/ut_header][ut_countdown format="dHMS" cd_font_size="35" cd_font_weight="300" cp_font_weight="" delay="true" date="2020/04/19 00:00" cd_font_color="#ffffff" cp_font_color="#709be7" css=".vc_custom_1519315158499{margin-bottom: 20px !important;}" effect="fadeInUp" delay_timer="200"][ut_header align="left" font_size="70" font_weight="700" line_height="70" lead_icon="true" delay="true" css=".vc_custom_1519146857778{margin-bottom: 20px !important;}" effect="fadeInUp" delay_timer_lead="150" lead_icon_fontawesome="fa fa-long-arrow-right" title_color="#ffffff" lead_color="#ffffff" lead_icon_color="#709be7"]The Registration for BKLYN Token Sale Event is open.[/ut_header][ut_btn_group][ut_btn button_add_icon="yes" button_icon_type="fontawesome" button_add_lightbox="yes" button_lightbox_content="video" button_effect="aylen" button_size="bklyn-btn-small" button_hover_shadow="yes" button_border_radius="50" button_custom_border="yes" button_border_width="2" delay="true" button_text="introduction" spacing="padding-top:12px;padding-right:40px;padding-bottom:12px;padding-left:40px" button_lightbox_video="https://vimeo.com/226517043" button_background_hover="rgba(213, 18, 78, 0.5)" effect="fadeInUp" delay_timer="200" button_text_color="#ffffff" button_background="rgba(213, 18, 78, 0.15)" button_background_hover_2="#d5124e" button_border_color="#d5124e" button_icon="fa fa-play"][ut_btn button_add_icon="yes" button_icon_type="fontawesome" button_effect="aylen" button_size="bklyn-btn-small" button_hover_shadow="yes" button_border_radius="50" button_custom_border="yes" button_border_width="2" delay="true" button_text="Whitelist" button_link="url:https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1aGnZmH1HFkshb_DuoUxdx6fZof0sGtK5svtY1cqQ2wI%2Fedit||target:%20_blank|" spacing="padding-top:12px;padding-right:40px;padding-bottom:12px;padding-left:40px" effect="fadeInUp" delay_timer="250" button_background_hover="rgba(33, 118, 255, 0.5)" button_background_hover_2="#2176ff" button_background="rgba(33, 118, 255, 0.15)" button_text_color="#ffffff" button_icon="fa fa-angle-double-right" button_border_color="#2176ff" button_border_color_hover="#2176ff"][/ut_btn_group][/vc_column][vc_column width="1/2"][ut_animated_image size="full" align="right" delay="true" image="2285" effect="fadeIn" delay_timer="0"][/vc_column][/vc_row][vc_row][vc_column effect="none"][ut_image_gallery thumbnail_size="full" grid="4" gap="40" lightbox="no" global_delay_animation="true" delay_animation="true" gallery="2625,2626,2624,2623,2622,2621,2619,2620" effect="bounceIn" global_delay_timer="300" delay_timer="200"][/vc_column][/vc_row][/vc_section][vc_section full_height="yes" content_placement="middle" bklyn_overlay="true" background_position="center center" section_separator_bottom="true" section_separator_svg_bottom="diagonal" section_separator_bottom_height="100" hide_on_desktop="true" hide_on_mobile="true" css=".vc_custom_1519325229764{padding-bottom: 0px !important;background-image: url(https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_33/2018/02/33-bg.jpg?id=2287) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" bklyn_overlay_color="linear-gradient(to bottom, rgba(6, 24, 67, 0.9) 0%, rgba(5, 17, 46, 0.9) 100%)" section_separator_bottom_color_1="#ffffff" el_name="Tablet Variant + Padding Bottom 0"][vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][ut_custom_heading tag="p" custom_border="yes" custom_border_bottom="yes" custom_border_style="double" custom_border_width="4" font_source="google" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:500%20bold%20regular%3A500%3Anormal" font_size="14" text_transform="uppercase" delay="true" custom_border_color="#d5124e" effect="fadeInUp" delay_timer="0" color="#ffffff"]Decentralized Web Services[/ut_custom_heading][ut_header align="left" font_size="70" font_weight="700" line_height="70" lead_icon="true" delay="true" title="Brooklyn's
@@ -3764,10 +3764,10 @@ Token Sale" css=".vc_custom_1519229981000{margin-bottom: 20px !important;}" effe
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/blog/</link>
 		<pubDate>Thu, 22 Feb 2018 13:59:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?page_id=2574</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/?page_id=2574</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4442,10 +4442,10 @@ Token Sale" css=".vc_custom_1519229981000{margin-bottom: 20px !important;}" effe
 	</item>
 	<item>
 		<title>Get in Touch</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/get-in-touch/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/get-in-touch/</link>
 		<pubDate>Thu, 22 Feb 2018 18:42:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/get-in-touch/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/get-in-touch/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4496,15 +4496,15 @@ Token Sale" css=".vc_custom_1519229981000{margin-bottom: 20px !important;}" effe
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-get-in-touch]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-get-in-touch]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Advisors &amp; Investors</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/advisors-and-investors/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/advisors-and-investors/</link>
 		<pubDate>Thu, 22 Feb 2018 23:17:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/advisors-and-investors/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/advisors-and-investors/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4523,7 +4523,7 @@ Token Sale" css=".vc_custom_1519229981000{margin-bottom: 20px !important;}" effe
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-advisors-and-investors]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo33/#section-advisors-and-investors]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>

@@ -5,8 +5,8 @@
 
 /*
  * Author: Digital Zoom Studio
- * Website: http://digitalzoomstudio.net/
- * Portfolio: http://codecanyon.net/user/ZoomIt/portfolio?ref=ZoomIt
+ * Website: https://digitalzoomstudio.net/
+ * Portfolio: https://codecanyon.net/user/ZoomIt/portfolio?ref=ZoomIt
  * This is not free software.
  * Advanced Scroller v1.44
  */

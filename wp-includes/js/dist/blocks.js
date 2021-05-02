@@ -349,7 +349,7 @@ function v4(options, buf, offset) {
  */
 
 var blockDefault = Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["SVG"], {
-  xmlns: "http://www.w3.org/2000/svg",
+  xmlns: "https://www.w3.org/2000/svg",
   viewBox: "0 0 24 24"
 }, Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])(_wordpress_primitives__WEBPACK_IMPORTED_MODULE_1__["Path"], {
   d: "M19 8h-1V6h-5v2h-2V6H6v2H5c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-8c0-1.1-.9-2-2-2zm.5 10c0 .3-.2.5-.5.5H5c-.3 0-.5-.2-.5-.5v-8c0-.3.2-.5.5-.5h14c.3 0 .5.2.5.5v8z"
@@ -3329,7 +3329,7 @@ var simpleURLRegex  = /([*~_]+|\b)(((https?|ftp|dict):\/\/|www\.)[^'">\s]+?\.[^'
             lmc    = leadingMagicChars || '',
             tmc    = trailingMagicChars || '';
         if (/^www\./i.test(link)) {
-          link = link.replace(/^www\./i, 'http://www.');
+          link = link.replace(/^www\./i, 'https://www.');
         }
         if (options.excludeTrailingPunctuationFromURLs && trailingPunctuation) {
           append = trailingPunctuation;
@@ -3700,7 +3700,7 @@ showdown.subParser('encodeAmpsAndAngles', function (text, options, globals) {
   text = globals.converter._dispatch('encodeAmpsAndAngles.before', text, options, globals);
 
   // Ampersand-encoding based entirely on Nat Irons's Amputator MT plugin:
-  // http://bumppo.net/projects/amputator/
+  // https://bumppo.net/projects/amputator/
   text = text.replace(/&(?!#?[xX]?(?:[0-9a-fA-F]+|\w+);)/g, '&amp;');
 
   // Encode naked <'s
@@ -4566,7 +4566,7 @@ showdown.subParser('lists', function (text, options, globals) {
   /** Start of list parsing **/
   text = globals.converter._dispatch('lists.before', text, options, globals);
   // add sentinel to hack around khtml/safari bug:
-  // http://bugs.webkit.org/show_bug.cgi?id=11231
+  // https://bugs.webkit.org/show_bug.cgi?id=11231
   text += '¨0';
 
   if (globals.gListLevel) {
@@ -4768,7 +4768,7 @@ showdown.subParser('spanGamut', function (text, options, globals) {
   text = showdown.subParser('images')(text, options, globals);
   text = showdown.subParser('anchors')(text, options, globals);
 
-  // Make links out of things like `<http://example.com/>`
+  // Make links out of things like `<https://example.com/>`
   // Must come after anchors, because you can use < and >
   // delimiters in inline links like [this](<url>).
   text = showdown.subParser('autoLinks')(text, options, globals);
@@ -10830,7 +10830,7 @@ var parser_toBooleanAttributeMatcher = function toBooleanAttributeMatcher(matche
 /**
  * Returns true if value is of the given JSON schema type, or false otherwise.
  *
- * @see http://json-schema.org/latest/json-schema-validation.html#rfc.section.6.25
+ * @see https://json-schema.org/latest/json-schema-validation.html#rfc.section.6.25
  *
  * @param {*}      value Value to test.
  * @param {string} type  Type to test.
@@ -10866,7 +10866,7 @@ function isOfType(value, type) {
  * Returns true if value is of an array of given JSON schema types, or false
  * otherwise.
  *
- * @see http://json-schema.org/latest/json-schema-validation.html#rfc.section.6.25
+ * @see https://json-schema.org/latest/json-schema-validation.html#rfc.section.6.25
  *
  * @param {*}        value Value to test.
  * @param {string[]} types Types to test.
@@ -13188,12 +13188,12 @@ tinycolor.prototype = {
         return this._a;
     },
     getBrightness: function() {
-        //http://www.w3.org/TR/AERT#color-contrast
+        //https://www.w3.org/TR/AERT#color-contrast
         var rgb = this.toRgb();
         return (rgb.r * 299 + rgb.g * 587 + rgb.b * 114) / 1000;
     },
     getLuminance: function() {
-        //http://www.w3.org/TR/2008/REC-WCAG20-20081211/#relativeluminancedef
+        //https://www.w3.org/TR/2008/REC-WCAG20-20081211/#relativeluminancedef
         var rgb = this.toRgb();
         var RsRGB, GsRGB, BsRGB, R, G, B;
         RsRGB = rgb.r/255;
@@ -13479,11 +13479,11 @@ function inputToRGB(color) {
 // --------------------
 
 // `rgbToHsl`, `rgbToHsv`, `hslToRgb`, `hsvToRgb` modified from:
-// <http://mjijackson.com/2008/02/rgb-to-hsl-and-rgb-to-hsv-color-model-conversion-algorithms-in-javascript>
+// <https://mjijackson.com/2008/02/rgb-to-hsl-and-rgb-to-hsv-color-model-conversion-algorithms-in-javascript>
 
 // `rgbToRgb`
 // Handle bounds / percentage checking to conform to CSS color spec
-// <http://www.w3.org/TR/css3-color/>
+// <https://www.w3.org/TR/css3-color/>
 // *Assumes:* r, g, b in [0, 255] or [0, 1]
 // *Returns:* { r, g, b } in [0, 255]
 function rgbToRgb(r, g, b){
@@ -13839,7 +13839,7 @@ tinycolor.mix = function(color1, color2, amount) {
 
 // Readability Functions
 // ---------------------
-// <http://www.w3.org/TR/2008/REC-WCAG20-20081211/#contrast-ratiodef (WCAG Version 2)
+// <https://www.w3.org/TR/2008/REC-WCAG20-20081211/#contrast-ratiodef (WCAG Version 2)
 
 // `contrast`
 // Analyze the 2 colors and returns the color contrast defined by (WCAG Version 2)
@@ -13921,7 +13921,7 @@ tinycolor.mostReadable = function(baseColor, colorList, args) {
 
 // Big List of Colors
 // ------------------
-// <http://www.w3.org/TR/css3-color/#svg-color>
+// <https://www.w3.org/TR/css3-color/#svg-color>
 var names = tinycolor.names = {
     aliceblue: "f0f8ff",
     antiquewhite: "faebd7",
@@ -14135,7 +14135,7 @@ function parseIntFromHex(val) {
 }
 
 // Need to handle 1.0 as 100%, since once it is a number, there is no difference between it and 1
-// <http://stackoverflow.com/questions/7422072/javascript-how-to-detect-number-as-a-decimal-including-1-0>
+// <https://stackoverflow.com/questions/7422072/javascript-how-to-detect-number-as-a-decimal-including-1-0>
 function isOnePointZero(n) {
     return typeof n == "string" && n.indexOf('.') != -1 && parseFloat(n) === 1;
 }
@@ -14170,10 +14170,10 @@ function convertHexToDecimal(h) {
 
 var matchers = (function() {
 
-    // <http://www.w3.org/TR/css3-values/#integers>
+    // <https://www.w3.org/TR/css3-values/#integers>
     var CSS_INTEGER = "[-\\+]?\\d+%?";
 
-    // <http://www.w3.org/TR/css3-values/#number-value>
+    // <https://www.w3.org/TR/css3-values/#number-value>
     var CSS_NUMBER = "[-\\+]?\\d*\\.\\d+%?";
 
     // Allow positive/negative integer/number.  Don't capture the either/or, just the entire outcome.

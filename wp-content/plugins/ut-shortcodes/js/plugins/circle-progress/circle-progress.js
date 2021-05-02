@@ -1,6 +1,6 @@
 /**
  * jquery-circle-progress - jQuery Plugin to draw animated circular progress bars:
- * {@link http://kottenator.github.io/jquery-circle-progress/}
+ * {@link https://kottenator.github.io/jquery-circle-progress/}
  *
  * @author Rostyslav Bryzgunov <kottenator@gmail.com>
  * @version 1.2.0
@@ -91,9 +91,9 @@
      *     - `{ gradient: ['red', 'green', 'blue'], gradientDirection: [x0, y0, x1, y1] }`
      *     - `{ gradient: [["red", .2], ["green", .3], ["blue", .8]] }`
      *   - image:
-     *     - `{ image: 'http://i.imgur.com/pT0i89v.png' }`
+     *     - `{ image: 'https://i.imgur.com/pT0i89v.png' }`
      *     - `{ image: imageObject }`
-     *     - `{ color: 'lime', image: 'http://i.imgur.com/pT0i89v.png' }` -
+     *     - `{ color: 'lime', image: 'https://i.imgur.com/pT0i89v.png' }` -
      *       color displayed until the image is loaded
      *
      * @default {gradient: ['#3aeabb', '#fdd250']}
@@ -112,7 +112,7 @@
     /**
      * jQuery Animation config.
      * You can pass `false` to disable the animation.
-     * @see http://api.jquery.com/animate/
+     * @see https://api.jquery.com/animate/
      * @type {object|boolean}
      * @default {duration: 1200, easing: 'circleProgressEasing'}
      */

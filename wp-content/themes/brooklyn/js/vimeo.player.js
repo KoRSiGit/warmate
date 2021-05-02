@@ -66,7 +66,7 @@
     /**
      * Check to see whether the value is a number.
      *
-     * @see http://dl.dropboxusercontent.com/u/35146/js/tests/isNumber.html
+     * @see https://dl.dropboxusercontent.com/u/35146/js/tests/isNumber.html
      * @param {*} value The value to check.
      * @param {boolean} integer Check if the value is an integer.
      * @return {boolean}
@@ -109,7 +109,7 @@
         }
 
         if (isVimeoUrl(idOrUrl)) {
-            return idOrUrl.replace('http:', 'https:');
+            return idOrUrl.replace('https:', 'https:');
         }
 
         if (id) {
@@ -267,7 +267,7 @@
     var npo_src = createCommonjsModule(function (module) {
         /*! Native Promise Only
             v0.8.1 (c) Kyle Simpson
-            MIT License: http://getify.mit-license.org
+            MIT License: https://getify.mit-license.org
         */
         (function UMD(name, context, definition) {
             // special form of UMD for polyfilling across evironments

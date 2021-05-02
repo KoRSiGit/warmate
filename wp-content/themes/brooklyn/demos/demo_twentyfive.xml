@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.7.4" created="2017-05-13 23:02" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>Brooklyn</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25</link>
 	<description>Demo 25</description>
 	<pubDate>Sat, 13 May 2017 23:02:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -64,10 +64,10 @@
 
 	<item>
 		<title>andrew-ridley-54228</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/andrew-ridley-54228/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/andrew-ridley-54228/</link>
 		<pubDate>Sat, 13 May 2017 00:34:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -83,22 +83,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/andrew-ridley-54228.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3914;s:6:"height";i:2935;s:14:"hwstring_small";s:23:"height='96' width='128'";s:4:"file";s:31:"2017/05/andrew-ridley-54228.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:31:"andrew-ridley-54228-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/andrew-ridley-54228-150x150.jpg";s:3:"url";s:121:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:31:"andrew-ridley-54228-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:31:"andrew-ridley-54228-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/andrew-ridley-54228-768x576.jpg";s:3:"url";s:121:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228-768x576.jpg";}s:5:"large";a:6:{s:4:"file";s:33:"andrew-ridley-54228-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/andrew-ridley-54228-1024x1024.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:31:"andrew-ridley-54228-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/andrew-ridley-54228-806x300.jpg";s:3:"url";s:121:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3914;s:6:"height";i:2935;s:14:"hwstring_small";s:23:"height='96' width='128'";s:4:"file";s:31:"2017/05/andrew-ridley-54228.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:31:"andrew-ridley-54228-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/andrew-ridley-54228-150x150.jpg";s:3:"url";s:121:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:31:"andrew-ridley-54228-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:31:"andrew-ridley-54228-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/andrew-ridley-54228-768x576.jpg";s:3:"url";s:121:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228-768x576.jpg";}s:5:"large";a:6:{s:4:"file";s:33:"andrew-ridley-54228-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/andrew-ridley-54228-1024x1024.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:31:"andrew-ridley-54228-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/andrew-ridley-54228-806x300.jpg";s:3:"url";s:121:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/andrew-ridley-54228-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>fav-32</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-32/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-32/</link>
 		<pubDate>Sat, 13 May 2017 00:50:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-32.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-32.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -114,7 +114,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-32.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-32.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/fav-32.png]]></wp:meta_value>
@@ -126,10 +126,10 @@
 	</item>
 	<item>
 		<title>fav-57</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-57/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-57/</link>
 		<pubDate>Sat, 13 May 2017 00:50:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-57.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-57.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -145,7 +145,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-57.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-57.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/fav-57.png]]></wp:meta_value>
@@ -157,10 +157,10 @@
 	</item>
 	<item>
 		<title>fav-72</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-72/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-72/</link>
 		<pubDate>Sat, 13 May 2017 00:50:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-72.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-72.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -176,7 +176,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-72.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-72.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/fav-72.png]]></wp:meta_value>
@@ -188,10 +188,10 @@
 	</item>
 	<item>
 		<title>fav-114</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-114/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-114/</link>
 		<pubDate>Sat, 13 May 2017 00:50:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-114.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-114.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -207,7 +207,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-114.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-114.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/fav-114.png]]></wp:meta_value>
@@ -219,10 +219,10 @@
 	</item>
 	<item>
 		<title>fav-144</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-144/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/fav-144/</link>
 		<pubDate>Sat, 13 May 2017 00:50:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-144.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-144.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -238,7 +238,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-144.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/fav-144.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/fav-144.png]]></wp:meta_value>
@@ -250,10 +250,10 @@
 	</item>
 	<item>
 		<title>felix-russell-saw-182331</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/felix-russell-saw-182331/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/felix-russell-saw-182331/</link>
 		<pubDate>Sat, 13 May 2017 01:22:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -269,22 +269,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/felix-russell-saw-182331.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3500;s:6:"height";i:2333;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:36:"2017/05/felix-russell-saw-182331.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:36:"felix-russell-saw-182331-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/felix-russell-saw-182331-150x150.jpg";s:3:"url";s:126:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:36:"felix-russell-saw-182331-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:36:"felix-russell-saw-182331-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/felix-russell-saw-182331-768x512.jpg";s:3:"url";s:126:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:38:"felix-russell-saw-182331-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:46:"2017/05/felix-russell-saw-182331-1024x1024.jpg";s:3:"url";s:128:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:36:"felix-russell-saw-182331-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/felix-russell-saw-182331-806x300.jpg";s:3:"url";s:126:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3500;s:6:"height";i:2333;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:36:"2017/05/felix-russell-saw-182331.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:36:"felix-russell-saw-182331-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/felix-russell-saw-182331-150x150.jpg";s:3:"url";s:126:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:36:"felix-russell-saw-182331-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:36:"felix-russell-saw-182331-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/felix-russell-saw-182331-768x512.jpg";s:3:"url";s:126:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:38:"felix-russell-saw-182331-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:46:"2017/05/felix-russell-saw-182331-1024x1024.jpg";s:3:"url";s:128:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:36:"felix-russell-saw-182331-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/felix-russell-saw-182331-806x300.jpg";s:3:"url";s:126:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/felix-russell-saw-182331-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>frances-gunn-39238</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/frances-gunn-39238/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/frances-gunn-39238/</link>
 		<pubDate>Sat, 13 May 2017 01:22:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -300,22 +300,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/frances-gunn-39238.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1286;s:14:"hwstring_small";s:23:"height='80' width='128'";s:4:"file";s:30:"2017/05/frances-gunn-39238.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"frances-gunn-39238-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/frances-gunn-39238-150x150.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"frances-gunn-39238-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"frances-gunn-39238-768x482.jpg";s:5:"width";i:768;s:6:"height";i:482;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/frances-gunn-39238-768x482.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238-768x482.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"frances-gunn-39238-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/frances-gunn-39238-1024x1024.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"frances-gunn-39238-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/frances-gunn-39238-806x300.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1146x720";}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1286;s:14:"hwstring_small";s:23:"height='80' width='128'";s:4:"file";s:30:"2017/05/frances-gunn-39238.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"frances-gunn-39238-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/frances-gunn-39238-150x150.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"frances-gunn-39238-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"frances-gunn-39238-768x482.jpg";s:5:"width";i:768;s:6:"height";i:482;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/frances-gunn-39238-768x482.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238-768x482.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"frances-gunn-39238-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/frances-gunn-39238-1024x1024.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"frances-gunn-39238-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/frances-gunn-39238-806x300.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/frances-gunn-39238-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1146x720";}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>gabriel-santiago-1596</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/gabriel-santiago-1596/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/gabriel-santiago-1596/</link>
 		<pubDate>Sat, 13 May 2017 01:22:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -331,22 +331,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/gabriel-santiago-1596.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5184;s:6:"height";i:3456;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:33:"2017/05/gabriel-santiago-1596.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:33:"gabriel-santiago-1596-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/gabriel-santiago-1596-150x150.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:33:"gabriel-santiago-1596-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:33:"gabriel-santiago-1596-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/gabriel-santiago-1596-768x512.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:35:"gabriel-santiago-1596-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/gabriel-santiago-1596-1024x1024.jpg";s:3:"url";s:125:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:33:"gabriel-santiago-1596-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/gabriel-santiago-1596-806x300.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5184;s:6:"height";i:3456;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:33:"2017/05/gabriel-santiago-1596.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:33:"gabriel-santiago-1596-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/gabriel-santiago-1596-150x150.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:33:"gabriel-santiago-1596-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:33:"gabriel-santiago-1596-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/gabriel-santiago-1596-768x512.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:35:"gabriel-santiago-1596-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/gabriel-santiago-1596-1024x1024.jpg";s:3:"url";s:125:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:33:"gabriel-santiago-1596-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/gabriel-santiago-1596-806x300.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/gabriel-santiago-1596-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>george-hiles-114418</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/george-hiles-114418/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/george-hiles-114418/</link>
 		<pubDate>Sat, 13 May 2017 01:23:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -362,22 +362,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/george-hiles-114418.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3420;s:6:"height";i:2276;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:31:"2017/05/george-hiles-114418.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:31:"george-hiles-114418-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/george-hiles-114418-150x150.jpg";s:3:"url";s:121:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:31:"george-hiles-114418-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:31:"george-hiles-114418-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/george-hiles-114418-768x511.jpg";s:3:"url";s:121:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418-768x511.jpg";}s:5:"large";a:6:{s:4:"file";s:33:"george-hiles-114418-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/george-hiles-114418-1024x1024.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:31:"george-hiles-114418-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/george-hiles-114418-806x300.jpg";s:3:"url";s:121:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3420;s:6:"height";i:2276;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:31:"2017/05/george-hiles-114418.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:31:"george-hiles-114418-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/george-hiles-114418-150x150.jpg";s:3:"url";s:121:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:31:"george-hiles-114418-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:31:"george-hiles-114418-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/george-hiles-114418-768x511.jpg";s:3:"url";s:121:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418-768x511.jpg";}s:5:"large";a:6:{s:4:"file";s:33:"george-hiles-114418-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/george-hiles-114418-1024x1024.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:31:"george-hiles-114418-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/george-hiles-114418-806x300.jpg";s:3:"url";s:121:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/george-hiles-114418-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>greg-shield-1810</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/greg-shield-1810/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/greg-shield-1810/</link>
 		<pubDate>Sat, 13 May 2017 01:23:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -393,22 +393,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/greg-shield-1810.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5760;s:6:"height";i:3840;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2017/05/greg-shield-1810.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:28:"greg-shield-1810-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:36:"2017/05/greg-shield-1810-150x150.jpg";s:3:"url";s:118:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:28:"greg-shield-1810-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:28:"greg-shield-1810-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:36:"2017/05/greg-shield-1810-768x512.jpg";s:3:"url";s:118:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:30:"greg-shield-1810-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/greg-shield-1810-1024x1024.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:28:"greg-shield-1810-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:36:"2017/05/greg-shield-1810-806x300.jpg";s:3:"url";s:118:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5760;s:6:"height";i:3840;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:28:"2017/05/greg-shield-1810.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:28:"greg-shield-1810-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:36:"2017/05/greg-shield-1810-150x150.jpg";s:3:"url";s:118:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:28:"greg-shield-1810-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:28:"greg-shield-1810-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:36:"2017/05/greg-shield-1810-768x512.jpg";s:3:"url";s:118:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:30:"greg-shield-1810-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/greg-shield-1810-1024x1024.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:28:"greg-shield-1810-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:36:"2017/05/greg-shield-1810-806x300.jpg";s:3:"url";s:118:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/greg-shield-1810-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>ilya-ilyukhin-128033</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/ilya-ilyukhin-128033/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/ilya-ilyukhin-128033/</link>
 		<pubDate>Sat, 13 May 2017 01:23:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -424,22 +424,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/ilya-ilyukhin-128033.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2842;s:6:"height";i:2842;s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:32:"2017/05/ilya-ilyukhin-128033.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:32:"ilya-ilyukhin-128033-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/ilya-ilyukhin-128033-150x150.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:32:"ilya-ilyukhin-128033-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:32:"ilya-ilyukhin-128033-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/ilya-ilyukhin-128033-768x768.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033-768x768.jpg";}s:5:"large";a:6:{s:4:"file";s:34:"ilya-ilyukhin-128033-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/ilya-ilyukhin-128033-1024x1024.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:32:"ilya-ilyukhin-128033-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/ilya-ilyukhin-128033-806x300.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2842;s:6:"height";i:2842;s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:32:"2017/05/ilya-ilyukhin-128033.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:32:"ilya-ilyukhin-128033-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/ilya-ilyukhin-128033-150x150.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:32:"ilya-ilyukhin-128033-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:32:"ilya-ilyukhin-128033-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/ilya-ilyukhin-128033-768x768.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033-768x768.jpg";}s:5:"large";a:6:{s:4:"file";s:34:"ilya-ilyukhin-128033-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/ilya-ilyukhin-128033-1024x1024.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:32:"ilya-ilyukhin-128033-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/ilya-ilyukhin-128033-806x300.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/ilya-ilyukhin-128033-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>jay-mantri-4033</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/jay-mantri-4033/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/jay-mantri-4033/</link>
 		<pubDate>Sat, 13 May 2017 01:23:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -455,22 +455,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/jay-mantri-4033.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2200;s:6:"height";i:1467;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2017/05/jay-mantri-4033.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:27:"jay-mantri-4033-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/jay-mantri-4033-150x150.jpg";s:3:"url";s:117:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:27:"jay-mantri-4033-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:27:"jay-mantri-4033-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/jay-mantri-4033-768x512.jpg";s:3:"url";s:117:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:29:"jay-mantri-4033-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/jay-mantri-4033-1024x1024.jpg";s:3:"url";s:119:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:27:"jay-mantri-4033-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/jay-mantri-4033-806x300.jpg";s:3:"url";s:117:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2200;s:6:"height";i:1467;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2017/05/jay-mantri-4033.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:27:"jay-mantri-4033-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/jay-mantri-4033-150x150.jpg";s:3:"url";s:117:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:27:"jay-mantri-4033-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:27:"jay-mantri-4033-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/jay-mantri-4033-768x512.jpg";s:3:"url";s:117:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:29:"jay-mantri-4033-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/jay-mantri-4033-1024x1024.jpg";s:3:"url";s:119:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:27:"jay-mantri-4033-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/jay-mantri-4033-806x300.jpg";s:3:"url";s:117:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/jay-mantri-4033-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>karsten-wurth-126084</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/karsten-wurth-126084/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/karsten-wurth-126084/</link>
 		<pubDate>Sat, 13 May 2017 01:23:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -486,22 +486,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/karsten-wurth-126084.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5472;s:6:"height";i:3648;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:32:"2017/05/karsten-wurth-126084.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:32:"karsten-wurth-126084-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/karsten-wurth-126084-150x150.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:32:"karsten-wurth-126084-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:32:"karsten-wurth-126084-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/karsten-wurth-126084-768x512.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:34:"karsten-wurth-126084-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/karsten-wurth-126084-1024x1024.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:32:"karsten-wurth-126084-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/karsten-wurth-126084-806x300.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5472;s:6:"height";i:3648;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:32:"2017/05/karsten-wurth-126084.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:32:"karsten-wurth-126084-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/karsten-wurth-126084-150x150.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:32:"karsten-wurth-126084-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:32:"karsten-wurth-126084-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/karsten-wurth-126084-768x512.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:34:"karsten-wurth-126084-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/karsten-wurth-126084-1024x1024.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:32:"karsten-wurth-126084-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/karsten-wurth-126084-806x300.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/karsten-wurth-126084-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>lee-aik-soon-39275</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/lee-aik-soon-39275/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/lee-aik-soon-39275/</link>
 		<pubDate>Sat, 13 May 2017 01:24:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -517,22 +517,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/lee-aik-soon-39275.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4900;s:6:"height";i:3267;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:30:"2017/05/lee-aik-soon-39275.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"lee-aik-soon-39275-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/lee-aik-soon-39275-150x150.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"lee-aik-soon-39275-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"lee-aik-soon-39275-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/lee-aik-soon-39275-768x512.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"lee-aik-soon-39275-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/lee-aik-soon-39275-1024x1024.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"lee-aik-soon-39275-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/lee-aik-soon-39275-806x300.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4900;s:6:"height";i:3267;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:30:"2017/05/lee-aik-soon-39275.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"lee-aik-soon-39275-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/lee-aik-soon-39275-150x150.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"lee-aik-soon-39275-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"lee-aik-soon-39275-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/lee-aik-soon-39275-768x512.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"lee-aik-soon-39275-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/lee-aik-soon-39275-1024x1024.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"lee-aik-soon-39275-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/lee-aik-soon-39275-806x300.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/lee-aik-soon-39275-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>marta-pawlik-37689</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/marta-pawlik-37689/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/marta-pawlik-37689/</link>
 		<pubDate>Sat, 13 May 2017 01:24:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -548,22 +548,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/marta-pawlik-37689.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3000;s:6:"height";i:2000;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:30:"2017/05/marta-pawlik-37689.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"marta-pawlik-37689-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/marta-pawlik-37689-150x150.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"marta-pawlik-37689-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"marta-pawlik-37689-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/marta-pawlik-37689-768x512.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"marta-pawlik-37689-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/marta-pawlik-37689-1024x1024.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"marta-pawlik-37689-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/marta-pawlik-37689-806x300.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:2:{i:0;s:7:"826x464";i:1;s:10:"826x464@2x";}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3000;s:6:"height";i:2000;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:30:"2017/05/marta-pawlik-37689.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"marta-pawlik-37689-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/marta-pawlik-37689-150x150.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"marta-pawlik-37689-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"marta-pawlik-37689-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/marta-pawlik-37689-768x512.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"marta-pawlik-37689-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/marta-pawlik-37689-1024x1024.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"marta-pawlik-37689-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/marta-pawlik-37689-806x300.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/marta-pawlik-37689-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:2:{i:0;s:7:"826x464";i:1;s:10:"826x464@2x";}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>michael-hull-2283</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/michael-hull-2283/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/michael-hull-2283/</link>
 		<pubDate>Sat, 13 May 2017 01:24:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -579,22 +579,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/michael-hull-2283.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5184;s:6:"height";i:3456;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:29:"2017/05/michael-hull-2283.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:29:"michael-hull-2283-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/michael-hull-2283-150x150.jpg";s:3:"url";s:119:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:29:"michael-hull-2283-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:29:"michael-hull-2283-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/michael-hull-2283-768x512.jpg";s:3:"url";s:119:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:31:"michael-hull-2283-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/michael-hull-2283-1024x1024.jpg";s:3:"url";s:121:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:29:"michael-hull-2283-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/michael-hull-2283-806x300.jpg";s:3:"url";s:119:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5184;s:6:"height";i:3456;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:29:"2017/05/michael-hull-2283.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:29:"michael-hull-2283-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/michael-hull-2283-150x150.jpg";s:3:"url";s:119:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:29:"michael-hull-2283-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:29:"michael-hull-2283-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/michael-hull-2283-768x512.jpg";s:3:"url";s:119:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:31:"michael-hull-2283-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:39:"2017/05/michael-hull-2283-1024x1024.jpg";s:3:"url";s:121:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:29:"michael-hull-2283-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/michael-hull-2283-806x300.jpg";s:3:"url";s:119:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/michael-hull-2283-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>nathan-anderson-111072</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/nathan-anderson-111072/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/nathan-anderson-111072/</link>
 		<pubDate>Sat, 13 May 2017 01:24:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -610,22 +610,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/nathan-anderson-111072.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:6016;s:6:"height";i:4016;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:34:"2017/05/nathan-anderson-111072.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:34:"nathan-anderson-111072-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-111072-150x150.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:34:"nathan-anderson-111072-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:34:"nathan-anderson-111072-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-111072-768x513.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072-768x513.jpg";}s:5:"large";a:6:{s:4:"file";s:36:"nathan-anderson-111072-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/nathan-anderson-111072-1024x1024.jpg";s:3:"url";s:126:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:34:"nathan-anderson-111072-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-111072-806x300.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1078x720";}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:6016;s:6:"height";i:4016;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:34:"2017/05/nathan-anderson-111072.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:34:"nathan-anderson-111072-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-111072-150x150.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:34:"nathan-anderson-111072-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:34:"nathan-anderson-111072-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-111072-768x513.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072-768x513.jpg";}s:5:"large";a:6:{s:4:"file";s:36:"nathan-anderson-111072-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/nathan-anderson-111072-1024x1024.jpg";s:3:"url";s:126:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:34:"nathan-anderson-111072-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-111072-806x300.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-111072-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1078x720";}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>nathan-anderson-133041</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/nathan-anderson-133041/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/nathan-anderson-133041/</link>
 		<pubDate>Sat, 13 May 2017 01:24:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -641,22 +641,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/nathan-anderson-133041.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5789;s:6:"height";i:3864;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:34:"2017/05/nathan-anderson-133041.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:34:"nathan-anderson-133041-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-133041-150x150.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:34:"nathan-anderson-133041-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:34:"nathan-anderson-133041-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-133041-768x513.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041-768x513.jpg";}s:5:"large";a:6:{s:4:"file";s:36:"nathan-anderson-133041-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/nathan-anderson-133041-1024x1024.jpg";s:3:"url";s:126:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:34:"nathan-anderson-133041-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-133041-806x300.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1078x720";}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5789;s:6:"height";i:3864;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:34:"2017/05/nathan-anderson-133041.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:34:"nathan-anderson-133041-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-133041-150x150.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:34:"nathan-anderson-133041-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:34:"nathan-anderson-133041-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-133041-768x513.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041-768x513.jpg";}s:5:"large";a:6:{s:4:"file";s:36:"nathan-anderson-133041-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/nathan-anderson-133041-1024x1024.jpg";s:3:"url";s:126:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:34:"nathan-anderson-133041-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/nathan-anderson-133041-806x300.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nathan-anderson-133041-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1078x720";}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>nick-scheerbart-32085</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/nick-scheerbart-32085/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/nick-scheerbart-32085/</link>
 		<pubDate>Sat, 13 May 2017 01:25:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -672,22 +672,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/nick-scheerbart-32085.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4902;s:6:"height";i:3268;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:33:"2017/05/nick-scheerbart-32085.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:33:"nick-scheerbart-32085-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/nick-scheerbart-32085-150x150.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:33:"nick-scheerbart-32085-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:33:"nick-scheerbart-32085-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/nick-scheerbart-32085-768x512.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:35:"nick-scheerbart-32085-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/nick-scheerbart-32085-1024x1024.jpg";s:3:"url";s:125:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:33:"nick-scheerbart-32085-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/nick-scheerbart-32085-806x300.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4902;s:6:"height";i:3268;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:33:"2017/05/nick-scheerbart-32085.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:33:"nick-scheerbart-32085-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/nick-scheerbart-32085-150x150.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:33:"nick-scheerbart-32085-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:33:"nick-scheerbart-32085-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/nick-scheerbart-32085-768x512.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:35:"nick-scheerbart-32085-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/nick-scheerbart-32085-1024x1024.jpg";s:3:"url";s:125:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:33:"nick-scheerbart-32085-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/nick-scheerbart-32085-806x300.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/nick-scheerbart-32085-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>News</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/news/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/news/</link>
 		<pubDate>Sat, 13 May 2017 00:03:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=6</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1070,10 +1070,10 @@
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/</link>
 		<pubDate>Sat, 13 May 2017 00:04:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=8</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces"][vc_column][ut_image_gallery thumbnail_size="large" grid="4" caption="yes" animate_once="yes" delay_animation="true" gallery="36,78,67,68,69,76,70,71,72,73,74,75,77,79,80,87,88,89,90,91" delay_timer="100" effect="fadeIn"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1474,10 +1474,10 @@ inspirations on Pinterest and save all my pics at Instagram.]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/home/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/home/</link>
 		<pubDate>Sat, 13 May 2017 00:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=14</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1537,10 +1537,10 @@ inspirations on Pinterest and save all my pics at Instagram.]]></wp:meta_value>
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/15/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/15/</link>
 		<pubDate>Sat, 13 May 2017 00:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=15</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1600,10 +1600,10 @@ inspirations on Pinterest and save all my pics at Instagram.]]></wp:meta_value>
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/about/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/about/</link>
 		<pubDate>Sat, 13 May 2017 00:42:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=43</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=43</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content" css=".vc_custom_1477926378383{padding-right: 30px !important;padding-left: 30px !important;}"][vc_column width="1/2"][ut_header align="left" title="What We Do..." title_color="#252525"]We have created an awesome theme that will help designers, developers and companies create websites for their startups quickly and easily.[/ut_header][vc_row_inner][vc_column_inner width="1/2"][vc_custom_heading text="Nature Photography" font_container="tag:h3|text_align:left|color:%23252525" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -1665,7 +1665,7 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:16:"background-image";s:109:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/Hero-About-Page.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:16:"background-image";s:109:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/Hero-About-Page.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -2007,10 +2007,10 @@ and companies create websites for their startups quickly and easily.]]></wp:meta
 	</item>
 	<item>
 		<title>Contact</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/contact/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/contact/</link>
 		<pubDate>Sat, 13 May 2017 00:42:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=45</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content"][vc_column][ut_header align="left" title="Let's Start Our Journey..." title_color="#252525"]We have created an awesome theme that will help designers, developers,
 and companies create websites for their startups quickly and easily.[/ut_header][/vc_column][/vc_row][vc_row full_width="stretch_row_content"][vc_column width="1/2"][vc_custom_heading text="Tell us your story" font_container="tag:h3|text_align:left|color:%23252525" use_theme_fonts="yes"][contact-form-7 id="134"][vc_empty_space height="20px"][ut_social_share_bar share_text="SHARE:" border="true" share_text_color="#252525" icon_color="#999999" border_color="#efefef"][/vc_column][vc_column width="1/2"][/vc_column][/vc_row]]]></content:encoded>
@@ -2394,10 +2394,10 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 	</item>
 	<item>
 		<title>Private</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/private/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/private/</link>
 		<pubDate>Sat, 13 May 2017 00:43:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=47</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?page_id=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content"][vc_column][ut_image_gallery thumbnail_size="large" grid="5" gap="20" caption="yes" animate_once="yes" delay_animation="true" gallery="36,78,67,68,69,76,70,71,72,73,74,75,77,79,80,87,88,89,90,91" delay_timer="100" effect="fadeIn"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2784,10 +2784,10 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/49/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/49/</link>
 		<pubDate>Sat, 13 May 2017 00:43:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=49</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2847,10 +2847,10 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/50/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/50/</link>
 		<pubDate>Sat, 13 May 2017 00:43:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=50</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2910,10 +2910,10 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/51/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/51/</link>
 		<pubDate>Sat, 13 May 2017 00:43:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=51</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2973,10 +2973,10 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 	</item>
 	<item>
 		<title>Templates</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/templates/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/templates/</link>
 		<pubDate>Sat, 13 May 2017 00:50:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=53</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3027,15 +3027,15 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://unitedthemes.com/previews/brooklyn/#section-demos-demos-demos]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://unitedthemes.com/previews/brooklyn/#section-demos-demos-demos]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>samuel-zeller-4135</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/samuel-zeller-4135/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/samuel-zeller-4135/</link>
 		<pubDate>Sat, 13 May 2017 01:25:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3051,22 +3051,22 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/samuel-zeller-4135.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4896;s:6:"height";i:3264;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:30:"2017/05/samuel-zeller-4135.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"samuel-zeller-4135-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/samuel-zeller-4135-150x150.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"samuel-zeller-4135-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"samuel-zeller-4135-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/samuel-zeller-4135-768x512.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"samuel-zeller-4135-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/samuel-zeller-4135-1024x1024.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"samuel-zeller-4135-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/samuel-zeller-4135-806x300.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4896;s:6:"height";i:3264;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:30:"2017/05/samuel-zeller-4135.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"samuel-zeller-4135-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/samuel-zeller-4135-150x150.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"samuel-zeller-4135-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"samuel-zeller-4135-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/samuel-zeller-4135-768x512.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"samuel-zeller-4135-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/samuel-zeller-4135-1024x1024.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"samuel-zeller-4135-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/samuel-zeller-4135-806x300.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/samuel-zeller-4135-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>sarah-humer-140395</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/sarah-humer-140395/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/sarah-humer-140395/</link>
 		<pubDate>Sat, 13 May 2017 01:25:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3082,22 +3082,22 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/sarah-humer-140395.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4444;s:6:"height";i:2958;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:30:"2017/05/sarah-humer-140395.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"sarah-humer-140395-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/sarah-humer-140395-150x150.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"sarah-humer-140395-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"sarah-humer-140395-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/sarah-humer-140395-768x511.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395-768x511.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"sarah-humer-140395-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/sarah-humer-140395-1024x1024.jpg";s:3:"url";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"sarah-humer-140395-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/sarah-humer-140395-806x300.jpg";s:3:"url";s:120:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4444;s:6:"height";i:2958;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:30:"2017/05/sarah-humer-140395.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:30:"sarah-humer-140395-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/sarah-humer-140395-150x150.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:30:"sarah-humer-140395-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:30:"sarah-humer-140395-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/sarah-humer-140395-768x511.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395-768x511.jpg";}s:5:"large";a:6:{s:4:"file";s:32:"sarah-humer-140395-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:40:"2017/05/sarah-humer-140395-1024x1024.jpg";s:3:"url";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:30:"sarah-humer-140395-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:38:"2017/05/sarah-humer-140395-806x300.jpg";s:3:"url";s:120:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sarah-humer-140395-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>sylvain-guiheneuc-51715</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/sylvain-guiheneuc-51715/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/sylvain-guiheneuc-51715/</link>
 		<pubDate>Sat, 13 May 2017 01:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3113,22 +3113,22 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/sylvain-guiheneuc-51715.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4000;s:6:"height";i:2248;s:14:"hwstring_small";s:23:"height='72' width='128'";s:4:"file";s:35:"2017/05/sylvain-guiheneuc-51715.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:35:"sylvain-guiheneuc-51715-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/sylvain-guiheneuc-51715-150x150.jpg";s:3:"url";s:125:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:35:"sylvain-guiheneuc-51715-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:35:"sylvain-guiheneuc-51715-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/sylvain-guiheneuc-51715-768x432.jpg";s:3:"url";s:125:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715-768x432.jpg";}s:5:"large";a:6:{s:4:"file";s:37:"sylvain-guiheneuc-51715-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:45:"2017/05/sylvain-guiheneuc-51715-1024x1024.jpg";s:3:"url";s:127:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:35:"sylvain-guiheneuc-51715-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/sylvain-guiheneuc-51715-806x300.jpg";s:3:"url";s:125:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:4000;s:6:"height";i:2248;s:14:"hwstring_small";s:23:"height='72' width='128'";s:4:"file";s:35:"2017/05/sylvain-guiheneuc-51715.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:35:"sylvain-guiheneuc-51715-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/sylvain-guiheneuc-51715-150x150.jpg";s:3:"url";s:125:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:35:"sylvain-guiheneuc-51715-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:35:"sylvain-guiheneuc-51715-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/sylvain-guiheneuc-51715-768x432.jpg";s:3:"url";s:125:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715-768x432.jpg";}s:5:"large";a:6:{s:4:"file";s:37:"sylvain-guiheneuc-51715-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:45:"2017/05/sylvain-guiheneuc-51715-1024x1024.jpg";s:3:"url";s:127:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:35:"sylvain-guiheneuc-51715-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/sylvain-guiheneuc-51715-806x300.jpg";s:3:"url";s:125:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/sylvain-guiheneuc-51715-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>tim-swaan-45717</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/tim-swaan-45717/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/tim-swaan-45717/</link>
 		<pubDate>Sat, 13 May 2017 01:26:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3144,22 +3144,22 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/tim-swaan-45717.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5472;s:6:"height";i:3648;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2017/05/tim-swaan-45717.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:27:"tim-swaan-45717-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/tim-swaan-45717-150x150.jpg";s:3:"url";s:117:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:27:"tim-swaan-45717-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:27:"tim-swaan-45717-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/tim-swaan-45717-768x512.jpg";s:3:"url";s:117:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:29:"tim-swaan-45717-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/tim-swaan-45717-1024x1024.jpg";s:3:"url";s:119:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:27:"tim-swaan-45717-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/tim-swaan-45717-806x300.jpg";s:3:"url";s:117:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5472;s:6:"height";i:3648;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:27:"2017/05/tim-swaan-45717.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:27:"tim-swaan-45717-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/tim-swaan-45717-150x150.jpg";s:3:"url";s:117:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:27:"tim-swaan-45717-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:27:"tim-swaan-45717-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/tim-swaan-45717-768x512.jpg";s:3:"url";s:117:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:29:"tim-swaan-45717-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:37:"2017/05/tim-swaan-45717-1024x1024.jpg";s:3:"url";s:119:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:27:"tim-swaan-45717-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:35:"2017/05/tim-swaan-45717-806x300.jpg";s:3:"url";s:117:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/tim-swaan-45717-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>vadim-sherbakov-41909</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/vadim-sherbakov-41909/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/vadim-sherbakov-41909/</link>
 		<pubDate>Sat, 13 May 2017 01:26:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3175,22 +3175,22 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/vadim-sherbakov-41909.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5472;s:6:"height";i:3648;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:33:"2017/05/vadim-sherbakov-41909.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:33:"vadim-sherbakov-41909-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/vadim-sherbakov-41909-150x150.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:33:"vadim-sherbakov-41909-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:33:"vadim-sherbakov-41909-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/vadim-sherbakov-41909-768x512.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:35:"vadim-sherbakov-41909-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/vadim-sherbakov-41909-1024x1024.jpg";s:3:"url";s:125:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:33:"vadim-sherbakov-41909-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/vadim-sherbakov-41909-806x300.jpg";s:3:"url";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:5472;s:6:"height";i:3648;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:33:"2017/05/vadim-sherbakov-41909.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:33:"vadim-sherbakov-41909-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/vadim-sherbakov-41909-150x150.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:33:"vadim-sherbakov-41909-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:33:"vadim-sherbakov-41909-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/vadim-sherbakov-41909-768x512.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909-768x512.jpg";}s:5:"large";a:6:{s:4:"file";s:35:"vadim-sherbakov-41909-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:43:"2017/05/vadim-sherbakov-41909-1024x1024.jpg";s:3:"url";s:125:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:33:"vadim-sherbakov-41909-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:41:"2017/05/vadim-sherbakov-41909-806x300.jpg";s:3:"url";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/vadim-sherbakov-41909-806x300.jpg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>carmine-de-fazio-31543</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/carmine-de-fazio-31543/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/front-page/carmine-de-fazio-31543/</link>
 		<pubDate>Sat, 13 May 2017 01:26:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3206,22 +3206,22 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/carmine-de-fazio-31543.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:6016;s:6:"height";i:4016;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:34:"2017/05/carmine-de-fazio-31543.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:34:"carmine-de-fazio-31543-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/carmine-de-fazio-31543-150x150.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:34:"carmine-de-fazio-31543-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:34:"carmine-de-fazio-31543-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/carmine-de-fazio-31543-768x513.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543-768x513.jpg";}s:5:"large";a:6:{s:4:"file";s:36:"carmine-de-fazio-31543-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/carmine-de-fazio-31543-1024x1024.jpg";s:3:"url";s:126:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:34:"carmine-de-fazio-31543-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/carmine-de-fazio-31543-806x300.jpg";s:3:"url";s:124:"http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1078x720";}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:6016;s:6:"height";i:4016;s:14:"hwstring_small";s:23:"height='85' width='128'";s:4:"file";s:34:"2017/05/carmine-de-fazio-31543.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:6:{s:4:"file";s:34:"carmine-de-fazio-31543-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/carmine-de-fazio-31543-150x150.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543-150x150.jpg";}s:6:"medium";a:4:{s:4:"file";s:34:"carmine-de-fazio-31543-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:6:{s:4:"file";s:34:"carmine-de-fazio-31543-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/carmine-de-fazio-31543-768x513.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543-768x513.jpg";}s:5:"large";a:6:{s:4:"file";s:36:"carmine-de-fazio-31543-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:44:"2017/05/carmine-de-fazio-31543-1024x1024.jpg";s:3:"url";s:126:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543-1024x1024.jpg";}s:12:"blog-default";a:6:{s:4:"file";s:34:"carmine-de-fazio-31543-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:4:"path";s:42:"2017/05/carmine-de-fazio-31543-806x300.jpg";s:3:"url";s:124:"https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/carmine-de-fazio-31543-806x300.jpg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1078x720";}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Hero-About-Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/about/hero-about-page/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/about/hero-about-page/</link>
 		<pubDate>Sat, 13 May 2017 12:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/Hero-About-Page.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/Hero-About-Page.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3237,7 +3237,7 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/Hero-About-Page.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/Hero-About-Page.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/Hero-About-Page.jpg]]></wp:meta_value>
@@ -3249,10 +3249,10 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 	</item>
 	<item>
 		<title>blog2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/of-hope/blog2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/of-hope/blog2/</link>
 		<pubDate>Sat, 13 May 2017 13:43:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/blog2.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/blog2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3268,7 +3268,7 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/blog2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/blog2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/blog2.jpg]]></wp:meta_value>
@@ -3280,10 +3280,10 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 	</item>
 	<item>
 		<title>blog3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/brooklyn-5-is-coming/blog3/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/brooklyn-5-is-coming/blog3/</link>
 		<pubDate>Sat, 13 May 2017 13:45:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/blog3.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/blog3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3299,7 +3299,7 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/blog3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/wp-content/uploads/2017/05/blog3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/blog3.jpg]]></wp:meta_value>
@@ -3311,10 +3311,10 @@ and companies create websites for their startups quickly and easily.[/ut_header]
 	</item>
 	<item>
 		<title>A Green Leaf</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/a-green-leaf/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/a-green-leaf/</link>
 		<pubDate>Sat, 13 May 2017 12:02:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=93</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=93</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -3395,10 +3395,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?post_type=wpcf7_contact_form&#038;p=134</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?post_type=wpcf7_contact_form&#038;p=134</link>
 		<pubDate>Sat, 13 May 2017 02:44:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?post_type=wpcf7_contact_form&#038;p=134</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?post_type=wpcf7_contact_form&#038;p=134</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -3422,7 +3422,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25)
 public@unitedthemes.com
 Reply-To: [your-email]
 
@@ -3435,7 +3435,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25)
 [your-email]
 Reply-To: public@unitedthemes.com
 
@@ -3479,7 +3479,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -3487,7 +3487,7 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -3516,10 +3516,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Of Hope</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/of-hope/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/of-hope/</link>
 		<pubDate>Sat, 13 May 2017 12:01:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=162</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=162</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -3596,10 +3596,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Brooklyn 5 is Coming</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/brooklyn-5-is-coming/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/2017/05/13/brooklyn-5-is-coming/</link>
 		<pubDate>Sat, 13 May 2017 12:00:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=165</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo25/?p=165</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 

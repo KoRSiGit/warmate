@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.5.3" created="2016-07-08 00:04" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>Alex F.</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19</link>
 	<description>For our lovely friend Alex</description>
 	<pubDate>Fri, 08 Jul 2016 00:04:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -46,10 +46,10 @@
 
 	<item>
 		<title>Hello world!</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?p=1</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?p=1</link>
 		<pubDate>Thu, 30 Jun 2016 11:51:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn-landing/?p=1</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn-landing/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -84,10 +84,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/</link>
 		<pubDate>Thu, 30 Jun 2016 12:09:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn-landing/?page_id=6</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn-landing/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -458,10 +458,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?page_id=8</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?page_id=8</link>
 		<pubDate>Thu, 30 Jun 2016 12:09:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn-landing/?page_id=8</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn-landing/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -832,10 +832,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?p=10</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?p=10</link>
 		<pubDate>Thu, 30 Jun 2016 12:10:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn-landing/?p=10</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn-landing/?p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -895,10 +895,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?p=11</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?p=11</link>
 		<pubDate>Thu, 30 Jun 2016 12:10:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn-landing/?p=11</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn-landing/?p=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -958,10 +958,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?p=12</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?p=12</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn-landing/?p=12</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn-landing/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1020,10 +1020,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>CandleForAlex</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?attachment_id=66</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/?attachment_id=66</link>
 		<pubDate>Thu, 30 Jun 2016 15:25:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn-landing/wp-content/uploads/2016/06/CandleForAlex.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn-landing/wp-content/uploads/2016/06/CandleForAlex.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1039,7 +1039,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/wp-content/uploads/2016/06/CandleForAlex.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo19/wp-content/uploads/2016/06/CandleForAlex.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/CandleForAlex.jpg]]></wp:meta_value>

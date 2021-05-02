@@ -1,6 +1,6 @@
 /*!
  * modernizr v3.2.0
- * Build http://modernizr.com/download?-applicationcache-audio-backgroundsize-bgsizecover-borderimage-borderradius-boxshadow-canvas-canvastext-cssanimations-csscolumns-cssgradients-cssreflections-csstransforms-csstransforms3d-csstransitions-flexbox-fontface-generatedcontent-geolocation-hashchange-history-hsla-indexeddb-inlinesvg-input-inputtypes-localstorage-multiplebgs-opacity-postmessage-preserve3d-requestanimationframe-rgba-sessionstorage-smil-svg-svgclippaths-svgfilters-textshadow-touchevents-video-webgl-webglextensions-websockets-websqldatabase-webworkers-addtest-domprefixes-hasevent-mq-prefixed-prefixes-shiv-testallprops-testprop-teststyles-dontmin
+ * Build https://modernizr.com/download?-applicationcache-audio-backgroundsize-bgsizecover-borderimage-borderradius-boxshadow-canvas-canvastext-cssanimations-csscolumns-cssgradients-cssreflections-csstransforms-csstransforms3d-csstransitions-flexbox-fontface-generatedcontent-geolocation-hashchange-history-hsla-indexeddb-inlinesvg-input-inputtypes-localstorage-multiplebgs-opacity-postmessage-preserve3d-requestanimationframe-rgba-sessionstorage-smil-svg-svgclippaths-svgfilters-textshadow-touchevents-video-webgl-webglextensions-websockets-websqldatabase-webworkers-addtest-domprefixes-hasevent-mq-prefixed-prefixes-shiv-testallprops-testprop-teststyles-dontmin
  *
  * Copyright (c)
  *  Faruk Ates
@@ -495,7 +495,7 @@
 /* DOC
 Detects support for the Application Cache, for storing data to enable web-based applications run offline.
 
-The API has been [heavily criticized](http://alistapart.com/article/application-cache-is-a-douchebag) and discussions are underway to address this.
+The API has been [heavily criticized](https://alistapart.com/article/application-cache-is-a-douchebag) and discussions are underway to address this.
 */
 
   Modernizr.addTest('applicationcache', 'applicationCache' in window);
@@ -543,7 +543,7 @@ Detects support for the Geolocation API for users to provide their location to w
   "authors": ["Hay Kranen", "Alexander Farkas"],
   "notes": [{
     "name": "W3C Spec",
-    "href": "http://www.w3.org/TR/html51/browsers.html#the-history-interface"
+    "href": "https://www.w3.org/TR/html51/browsers.html#the-history-interface"
   }, {
     "name": "MDN documentation",
     "href": "https://developer.mozilla.org/en-US/docs/Web/API/window.history"
@@ -583,7 +583,7 @@ Detects support for the History API for manipulating the browser session history
   "caniuse": "x-doc-messaging",
   "notes": [{
     "name": "W3C Spec",
-    "href": "http://www.w3.org/TR/html5/comms.html#posting-messages"
+    "href": "https://www.w3.org/TR/html5/comms.html#posting-messages"
   }],
   "polyfills": ["easyxdm", "postmessage-jquery"]
 }
@@ -617,7 +617,7 @@ Detects support for the `window.postMessage` protocol for cross-document messagi
 Detects support for SVG in `<embed>` or `<object>` elements.
 */
 
-  Modernizr.addTest('svg', !!document.createElementNS && !!document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect);
+  Modernizr.addTest('svg', !!document.createElementNS && !!document.createElementNS('https://www.w3.org/2000/svg', 'svg').createSVGRect);
 
 /*!
 {
@@ -631,7 +631,7 @@ Detects support for SVG in `<embed>` or `<object>` elements.
   ],
   "notes": [{
     "name": "CLOSING State and Spec",
-    "href": "http://www.w3.org/TR/websockets/#the-websocket-interface"
+    "href": "https://www.w3.org/TR/websockets/#the-websocket-interface"
   }],
   "polyfills": [
     "sockjs",
@@ -743,12 +743,12 @@ Detects support for SVG in `<embed>` or `<object>` elements.
   "authors": ["Erik Dahlstrom"],
   "notes": [{
     "name": "W3C Spec",
-    "href": "http://www.w3.org/TR/SVG11/filters.html"
+    "href": "https://www.w3.org/TR/SVG11/filters.html"
   }]
 }
 !*/
 
-  // Should fail in Safari: http://stackoverflow.com/questions/9739955/feature-detecting-support-for-svg-filters.
+  // Should fail in Safari: https://stackoverflow.com/questions/9739955/feature-detecting-support-for-svg-filters.
   Modernizr.addTest('svgfilters', function() {
     var result = false;
     try {
@@ -767,10 +767,10 @@ Detects support for SVG in `<embed>` or `<object>` elements.
   "tags": ["performance", "workers"],
   "notes": [{
     "name": "W3C Reference",
-    "href": "http://www.w3.org/TR/workers/"
+    "href": "https://www.w3.org/TR/workers/"
   }, {
     "name": "HTML5 Rocks article",
-    "href": "http://www.html5rocks.com/en/tutorials/workers/basics/"
+    "href": "https://www.html5rocks.com/en/tutorials/workers/basics/"
   }, {
     "name": "MDN documentation",
     "href": "https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers"
@@ -787,7 +787,7 @@ Detects support for the basic `Worker` API from the Web Workers spec. Web Worker
 
   /**
    * List of property values to set for css tests. See ticket #21
-   * http://git.io/vUGl4
+   * https://git.io/vUGl4
    *
    * @memberof Modernizr
    * @name Modernizr._prefixes
@@ -968,7 +968,7 @@ Detects support for the basic `Worker` API from the Web Workers spec. Web Worker
       // For this reason, we cannot call apply() as Object is not a Function.
       return document.createElement(arguments[0]);
     } else if (isSVG) {
-      return document.createElementNS.call(document, 'http://www.w3.org/2000/svg', arguments[0]);
+      return document.createElementNS.call(document, 'https://www.w3.org/2000/svg', arguments[0]);
     } else {
       return document.createElement.apply(document, arguments);
     }
@@ -1180,7 +1180,7 @@ Detects support for the text APIs for `<canvas>` elements.
   "caniuse": "video",
   "tags": ["html5"],
   "knownBugs": [
-    "Without QuickTime, `Modernizr.video.h264` will be `undefined`; http://github.com/Modernizr/Modernizr/issues/546"
+    "Without QuickTime, `Modernizr.video.h264` will be `undefined`; https://github.com/Modernizr/Modernizr/issues/546"
   ],
   "polyfills": [
     "html5media",
@@ -1263,13 +1263,13 @@ Modernizr.video.ogg     // 'probably'
   "knownBugs": ["False-positives on webOS (https://github.com/Modernizr/Modernizr/issues/202)"],
   "notes": [{
     "name": "Webkit Gradient Syntax",
-    "href": "http://webkit.org/blog/175/introducing-css-gradients/"
+    "href": "https://webkit.org/blog/175/introducing-css-gradients/"
   },{
     "name": "Mozilla Linear Gradient Syntax",
-    "href": "http://developer.mozilla.org/en/CSS/-moz-linear-gradient"
+    "href": "https://developer.mozilla.org/en/CSS/-moz-linear-gradient"
   },{
     "name": "Mozilla Radial Gradient Syntax",
-    "href": "http://developer.mozilla.org/en/CSS/-moz-radial-gradient"
+    "href": "https://developer.mozilla.org/en/CSS/-moz-radial-gradient"
   },{
     "name": "W3C Gradient Spec",
     "href": "dev.w3.org/csswg/css3-images/#gradients-"
@@ -1356,7 +1356,7 @@ Modernizr.video.ogg     // 'probably'
   "tags": ["css"],
   "notes": [{
     "name": "CSSTricks Tutorial",
-    "href": "http://css-tricks.com/rgba-browser-support/"
+    "href": "https://css-tricks.com/rgba-browser-support/"
   }]
 }
 !*/
@@ -1376,10 +1376,10 @@ Modernizr.video.ogg     // 'probably'
   "tags": ["svg"],
   "notes": [{
     "name": "Test page",
-    "href": "http://paulirish.com/demo/inline-svg"
+    "href": "https://paulirish.com/demo/inline-svg"
   }, {
     "name": "Test page and results",
-    "href": "http://codepen.io/eltonmesquita/full/GgXbvo/"
+    "href": "https://codepen.io/eltonmesquita/full/GgXbvo/"
   }],
   "polyfills": ["inline-svg-polyfill"],
   "knownBugs": ["False negative on some Chromia browsers."]
@@ -1392,7 +1392,7 @@ Detects support for inline SVG in HTML (not within XHTML).
   Modernizr.addTest('inlinesvg', function() {
     var div = createElement('div');
     div.innerHTML = '<svg/>';
-    return (typeof SVGRect != 'undefined' && div.firstChild && div.firstChild.namespaceURI) == 'http://www.w3.org/2000/svg';
+    return (typeof SVGRect != 'undefined' && div.firstChild && div.firstChild.namespaceURI) == 'https://www.w3.org/2000/svg';
   });
 
 /*!
@@ -1406,7 +1406,7 @@ Detects support for inline SVG in HTML (not within XHTML).
   "knownBugs": [],
   "notes": [{
     "name": "Kronos extensions registry",
-    "href": "http://www.khronos.org/registry/webgl/extensions/"
+    "href": "https://www.khronos.org/registry/webgl/extensions/"
   }]
 }
 !*/
@@ -1773,7 +1773,7 @@ if ('OES_vertex_array_object' in Modernizr.webglextensions) {
   "authors": ["Mike Taylor"],
   "notes": [{
     "name": "WHATWG spec",
-    "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-input-element.html#input-type-attr-summary"
+    "href": "https://www.whatwg.org/specs/web-apps/current-work/multipage/the-input-element.html#input-type-attr-summary"
   }],
   "knownBugs": ["Some blackberry devices report false positive for input.multiple"]
 }
@@ -1936,13 +1936,13 @@ Modernizr.inputtypes.week
   "builderAliases": ["css_supports"],
   "notes": [{
     "name": "W3 Spec",
-    "href": "http://dev.w3.org/csswg/css3-conditional/#at-supports"
+    "href": "https://dev.w3.org/csswg/css3-conditional/#at-supports"
   },{
     "name": "Related Github Issue",
     "href": "github.com/Modernizr/Modernizr/issues/648"
   },{
     "name": "W3 Info",
-    "href": "http://dev.w3.org/csswg/css3-conditional/#the-csssupportsrule-interface"
+    "href": "https://dev.w3.org/csswg/css3-conditional/#the-csssupportsrule-interface"
   }]
 }
 !*/
@@ -1971,19 +1971,19 @@ Modernizr.inputtypes.week
   "tags": ["svg"],
   "notes": [{
     "name": "Demo",
-    "href": "http://srufaculty.sru.edu/david.dailey/svg/newstuff/clipPath4.svg"
+    "href": "https://srufaculty.sru.edu/david.dailey/svg/newstuff/clipPath4.svg"
   }]
 }
 !*/
 /* DOC
 Detects support for clip paths in SVG (only, not on HTML content).
 
-See [this discussion](http://github.com/Modernizr/Modernizr/issues/213) regarding applying SVG clip paths to HTML content.
+See [this discussion](https://github.com/Modernizr/Modernizr/issues/213) regarding applying SVG clip paths to HTML content.
 */
 
   Modernizr.addTest('svgclippaths', function() {
     return !!document.createElementNS &&
-      /SVGClipPath/.test(toStringFn.call(document.createElementNS('http://www.w3.org/2000/svg', 'clipPath')));
+      /SVGClipPath/.test(toStringFn.call(document.createElementNS('https://www.w3.org/2000/svg', 'clipPath')));
   });
 
 /*!
@@ -1994,7 +1994,7 @@ See [this discussion](http://github.com/Modernizr/Modernizr/issues/213) regardin
   "tags": ["svg"],
   "notes": [{
   "name": "W3C Synchronised Multimedia spec",
-  "href": "http://www.w3.org/AudioVideo/"
+  "href": "https://www.w3.org/AudioVideo/"
   }]
 }
 !*/
@@ -2002,7 +2002,7 @@ See [this discussion](http://github.com/Modernizr/Modernizr/issues/213) regardin
   // SVG SMIL animation
   Modernizr.addTest('smil', function() {
     return !!document.createElementNS &&
-      /SVGAnimate/.test(toStringFn.call(document.createElementNS('http://www.w3.org/2000/svg', 'animate')));
+      /SVGAnimate/.test(toStringFn.call(document.createElementNS('https://www.w3.org/2000/svg', 'animate')));
   });
 
 
@@ -2317,14 +2317,14 @@ See [this discussion](http://github.com/Modernizr/Modernizr/issues/213) regardin
   "tags": ["media", "attribute"],
   "notes": [{
     "name": "Touch Events spec",
-    "href": "http://www.w3.org/TR/2013/WD-touch-events-20130124/"
+    "href": "https://www.w3.org/TR/2013/WD-touch-events-20130124/"
   }],
   "warnings": [
     "Indicates if the browser supports the Touch Events spec, and does not necessarily reflect a touchscreen device"
   ],
   "knownBugs": [
     "False-positive on some configurations of Nokia N900",
-    "False-positive on some BlackBerry 6.0 builds – https://github.com/Modernizr/Modernizr/issues/372#issuecomment-3112695"
+    "False-positive on some BlackBerry 6.0 builds ï¿½ https://github.com/Modernizr/Modernizr/issues/372#issuecomment-3112695"
   ]
 }
 !*/
@@ -2338,14 +2338,14 @@ This *does not* necessarily reflect a touchscreen device:
 * Some browsers & OS setups may enable touch APIs when no touchscreen is connected
 * Future browsers may implement other event models for touch interactions
 
-See this article: [You Can't Detect A Touchscreen](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/).
+See this article: [You Can't Detect A Touchscreen](https://www.stucox.com/blog/you-cant-detect-a-touchscreen/).
 
-It's recommended to bind both mouse and touch/pointer events simultaneously – see [this HTML5 Rocks tutorial](http://www.html5rocks.com/en/mobile/touchandmouse/).
+It's recommended to bind both mouse and touch/pointer events simultaneously ï¿½ see [this HTML5 Rocks tutorial](https://www.html5rocks.com/en/mobile/touchandmouse/).
 
 This test will also return `true` for Firefox 4 Multitouch support.
 */
 
-  // Chrome (desktop) used to lie about its support on this, but that has since been rectified: http://crbug.com/36415
+  // Chrome (desktop) used to lie about its support on this, but that has since been rectified: https://crbug.com/36415
   Modernizr.addTest('touchevents', function() {
     var bool;
     if (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
@@ -2366,12 +2366,12 @@ This test will also return `true` for Firefox 4 Multitouch support.
   "authors": ["Diego Perini", "Mat Marquis"],
   "tags": ["css"],
   "knownBugs": [
-    "False Positive: WebOS http://github.com/Modernizr/Modernizr/issues/342",
-    "False Postive: WP7 http://github.com/Modernizr/Modernizr/issues/538"
+    "False Positive: WebOS https://github.com/Modernizr/Modernizr/issues/342",
+    "False Postive: WP7 https://github.com/Modernizr/Modernizr/issues/538"
   ],
   "notes": [{
     "name": "@font-face detection routine by Diego Perini",
-    "href": "http://javascript.nwbox.com/CSSSupport/"
+    "href": "https://javascript.nwbox.com/CSSSupport/"
   },{
     "name": "Filament Group @font-face compatibility research",
     "href": "https://docs.google.com/presentation/d/1n4NyG4uPRjAA8zn_pSQ_Ket0RhcWC6QlZ6LMjKeECo0/edit#slide=id.p"
@@ -2380,10 +2380,10 @@ This test will also return `true` for Firefox 4 Multitouch support.
     "href": "https://docs.google.com/spreadsheet/ccc?key=0Ag5_yGvxpINRdHFYeUJPNnZMWUZKR2ItMEpRTXZPdUE#gid=0"
   },{
     "name": "CSS fonts on Android",
-    "href": "http://stackoverflow.com/questions/3200069/css-fonts-on-android"
+    "href": "https://stackoverflow.com/questions/3200069/css-fonts-on-android"
   },{
     "name": "@font-face and Android",
-    "href": "http://archivist.incutio.com/viewlist/css-discuss/115960"
+    "href": "https://archivist.incutio.com/viewlist/css-discuss/115960"
   }]
 }
 !*/
@@ -2416,7 +2416,7 @@ This test will also return `true` for Firefox 4 Multitouch support.
   "warnings": ["Android won't return correct height for anything below 7px #738"],
   "notes": [{
     "name": "W3C CSS Selectors Level 3 spec",
-    "href": "http://www.w3.org/TR/css3-selectors/#gen-content"
+    "href": "https://www.w3.org/TR/css3-selectors/#gen-content"
   },{
     "name": "MDN article on :before",
     "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/::before"
@@ -2543,7 +2543,7 @@ This test will also return `true` for Firefox 4 Multitouch support.
   // Returns `undefined` if native detection not available
   function nativeTestProps (props, value) {
     var i = props.length;
-    // Start with the JS API: http://www.w3.org/TR/css3-conditional/#the-css-interface
+    // Start with the JS API: https://www.w3.org/TR/css3-conditional/#the-css-interface
     if ('CSS' in window && 'supports' in window.CSS) {
       // Try every prefixed variant of the property
       while (i--) {
@@ -2796,7 +2796,7 @@ This test will also return `true` for Firefox 4 Multitouch support.
   "warnings": ["Android < 4 will pass this test, but can only animate a single property at a time"],
   "notes": [{
     "name" : "Article: 'Dispelling the Android CSS animation myths'",
-    "href": "http://goo.gl/OGw5Gm"
+    "href": "https://goo.gl/OGw5Gm"
   }]
 }
 !*/
@@ -2811,10 +2811,10 @@ Detects whether or not elements can be animated using CSS
   "name": "Background Size",
   "property": "backgroundsize",
   "tags": ["css"],
-  "knownBugs": ["This will false positive in Opera Mini - http://github.com/Modernizr/Modernizr/issues/396"],
+  "knownBugs": ["This will false positive in Opera Mini - https://github.com/Modernizr/Modernizr/issues/396"],
   "notes": [{
     "name": "Related Issue",
-    "href": "http://github.com/Modernizr/Modernizr/issues/396"
+    "href": "https://github.com/Modernizr/Modernizr/issues/396"
   }]
 }
 !*/
@@ -2829,7 +2829,7 @@ Detects whether or not elements can be animated using CSS
   "builderAliases": ["css_backgroundsizecover"],
   "notes": [{
     "name" : "MDN Docs",
-    "href": "http://developer.mozilla.org/en/CSS/background-size"
+    "href": "https://developer.mozilla.org/en/CSS/background-size"
   }]
 }
 !*/
@@ -2859,7 +2859,7 @@ Detects whether or not elements can be animated using CSS
   "tags": ["css"],
   "notes": [{
     "name": "Comprehensive Compat Chart",
-    "href": "http://muddledramblings.com/table-of-css3-border-radius-compliance"
+    "href": "https://muddledramblings.com/table-of-css3-border-radius-compliance"
   }]
 }
 !*/
@@ -2934,7 +2934,7 @@ Detects whether or not elements can be animated using CSS
   "tags": ["css"],
   "notes": [{
     "name": "The _new_ flexbox",
-    "href": "http://dev.w3.org/csswg/css3-flexbox"
+    "href": "https://dev.w3.org/csswg/css3-flexbox"
   }],
   "warnings": [
     "A `true` result for this detect does not imply that the `flex-wrap` property is supported; see the `flexwrap` detect."
@@ -2969,7 +2969,7 @@ Detects support for the Flexible Box Layout model, a.k.a. Flexbox, which allows 
 
   Modernizr.addTest('csstransforms', function() {
     // Android < 3.0 is buggy, so we sniff and blacklist
-    // http://git.io/hHzL7w
+    // https://git.io/hHzL7w
     return navigator.userAgent.indexOf('Android 2.') === -1 &&
            testAllProps('transform', 'scale(1)', true);
   });
@@ -3169,7 +3169,7 @@ Detects support for the IndexedDB client-side storage API (final spec).
   "authors": ["Addy Osmani"],
   "notes": [{
     "name": "W3C spec",
-    "href": "http://www.w3.org/TR/animation-timing/"
+    "href": "https://www.w3.org/TR/animation-timing/"
   }],
   "polyfills": ["raf"]
 }

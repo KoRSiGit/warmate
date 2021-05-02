@@ -2355,7 +2355,7 @@
         /* Twitter
 		================================================== */
         var utsharetwitter = function() {
-            window.open( 'http://twitter.com/intent/tweet?url='+encodeURIComponent(location.href),
+            window.open( 'https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href),
                 "Twitter",
                 "width=650,height=350" );
             return false;
@@ -2382,7 +2382,7 @@
         /* Linkedin
 		================================================== */
         var utsharelinkedin = function(){
-            window.open( 'http://www.linkedin.com/shareArticle?mini=true&url='+encodeURIComponent(location.href)+'$title='+$(".page-title").text(),
+            window.open( 'https://www.linkedin.com/shareArticle?mini=true&url='+encodeURIComponent(location.href)+'$title='+$(".page-title").text(),
                 'linkedinWindow',
                 'width=650,height=450, resizable=1');
             return false;
@@ -2391,7 +2391,7 @@
         /* Pinterest
 		================================================== */
         var utsharepinterest = function(){
-            window.open( 'http://pinterest.com/pin/create/bookmarklet/?media='+ $('.entry-content img').first().attr('src') + '&description='+jQuery('.page-title').text()+' '+encodeURIComponent(location.href),
+            window.open( 'https://pinterest.com/pin/create/bookmarklet/?media='+ $('.entry-content img').first().attr('src') + '&description='+jQuery('.page-title').text()+' '+encodeURIComponent(location.href),
                 'pinterestWindow',
                 'width=750,height=430, resizable=1');
             return false;

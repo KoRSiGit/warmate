@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
    Norwegian Bokmål translation
    Written by Kristian Ravnevand */
 (function($) {

@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.5.3" created="2016-08-05 10:12" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>brooklyn.</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21</link>
 	<description>Demo 21</description>
 	<pubDate>Fri, 05 Aug 2016 10:12:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -57,10 +57,10 @@
 
 	<item>
 		<title>cubes</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/frame-decoration/cubes/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/frame-decoration/cubes/#main</link>
 		<pubDate>Wed, 27 Jul 2016 19:09:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/cubes.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/cubes.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -88,10 +88,10 @@
 	</item>
 	<item>
 		<title>logo</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/logo-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/logo-2/</link>
 		<pubDate>Wed, 03 Aug 2016 21:31:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/logo.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -119,10 +119,10 @@
 	</item>
 	<item>
 		<title>logo-white</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/logo-white/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/logo-white/</link>
 		<pubDate>Thu, 04 Aug 2016 04:22:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/logo-white.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/logo-white.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -150,10 +150,10 @@
 	</item>
 	<item>
 		<title>apple-touch-icon</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/apple-touch-icon/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/apple-touch-icon/</link>
 		<pubDate>Thu, 04 Aug 2016 14:34:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/apple-touch-icon.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/apple-touch-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -181,10 +181,10 @@
 	</item>
 	<item>
 		<title>apple-touch-icon-72x72</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/apple-touch-icon-72x72/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/apple-touch-icon-72x72/</link>
 		<pubDate>Thu, 04 Aug 2016 14:34:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/apple-touch-icon-72x72.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/apple-touch-icon-72x72.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -212,10 +212,10 @@
 	</item>
 	<item>
 		<title>apple-touch-icon-114x114</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/apple-touch-icon-114x114/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/apple-touch-icon-114x114/</link>
 		<pubDate>Thu, 04 Aug 2016 14:34:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/apple-touch-icon-114x114.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/apple-touch-icon-114x114.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -243,10 +243,10 @@
 	</item>
 	<item>
 		<title>apple-touch-icon-144x144</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/apple-touch-icon-144x144/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/apple-touch-icon-144x144/</link>
 		<pubDate>Thu, 04 Aug 2016 14:34:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/apple-touch-icon-144x144.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/apple-touch-icon-144x144.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -274,10 +274,10 @@
 	</item>
 	<item>
 		<title>favicon</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/favicon/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/favicon/</link>
 		<pubDate>Thu, 04 Aug 2016 14:35:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/favicon.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/favicon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -305,10 +305,10 @@
 	</item>
 	<item>
 		<title>caption-icon</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/caption-icon/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/caption-icon/</link>
 		<pubDate>Fri, 05 Aug 2016 03:54:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/caption-icon.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/08/caption-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -336,7 +336,7 @@
 	</item>
 	<item>
 		<title>replace-large</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/replace-large/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/replace-large/</link>
 		<pubDate>Fri, 05 Aug 2016 09:21:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/08/replace-large.jpg</guid>
@@ -367,7 +367,7 @@
 	</item>
 	<item>
 		<title>replace-normal</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/replace-normal/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/replace-normal/</link>
 		<pubDate>Fri, 05 Aug 2016 09:21:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/08/replace-normal.jpg</guid>
@@ -398,7 +398,7 @@
 	</item>
 	<item>
 		<title>6</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/6/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/6/#main</link>
 		<pubDate>Fri, 05 Aug 2016 09:26:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/6.jpg</guid>
@@ -429,7 +429,7 @@
 	</item>
 	<item>
 		<title>1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/1/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/1/#main</link>
 		<pubDate>Fri, 05 Aug 2016 09:26:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/1.jpg</guid>
@@ -460,7 +460,7 @@
 	</item>
 	<item>
 		<title>2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/2/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/2/#main</link>
 		<pubDate>Fri, 05 Aug 2016 09:26:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/2.jpg</guid>
@@ -491,7 +491,7 @@
 	</item>
 	<item>
 		<title>3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/3/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/3/#main</link>
 		<pubDate>Fri, 05 Aug 2016 09:26:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/3.jpg</guid>
@@ -522,7 +522,7 @@
 	</item>
 	<item>
 		<title>4</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/4/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/4/#main</link>
 		<pubDate>Fri, 05 Aug 2016 09:26:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/4.jpg</guid>
@@ -553,7 +553,7 @@
 	</item>
 	<item>
 		<title>5</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/5/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/attachment/5/#main</link>
 		<pubDate>Fri, 05 Aug 2016 09:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/5.jpg</guid>
@@ -584,7 +584,7 @@
 	</item>
 	<item>
 		<title>demo21-phone</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/services/demo21-phone/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/services/demo21-phone/#main</link>
 		<pubDate>Fri, 05 Aug 2016 09:32:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/demo21-phone.png</guid>
@@ -615,7 +615,7 @@
 	</item>
 	<item>
 		<title>demo21-ipad</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/home/demo21-ipad/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/home/demo21-ipad/#main</link>
 		<pubDate>Fri, 05 Aug 2016 09:40:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/demo21-ipad.png</guid>
@@ -646,7 +646,7 @@
 	</item>
 	<item>
 		<title>7</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/7/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/7/</link>
 		<pubDate>Fri, 05 Aug 2016 09:44:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/08/7.jpg</guid>
@@ -677,10 +677,10 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=4</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=4</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=4</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -730,7 +730,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
@@ -739,10 +739,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/9/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/9/</link>
 		<pubDate>Wed, 20 Jul 2016 16:19:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/07/20/9/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/07/20/9/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1146,10 +1146,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/12/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/12/</link>
 		<pubDate>Wed, 20 Jul 2016 16:20:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/07/20/12/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/07/20/12/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1553,10 +1553,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/49/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/49/</link>
 		<pubDate>Wed, 20 Jul 2016 17:32:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/07/20/49/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/07/20/49/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1960,10 +1960,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/52/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/52/</link>
 		<pubDate>Wed, 20 Jul 2016 17:32:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/07/20/52/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/07/20/52/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2367,10 +2367,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/55/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/55/</link>
 		<pubDate>Wed, 20 Jul 2016 17:32:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/07/20/55/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/07/20/55/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2774,10 +2774,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/58/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/20/58/</link>
 		<pubDate>Wed, 20 Jul 2016 17:33:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/07/20/58/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/07/20/58/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3181,10 +3181,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/145/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/145/</link>
 		<pubDate>Thu, 21 Jul 2016 13:51:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=145</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=145</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3244,10 +3244,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/146/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/146/</link>
 		<pubDate>Thu, 21 Jul 2016 13:51:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=146</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=146</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3307,10 +3307,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/147/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/147/</link>
 		<pubDate>Thu, 21 Jul 2016 13:51:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=147</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=147</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3370,10 +3370,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/148/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/148/</link>
 		<pubDate>Thu, 21 Jul 2016 13:51:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=148</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=148</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3433,10 +3433,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/149/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/07/21/149/</link>
 		<pubDate>Thu, 21 Jul 2016 13:51:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=149</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=149</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3496,10 +3496,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2886/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2886/</link>
 		<pubDate>Wed, 03 Aug 2016 13:51:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2886</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2886</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3559,10 +3559,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=2900</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=2900</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2900</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2900</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3621,10 +3621,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=2925</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=2925</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2925</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2925</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3683,10 +3683,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=2933</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=2933</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2933</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2933</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3745,10 +3745,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=2983</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=2983</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2983</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2983</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3807,10 +3807,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=3018</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=3018</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=3018</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=3018</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3869,10 +3869,10 @@
 	</item>
 	<item>
 		<title>Brad&#039;s</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=3020</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?p=3020</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=3020</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=3020</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3931,7 +3931,7 @@
 	</item>
 	<item>
 		<title>8</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/8/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/8/</link>
 		<pubDate>Fri, 05 Aug 2016 09:44:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/08/8.jpg</guid>
@@ -3962,10 +3962,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2896/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2896/</link>
 		<pubDate>Wed, 03 Aug 2016 14:09:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/08/03/2896/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/08/03/2896/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4385,10 +4385,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2907/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2907/</link>
 		<pubDate>Wed, 03 Aug 2016 14:19:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2907</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2907</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4448,10 +4448,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2911/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2911/</link>
 		<pubDate>Wed, 03 Aug 2016 14:23:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2911</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2911</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4511,10 +4511,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2919/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2919/</link>
 		<pubDate>Wed, 03 Aug 2016 14:46:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2919</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2919</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4574,10 +4574,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2923/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2923/</link>
 		<pubDate>Wed, 03 Aug 2016 15:01:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/08/03/2923/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/08/03/2923/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4997,10 +4997,10 @@
 	</item>
 	<item>
 		<title>Filter Gallery No Gaps</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2930/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2930/</link>
 		<pubDate>Wed, 03 Aug 2016 15:14:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/08/03/2930/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/08/03/2930/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5420,10 +5420,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2936/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2936/</link>
 		<pubDate>Wed, 03 Aug 2016 15:24:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/08/03/2936/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/08/03/2936/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5843,10 +5843,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2942/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2942/</link>
 		<pubDate>Wed, 03 Aug 2016 15:53:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/08/03/2942/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/08/03/2942/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6266,10 +6266,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2967/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2967/</link>
 		<pubDate>Wed, 03 Aug 2016 17:35:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2967</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2967</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6329,10 +6329,10 @@
 	</item>
 	<item>
 		<title>Page Layouts</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/page-layouts/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/page-layouts/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2969</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2969</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6396,10 +6396,10 @@
 	</item>
 	<item>
 		<title>Layout Style 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2970/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2970/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2970</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2970</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6459,10 +6459,10 @@
 	</item>
 	<item>
 		<title>Layout Style 2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2971/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2971/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2971</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2971</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6522,10 +6522,10 @@
 	</item>
 	<item>
 		<title>Layout Style 11</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2972/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2972/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2972</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2972</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6585,10 +6585,10 @@
 	</item>
 	<item>
 		<title>Layout Style 5</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/brads-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/brads-2/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2973</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2973</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6648,10 +6648,10 @@
 	</item>
 	<item>
 		<title>Layout Style 6</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2974/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2974/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2974</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2974</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6711,10 +6711,10 @@
 	</item>
 	<item>
 		<title>Layout Style 4</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2975/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2975/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2975</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2975</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6774,10 +6774,10 @@
 	</item>
 	<item>
 		<title>Layout Style 10</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2976/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2976/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2976</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2976</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6837,10 +6837,10 @@
 	</item>
 	<item>
 		<title>Layout Style 9</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2977/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2977/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2977</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2977</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6900,10 +6900,10 @@
 	</item>
 	<item>
 		<title>Layout Style 3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/jacks-hot-cup/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/jacks-hot-cup/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2978</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2978</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6963,10 +6963,10 @@
 	</item>
 	<item>
 		<title>Layout Style 8</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2979/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2979/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2979</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2979</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7026,10 +7026,10 @@
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/blog/</link>
 		<pubDate>Wed, 20 Jul 2016 16:19:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=8</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7408,10 +7408,10 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/home/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/home/</link>
 		<pubDate>Wed, 20 Jul 2016 16:20:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=11</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content" equal_height="yes" content_placement="middle" css=".vc_custom_1470172161287{margin-bottom: 80px !important;padding-top: 40px !important;padding-right: 60px !important;padding-bottom: 40px !important;padding-left: 60px !important;background-color: #f9f9f9 !important;}"][vc_column width="1/3" offset="vc_col-lg-4 vc_col-md-12 vc_col-sm-12 vc_col-xs-12"][vc_custom_heading text="Who We Are" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469498927805{margin-bottom: 10px !important;}"][ut_header title="Your experts around modern design."]We are a creative agency located in Brooklyn, New York. We’ve won a ton of awards and have been featured in all of the magazines.[/ut_header][/vc_column][vc_column width="2/3" offset="vc_col-lg-8 vc_col-md-12 vc_col-sm-12 vc_col-xs-12"][vc_row_inner][vc_column_inner width="1/3" offset="vc_col-lg-4 vc_col-md-12 vc_col-sm-12 vc_col-xs-12"][vc_icon type="linecons" icon_linecons="vc_li vc_li-phone" color="custom" size="xl" align="center" custom_color="#f5ab35"][vc_custom_heading text="MOBILE DESIGN" font_container="tag:h3|text_align:center|color:%23333333" use_theme_fonts="yes" css=".vc_custom_1470184344232{margin-bottom: 40px !important;}"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-lg-4 vc_col-md-12 vc_col-sm-12 vc_col-xs-12"][vc_icon type="linecons" icon_linecons="vc_li vc_li-data" color="custom" size="xl" align="center" custom_color="#f5ab35"][vc_custom_heading text="APPS DEVELOPMENT" font_container="tag:h3|text_align:center|color:%23333333" use_theme_fonts="yes" css=".vc_custom_1470184354503{margin-bottom: 40px !important;}"][/vc_column_inner][vc_column_inner width="1/3" offset="vc_col-lg-4 vc_col-md-12 vc_col-sm-12 vc_col-xs-12"][vc_icon type="linecons" icon_linecons="vc_li vc_li-cloud" color="custom" size="xl" align="center" custom_color="#f5ab35"][vc_custom_heading text="UX/UI DESIGN" font_container="tag:h3|text_align:center|color:%23333333" use_theme_fonts="yes" css=".vc_custom_1470184358920{margin-bottom: 40px !important;}"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1470017013870{margin-bottom: 80px !important;}"][vc_column width="2/3" offset="vc_col-lg-offset-0"][vc_custom_heading text="Brooklyn Demo #21" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469498940817{margin-bottom: 10px !important;}"][ut_header title="We create awesome websites."]We have created an awesome theme that will help designers, developers and companies create websites for their startups quickly and easily.
 
@@ -7827,10 +7827,10 @@ Purchased this theme more than once. [/ut_qt][/ut_qtrotator][/vc_column][/vc_row
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/</link>
 		<pubDate>Wed, 20 Jul 2016 16:20:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=14</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -8209,10 +8209,10 @@ Purchased this theme more than once. [/ut_qt][/ut_qtrotator][/vc_column][/vc_row
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/about/</link>
 		<pubDate>Wed, 20 Jul 2016 17:32:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=48</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1469828450302{margin-bottom: 80px !important;}"][vc_column][vc_row_inner][vc_column_inner][vc_custom_heading text="Every Day We Fight!" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469750459988{margin-bottom: 10px !important;}"][/vc_column_inner][/vc_row_inner][ut_header title="Our history."]We are a creative agency located in Brooklyn, New York. We’ve won a ton of awards and have been featured in all of the magazines.[/ut_header][vc_row_inner][vc_column_inner width="1/3"][ut_service_column headline_color="#333333" headline="1.) OUR RESPONSIBILITY"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 [/ut_service_column][/vc_column_inner][vc_column_inner width="1/3"][ut_service_column headline_color="#333333" headline="2.) OUR APPROACH"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
@@ -8676,10 +8676,10 @@ As a result we deliver a better web experience.[/ut_header][/vc_column_inner][/v
 	</item>
 	<item>
 		<title>Services</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/services/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/services/</link>
 		<pubDate>Wed, 20 Jul 2016 17:32:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=51</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1470010711683{margin-bottom: 80px !important;}"][vc_column][vc_custom_heading text="New demos each month!" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470010945729{margin-bottom: 10px !important;}"][ut_header align="center" title="No run of the mill."]We have created an awesome theme that will help designers, developers
 and companies create websites for their startups quickly and easily.[/ut_header][vc_row_inner][vc_column_inner width="1/3"][ut_service_icon_box effect="fadeIn" animate_once="yes" icon="fa fa-desktop" headline="VISUAL COMPOSER" color="#dddddd"]The most popular Page Builder plugin now integrated in Brooklyn. Web design without any coding and right at your fingertips![/ut_service_icon_box][/vc_column_inner][vc_column_inner width="1/3"][ut_service_icon_box effect="fadeIn" animate_once="yes" icon="fa fa-clock-o" headline="1 CLICK DEMO IMPORTER" color="#f5ab35" hovercolor="#dddddd"]The most popular Page Builder plugin now integrated in Brooklyn. Web design without any coding and right at your fingertips![/ut_service_icon_box][/vc_column_inner][vc_column_inner width="1/3"][ut_service_icon_box effect="fadeIn" animate_once="yes" icon="fa fa-code" headline="FULLY CUSTOMIZABLE" color="#dddddd" hovercolor="#dddddd"]All parts of Brooklyn can be customized. From header to footer and everything what’s in between.[/ut_service_icon_box][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" equal_height="yes" content_placement="middle" css=".vc_custom_1470390786426{margin-bottom: 120px !important;padding-top: 120px !important;padding-bottom: 40px !important;background: #f9f9f9 url(https://s3.eu-central-1.amazonaws.com/unitedthemes-xml/demo_21/2016/07/cubes.png?id=617) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column width="1/2" css=".vc_custom_1469807293290{padding-top: 120px !important;padding-bottom: 80px !important;}"][vc_row_inner][vc_column_inner][vc_custom_heading text="What we offer!" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469806797798{margin-bottom: 10px !important;}"][ut_header title="Our services."]We believe in a diverse range of personel to bring creative skills, thoughts, and ideas to the table.[/ut_header][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner][ut_service_column effect="fadeIn" animate_once="yes" icon="fa fa-desktop" headline="NEW DEMOS EACH MONTH" color="#333333" imageicon="306"]We release each month new demos for our beloved Brooklyn![/ut_service_column][/vc_column_inner][/vc_row_inner][ut_service_column effect="fadeIn" animate_once="yes" icon="fa fa-life-ring" headline="LIFETIME UPDATES" color="#333333"]Brooklyn received continues updates, new features and new Demos. Since release we published around 50 updates![/ut_service_column][ut_service_column effect="fadeIn" animate_once="yes" icon="fa fa-balance-scale" headline="OUR PROMISE" color="#333333"]We’re here to make products that work! It’s a tall order, but we wouldn’t want to do anything else.[/ut_service_column][/vc_column][vc_column width="1/2" css=".vc_custom_1470012243922{padding-top: 0px !important;}"][ut_animated_image size="large" align="center" animate_once="yes" image="3051" effect="fadeInRight"][/vc_column][/vc_row][vc_row css=".vc_custom_1469814947065{margin-bottom: 80px !important;}"][vc_column css=".vc_custom_1469815053514{padding-top: 0px !important;}"][vc_row_inner][vc_column_inner][vc_custom_heading text="what are you waiting for?" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469814729146{margin-bottom: 10px !important;}"][ut_header align="center" title="Our offer for you."]Each completed project makes us even more hungry, hungry for more designs, more code and at least some more twinkies.
@@ -9113,10 +9113,10 @@ invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header]
 	</item>
 	<item>
 		<title>Portfolio</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/</link>
 		<pubDate>Wed, 20 Jul 2016 17:32:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=54</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=54</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="Page without hero" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470107160400{margin-bottom: 10px !important;}"][ut_header align="center" title="Portfolio"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_custom_shortcode][ut_showcase id="2842"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9519,10 +9519,10 @@ invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header]
 	</item>
 	<item>
 		<title>Contact</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/contact/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/contact/</link>
 		<pubDate>Wed, 20 Jul 2016 17:33:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=57</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][vc_custom_heading text="Get in touch with us!" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes"][ut_header align="global" title="Drop us a line."]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][ut_custom_shortcode][contact-form-7 id="334" title="contact"][/ut_custom_shortcode][/vc_column][vc_column width="1/2"][ut_service_column_vertical shape="round" headline_color="#333333" icon="fa fa-map-marker" color="#ffffff" background="#333333" headline="VISIT US"]1399 Beverley Rd
 Brooklyn, NY 11218[/ut_service_column_vertical][ut_service_column_vertical shape="round" headline_color="#333333" icon="fa fa-envelope-o" color="#ffffff" background="#333333" headline="MAIL US"]contact@yourdomain.com[/ut_service_column_vertical][ut_service_column_vertical shape="round" headline_color="#333333" icon="fa fa-phone" color="#ffffff" background="#333333" headline="CALL US"]1-8456-563-BKLYN[/ut_service_column_vertical][/vc_column][/vc_row]]]></content:encoded>
@@ -9962,10 +9962,10 @@ Brooklyn, NY 11218[/ut_service_column_vertical][ut_service_column_vertical shape
 	</item>
 	<item>
 		<title>Test Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/test-page/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/test-page/</link>
 		<pubDate>Sun, 24 Jul 2016 21:17:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=325</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=325</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][vc_custom_heading text="Get in touch with us!" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes"][ut_header align="global" title="Drop us a line."]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][ut_custom_shortcode][contact-form-7 id="334" title="contact"][/ut_custom_shortcode][/vc_column][vc_column width="1/2"][ut_service_column_vertical shape="round" headline_color="#333333" icon="fa fa-map-marker" color="#ffffff" background="#333333" headline="VISIT US"]1399 Beverley Rd
 Brooklyn, NY 11218[/ut_service_column_vertical][ut_service_column_vertical shape="round" headline_color="#333333" icon="fa fa-envelope-o" color="#ffffff" background="#333333" headline="MAIL US"]contact@yourdomain.com[/ut_service_column_vertical][ut_service_column_vertical shape="round" headline_color="#333333" icon="fa fa-phone" color="#ffffff" background="#333333" headline="CALL US"]1-8456-563-BKLYN[/ut_service_column_vertical][/vc_column][/vc_row]]]></content:encoded>
@@ -10408,10 +10408,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Portfolio Grid 3 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-grid-3-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-grid-3-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 13:51:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2884</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2884</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column][vc_custom_heading text="Grid 3 Columns" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes"][ut_header align="center" title="Portfolio Grid 3 Columns"]We believe our work speaks for itself. Browse our most recent projects below.
 [/ut_header][ut_custom_shortcode][ut_showcase id="2883"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
@@ -10811,10 +10811,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Portfolio Grid 4 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-grid-4-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-grid-4-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 14:09:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2894</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2894</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="Grid 4 Columns" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470233595901{margin-bottom: 10px !important;}"][ut_header align="center" title=" Portfolio Grid 4 Columns"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_custom_shortcode][ut_showcase id="2895"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11217,10 +11217,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Portfolio Grid 2 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-grid-2-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-grid-2-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 14:18:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2904</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2904</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="Grid 2 Columns" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470233882792{margin-bottom: 10px !important;}"][ut_header align="center" title="Portfolio Grid 2 Columns"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_custom_shortcode][ut_showcase id="2903"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11623,10 +11623,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Filter Gallery 3 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/filter-gallery-3-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/filter-gallery-3-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 14:22:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2909</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2909</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="3 Columns" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470234131369{margin-bottom: 10px !important;}"][ut_header align="center" title="Filter Gallery 3 Columns"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_custom_shortcode][ut_showcase id="2908"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12029,10 +12029,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Filter Gallery 2 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/filter-gallery-2-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/filter-gallery-2-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 14:44:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2915</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2915</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="2 Columns" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470235673374{margin-bottom: 10px !important;}"][ut_header align="center" title="Filter Gallery 2 Columns"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_custom_shortcode][ut_showcase id="2914"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12435,10 +12435,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Filter Gallery 4 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/filter-gallery-4-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/filter-gallery-4-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 15:01:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2922</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2922</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="4 Columns" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470236463752{margin-bottom: 10px !important;}"][ut_header align="center" title="Filter Gallery 4 Columns"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_custom_shortcode][ut_showcase id="2926"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12841,10 +12841,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Filter Gallery Without Gaps</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/filter-gallery-without-gaps/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/filter-gallery-without-gaps/</link>
 		<pubDate>Wed, 03 Aug 2016 15:14:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2929</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2929</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="No Gaps" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470237256701{margin-bottom: 10px !important;}"][ut_header align="center" title="Filter Gallery Without Gaps"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_custom_shortcode][ut_showcase id="2928"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -13247,10 +13247,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Portfolio Grid With Gaps</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-grid-with-gaps/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-grid-with-gaps/</link>
 		<pubDate>Wed, 03 Aug 2016 15:24:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2935</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2935</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="With Gaps" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470238006579{margin-bottom: 10px !important;}"][ut_header align="center" title="Portfolio Grid With Gaps"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_custom_shortcode][ut_showcase id="2934"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -13653,10 +13653,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Portfolio Carousels</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-carousels/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-carousels/</link>
 		<pubDate>Wed, 03 Aug 2016 15:53:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2941</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2941</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_custom_heading text="Page without hero" font_container="tag:h6|font_size:15px|text_align:center|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470107160400{margin-bottom: 10px !important;}"][ut_header align="center" title="Portfolio Carousels"]We believe our work speaks for itself. Browse our most recent projects below.[/ut_header][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="1 COLUMN" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2953"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="2 COLUMNS" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2952"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="3 COLUMNS" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2951"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="4 COLUMNS" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2950"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="5 COLUMNS" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2949"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="6 COLUMNS" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2948"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="7 COLUMNS" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2947"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="8 COLUMNS" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2946"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row][vc_column][vc_custom_heading text="9 COLUMNS" font_container="tag:h3|font_size:14|text_align:left" use_theme_fonts="yes"][ut_custom_shortcode][ut_showcase id="2940"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14059,10 +14059,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Portfolio Popup Lightbox</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-popup-lightbox/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio/portfolio-popup-lightbox/</link>
 		<pubDate>Wed, 03 Aug 2016 17:34:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio/portfolio-grid-3-columns-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio/portfolio-grid-3-columns-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column][vc_custom_heading text="Grid 3 Columns" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes"][ut_header align="global" title="Portfolio Popup Lightbox"]We believe our work speaks for itself. Browse our most recent projects below.
 [/ut_header][ut_custom_shortcode][ut_showcase id="2964"][/ut_custom_shortcode][/vc_column][/vc_row]]]></content:encoded>
@@ -14474,10 +14474,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Layout Style 12</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2980/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2980/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2980</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2980</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14537,10 +14537,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Layout Style 7</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2981/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/03/2981/</link>
 		<pubDate>Wed, 03 Aug 2016 21:06:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2981</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2981</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14600,10 +14600,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Portfolio Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-front-page/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-front-page/</link>
 		<pubDate>Wed, 20 Jul 2016 23:41:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=99</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=99</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14666,10 +14666,10 @@ Title Settings]]></wp:meta_value>
 	</item>
 	<item>
 		<title>John Street</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/john-street/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/john-street/</link>
 		<pubDate>Sun, 03 Jul 2016 23:46:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=100</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=100</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][ut_image_gallery thumbnail_size="large" grid="3" gap="40" animate_once="yes" delay_animation="true" effect="flipInX" gallery="3042,3043,3044,3045,3046,3047"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle"][vc_column width="2/3"][vc_custom_heading text="Single Portfolio Style 8" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469856555909{margin-bottom: 10px !important;}"][ut_header title="John Street"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][ut_social_share_bar share_text="SHARE:" border="true" share_text_color="#333333" icon_color="#999999" icon_color_hover="#f5ab35" border_color="#efefef"][/vc_column][vc_column width="1/3"][ut_portfolio_details style="compact" values="%5B%7B%22title%22%3A%22CLIENT%3A%22%2C%22description%22%3A%22John%20Street%22%7D%2C%7B%22title%22%3A%22DATE%3A%22%2C%22description%22%3A%22August%201%2C%202016%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22CATEGORY%3A%22%2C%22description%22%3A%22Creative%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22AUTHOR%3A%22%2C%22description%22%3A%22United%20Themes%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][/vc_row]]]></content:encoded>
@@ -15026,10 +15026,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Hard Cover Book</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/hard-cover-book/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/hard-cover-book/</link>
 		<pubDate>Fri, 01 Jul 2016 03:50:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=135</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=135</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_height="yes" equal_height="yes" content_placement="middle"][vc_column width="1/2"][vc_custom_heading text="Single Portfolio Style 7" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469760101545{margin-bottom: 10px !important;}"][ut_header title="We design a unique multipurpose website."]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores et ea rebum.
 
@@ -15385,10 +15385,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Top Brand</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/top-brand/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/top-brand/</link>
 		<pubDate>Sun, 10 Jul 2016 03:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=136</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=136</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column width="2/3"][ut_gallery_slider dots="false" effect_in="bounceIn" effect_out="bounceOut" slides="3043,3045,3044,3046" arrow_color="#333333" arrow_color_hover="#f5ab35"][/vc_column][vc_column width="1/3"][vc_custom_heading text="Single Portfolio Style 11" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470073522937{margin-bottom: 10px !important;}"][ut_header title="Top Brand"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
@@ -15750,10 +15750,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr.[/ut_header][ut_portfoli
 	</item>
 	<item>
 		<title>Black Watch</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/black-watch/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/black-watch/</link>
 		<pubDate>Thu, 07 Jul 2016 03:54:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=137</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=137</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row" equal_height="yes" content_placement="middle" css=".vc_custom_1470153837638{margin-bottom: 80px !important;}"][vc_column width="1/2"][vc_custom_heading text="Single Portfolio Style 4" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470153127186{margin-bottom: 10px !important;}"][ut_header title="Brooklyn is perfect for your presentation."]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.[/ut_header][/vc_column][vc_column width="1/2"][ut_animated_image size="medium" align="center" animate_once="yes" delay="true" image="3038" effect="zoomIn"][/vc_column][/vc_row][vc_row full_width="stretch_row" equal_height="yes" css=".vc_custom_1470162702299{margin-bottom: 0px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #222222 !important;}"][vc_column][vc_custom_heading text="Brooklyn 4 is here!" font_container="tag:h6|font_size:15px|text_align:center|color:%23f5ab35" use_theme_fonts="yes" css=".vc_custom_1470159454271{margin-bottom: 10px !important;}"][ut_header align="center" title="Present your web
 with brooklyn." title_color="#ffffff" lead_color="#999999" css=".vc_custom_1470188000328{margin-bottom: 80px !important;}"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
@@ -16132,10 +16132,10 @@ sed diam nonumy eirmod tempor invidunt ut labore.[/ut_header][ut_image_gallery t
 	</item>
 	<item>
 		<title>Relaxation Room</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/relaxation-room/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/relaxation-room/</link>
 		<pubDate>Tue, 05 Jul 2016 03:55:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=138</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=138</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column width="3/4"][vc_custom_heading text="Single Portfolio Style 9" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469889884692{margin-bottom: 10px !important;}"][ut_header title="Relaxation Room"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -16486,10 +16486,10 @@ gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][u
 	</item>
 	<item>
 		<title>Drawing</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/drawing/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/drawing/</link>
 		<pubDate>Sat, 02 Jul 2016 03:56:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=139</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=139</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][ut_image_gallery thumbnail_size="large" grid="2" gap="40" animate_once="yes" delay_animation="true" gallery="3047,3046,3044,3045" effect="flipInX"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Single Portfolio Style 12" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470074826957{margin-bottom: 10px !important;}"][ut_header title="Drawing"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.[/ut_header][ut_portfolio_details style="inline" values="%5B%7B%22title%22%3A%22CLIENT%3A%22%2C%22description%22%3A%22United%20Themes%22%7D%2C%7B%22title%22%3A%22DATE%3A%22%2C%22description%22%3A%22July%2028%2C%202016%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22CATEGORY%3A%22%2C%22description%22%3A%22Design%22%2C%22is_link%22%3A%22true%22%7D%5D"][ut_social_share_bar share_text="SHARE:" border="true" share_text_color="#333333" icon_color="#999999" icon_color_hover="#f5ab35" border_color="#efefef"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -16841,10 +16841,10 @@ gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][u
 	</item>
 	<item>
 		<title>Jack&#039;s Hot Cup</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/jacks-hot-cup/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/jacks-hot-cup/</link>
 		<pubDate>Mon, 04 Jul 2016 03:57:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=140</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=140</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column width="2/6"][vc_custom_heading text="Single Portfolio Style 3" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469717524368{margin-bottom: 10px !important;}"][ut_header title=" Jack's Hot Cup"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][ut_portfolio_details values="%5B%7B%22title%22%3A%22CLIENT%3A%22%2C%22description%22%3A%22Jack's%22%7D%2C%7B%22title%22%3A%22DATE%3A%22%2C%22description%22%3A%22July%2028%2C%202016%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22CATEGORY%3A%22%2C%22description%22%3A%22Design%22%2C%22is_link%22%3A%22true%22%7D%5D"][ut_social_share_bar share_text="SHARE:" border="true" share_text_color="#333333" icon_color="#999999" icon_color_hover="#f5ab35" border_color="#efefef"][/vc_column][vc_column width="4/6"][ut_image_gallery thumbnail_size="large" grid="3" adjust_row="yes" gap="40" animate_once="yes" delay_animation="true" effect="bounceInDown" gallery="3042,3043,3044,3045,3046,3047,3062,3063"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -17135,7 +17135,7 @@ gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][u
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_external_link]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://burger.film/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://burger.film/]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_showcase_image_size]]></wp:meta_key>
@@ -17188,10 +17188,10 @@ gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][u
 	</item>
 	<item>
 		<title>Brad&#039;s</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/brads/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/brads/</link>
 		<pubDate>Sat, 09 Jul 2016 01:32:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=525</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=525</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="bottom"][vc_column width="2/3"][vc_custom_heading text="Single Portfolio Style 5" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469730525127{margin-bottom: 10px !important;}"][ut_header title="Brad's"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][/vc_column][vc_column width="1/3"][ut_portfolio_details style="compact" values="%5B%7B%22title%22%3A%22CLIENT%3A%22%2C%22description%22%3A%22Brad's%22%7D%2C%7B%22title%22%3A%22DATE%3A%22%2C%22description%22%3A%22July%2028%2C%202016%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22CATEGORY%3A%22%2C%22description%22%3A%22Design%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22AUTHOR%3A%22%2C%22description%22%3A%22United%20Themes%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle"][vc_column][ut_image_gallery thumbnail_size="large" grid="3" gap="40" animate_once="yes" delay_animation="true" effect="zoomIn" gallery="3047,3046,3044,3045,3043,3042"][ut_social_share_bar share_text="SHARE:" border="true" share_text_color="#333333" icon_color="#999999" icon_color_hover="#f5ab35" border_color="#efefef"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -17555,10 +17555,10 @@ gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][u
 	</item>
 	<item>
 		<title>Brooklyn Magazine</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/brooklyn-magazine/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/brooklyn-magazine/</link>
 		<pubDate>Wed, 06 Jul 2016 01:32:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=526</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=526</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column][vc_custom_heading text="Single Portfolio Style 10" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1470029881511{margin-bottom: 10px !important;}"][ut_header title="Brooklyn Magazine"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row][vc_column width="5/6"][ut_gallery_slider dots="false" slides="3043,3045,3044,3046"][ut_social_share_bar share_text="SHARE:" border="true" share_text_color="#333333" icon_color="#999999" icon_color_hover="#f5ab35" border_color="#efefef"][/vc_column][vc_column width="1/6"][ut_image_gallery thumbnail_size="medium" gap="40" animate_once="yes" delay_animation="true" gallery="3043,3045,3044" effect="zoomIn"][ut_portfolio_details values="%5B%7B%22title%22%3A%22CLIENT%3A%22%2C%22description%22%3A%22Bklyn%20Magazine%22%7D%2C%7B%22title%22%3A%22DATE%3A%22%2C%22description%22%3A%22July%2028%2C%202016%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22CATEGORY%3A%22%2C%22description%22%3A%22Design%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -17922,10 +17922,10 @@ gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][u
 	</item>
 	<item>
 		<title>Berlin</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/berlin/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/berlin/</link>
 		<pubDate>Fri, 08 Jul 2016 01:33:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=527</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=527</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1469758135477{margin-bottom: 80px !important;}"][vc_column width="1/2"][vc_custom_heading text="Single Portfolio Style 6" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469757988023{margin-bottom: 10px !important;}"][ut_header title="Berlin"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][/vc_column][vc_column width="1/2"][ut_animated_image size="large" align="center" link_type="image" animate_once="yes" delay="true" image="3038" effect="fadeIn"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1469758138604{margin-bottom: 80px !important;}"][vc_column width="1/2"][ut_animated_image size="large" align="center" link_type="image" animate_once="yes" delay="true" image="3038" effect="fadeIn" delay_timer="400"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Single Portfolio Style 6" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469758000521{margin-bottom: 10px !important;}"][ut_header title="Orange room."]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][vc_custom_heading text="Single Portfolio Style 6" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469758024808{margin-bottom: 10px !important;}"][ut_header title="Orange is king."]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][/vc_column][vc_column width="1/2"][ut_animated_image size="large" align="center" link_type="image" animate_once="yes" delay="true" image="3038" effect="fadeIn" delay_timer="600"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle"][vc_column][ut_social_share_bar share_text="SHARE:" border="true" share_text_color="#333333" icon_color="#999999" icon_color_hover="#f5ab35" border_color="#efefef"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -18273,10 +18273,10 @@ gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][u
 	</item>
 	<item>
 		<title>Disc &amp; Cover Design</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/disc-cover-design/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/disc-cover-design/</link>
 		<pubDate>Tue, 12 Jul 2016 01:34:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=528</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=528</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="full" gap="40" animate_once="yes" delay_animation="true" gallery="3043,3045,3044" effect="fadeIn"][/vc_column][vc_column width="1/3"][vc_custom_heading text="Single Portfolio Style 1" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469717353210{margin-bottom: 10px !important;}"][ut_header title="Disc &amp; Cover Design"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
@@ -18647,10 +18647,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Frame Decoration</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/frame-decoration/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-item/frame-decoration/</link>
 		<pubDate>Mon, 11 Jul 2016 01:34:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=529</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=529</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row equal_height="yes" content_placement="middle"][vc_column width="3/4"][vc_custom_heading text="Single Portfolio Style 2" font_container="tag:h6|font_size:15px|text_align:left|color:%23cccccc" use_theme_fonts="yes" css=".vc_custom_1469717493127{margin-bottom: 10px !important;}"][ut_header title="Frame Decoration"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/ut_header][ut_social_share_bar share_text="SHARE:" border="true" share_text_color="#333333" icon_color="#999999" icon_color_hover="#f5ab35" border_color="#efefef"][/vc_column][vc_column width="1/4"][ut_portfolio_details values="%5B%7B%22title%22%3A%22CLIENT%3A%22%2C%22description%22%3A%22Bklyn%20Interiors%22%7D%2C%7B%22title%22%3A%22DATE%3A%22%2C%22description%22%3A%22July%2028%2C%202016%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22CATEGORY%3A%22%2C%22description%22%3A%22Design%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][ut_animated_image size="large" align="center" link_type="image" animate_once="yes" delay="true" image="3043" effect="fadeIn"][/vc_column][vc_column width="1/2"][ut_image_gallery thumbnail_size="large" grid="2" gap="40" animate_once="yes" delay_animation="true" gallery="3046,3044,3045,3043" effect="fadeIn"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -19010,10 +19010,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Portfolio Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-page/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-page/</link>
 		<pubDate>Tue, 02 Aug 2016 18:26:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2842</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2842</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -19076,10 +19076,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Portfolio Grid 3 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-grid-3-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-grid-3-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 13:50:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2883</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2883</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -19142,10 +19142,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Portfolio Grid 4 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-grid-4-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-grid-4-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 14:09:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2895</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2895</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -19208,10 +19208,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Portfolio Grid 2 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-grid-2-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-grid-2-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 14:17:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2903</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2903</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -19274,10 +19274,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Filter Gallery 3 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/filterrable-portfolio-gallery/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/filterrable-portfolio-gallery/</link>
 		<pubDate>Wed, 03 Aug 2016 14:21:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2908</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2908</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -19340,10 +19340,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Filter Gallery 2 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/filter-gallery-2-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/filter-gallery-2-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 14:44:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2914</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2914</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -19406,10 +19406,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Filter Gallery 4 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/filter-gallery-4-columns/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/filter-gallery-4-columns/</link>
 		<pubDate>Wed, 03 Aug 2016 15:02:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2926</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2926</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -19472,10 +19472,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	</item>
 	<item>
 		<title>Brad&#039;s</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/07/brads/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/07/brads/</link>
 		<pubDate>Thu, 07 Nov 2013 07:24:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=555</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery link="file" size="large" ids="3047,3046,3044,3045,3043,3042"]
 
@@ -19574,12 +19574,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>AWESOME WORDPRESS THEMES</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/05/post-format-link/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/05/post-format-link/</link>
 		<pubDate>Tue, 05 Nov 2013 08:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=565</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="http://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
+		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="https://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -19616,13 +19616,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Post Format: Quote</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/08/post-format-quote/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/08/post-format-quote/</link>
 		<pubDate>Fri, 08 Nov 2013 08:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=575</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=575</guid>
 		<description></description>
 		<content:encoded><![CDATA[<blockquote>Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-<cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
+<cite><a href="https://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1242</wp:post_id>
@@ -19656,10 +19656,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Jerry&#039;s Diner - Bounce In Place</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/05/jerrys-diner-bounce-in-place/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/05/jerrys-diner-bounce-in-place/</link>
 		<pubDate>Tue, 05 Nov 2013 08:36:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=587</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=587</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167220706&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -19759,10 +19759,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Cover Design</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/08/cover-design/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/08/cover-design/</link>
 		<pubDate>Fri, 08 Nov 2013 03:20:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2442</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2442</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -19859,10 +19859,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>An Ode to Creative Work by Behance</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/07/an-ode-to-creative-work-by-behance/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/07/an-ode-to-creative-work-by-behance/</link>
 		<pubDate>Thu, 07 Nov 2013 04:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2469</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2469</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/TXQT1JKCQPo" frameborder="0" allowfullscreen></iframe>
 
@@ -19976,10 +19976,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Standard Post without Image</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/05/post-without-image/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2013/11/05/post-without-image/</link>
 		<pubDate>Tue, 05 Nov 2013 05:58:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2484</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2484</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -20057,10 +20057,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Hello Brooklyn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2014/11/05/hello-brooklyn/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2014/11/05/hello-brooklyn/</link>
 		<pubDate>Wed, 05 Nov 2014 06:01:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2486</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2486</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://player.vimeo.com/video/10089801?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -20114,7 +20114,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_9edd1db7d8369e94aaeca0c2b85f4bf3]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_activate_csection]]></wp:meta_key>
@@ -20159,10 +20159,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Filter Gallery Without Gaps</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/filter-gallery-without-gaps/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/filter-gallery-without-gaps/</link>
 		<pubDate>Wed, 03 Aug 2016 15:13:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2928</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2928</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20225,10 +20225,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Grid With Gaps</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-grid-with-gaps/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-grid-with-gaps/</link>
 		<pubDate>Wed, 03 Aug 2016 15:24:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2934</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2934</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20291,10 +20291,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 9 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-9-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-9-column/</link>
 		<pubDate>Wed, 03 Aug 2016 15:54:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2940</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=2940</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20361,10 +20361,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 8 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-8-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-8-column/</link>
 		<pubDate>Wed, 03 Aug 2016 16:23:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20435,10 +20435,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 7 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-7-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-7-column/</link>
 		<pubDate>Wed, 03 Aug 2016 16:23:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20513,10 +20513,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 6 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-6-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-6-column/</link>
 		<pubDate>Wed, 03 Aug 2016 16:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20595,10 +20595,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 5 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-5-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-5-column/</link>
 		<pubDate>Wed, 03 Aug 2016 16:23:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20681,10 +20681,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 4 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-4-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-4-column/</link>
 		<pubDate>Wed, 03 Aug 2016 16:23:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20771,10 +20771,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 3 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-3-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-3-column/</link>
 		<pubDate>Wed, 03 Aug 2016 16:23:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20865,10 +20865,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 2 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-2-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-2-column/</link>
 		<pubDate>Wed, 03 Aug 2016 16:23:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -20963,10 +20963,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Carousel 1 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-1-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-carousel-1-column/</link>
 		<pubDate>Wed, 03 Aug 2016 16:23:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy-copy-copy-copy-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-carousel-copy-copy-copy-copy-copy-copy-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21065,10 +21065,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Portfolio Popup Lightbox</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-popup-lightbox/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/portfolio-manager/portfolio-popup-lightbox/</link>
 		<pubDate>Wed, 03 Aug 2016 17:33:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-grid-3-columns-copy/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/portfolio-manager/portfolio-grid-3-columns-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21139,10 +21139,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>contact</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?post_type=wpcf7_contact_form&#038;p=334</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?post_type=wpcf7_contact_form&#038;p=334</link>
 		<pubDate>Sun, 24 Jul 2016 23:04:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=wpcf7_contact_form&#038;p=334</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=wpcf7_contact_form&#038;p=334</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>Your Name (required)<br />
     [text* your-name] </p>
@@ -21166,7 +21166,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21)
 public@unitedthemes.com
 Reply-To: [your-email]
 
@@ -21179,7 +21179,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21)
 [your-email]
 Reply-To: public@unitedthemes.com
 
@@ -21250,7 +21250,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -21258,7 +21258,7 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -21275,10 +21275,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?post_type=vc_grid_item&#038;p=615</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/?post_type=vc_grid_item&#038;p=615</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=vc_grid_item&#038;p=615</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=vc_grid_item&#038;p=615</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_gitem][vc_gitem_animated_block][vc_gitem_zone_a][vc_gitem_row position="top"][vc_gitem_col][/vc_gitem_col][/vc_gitem_row][vc_gitem_row position="middle"][vc_gitem_col width="1/2"][/vc_gitem_col][vc_gitem_col width="1/2"][/vc_gitem_col][/vc_gitem_row][vc_gitem_row position="bottom"][vc_gitem_col][/vc_gitem_col][/vc_gitem_row][/vc_gitem_zone_a][vc_gitem_zone_b][vc_gitem_row position="top"][vc_gitem_col][/vc_gitem_col][/vc_gitem_row][vc_gitem_row position="middle"][vc_gitem_col width="1/2"][/vc_gitem_col][vc_gitem_col width="1/2"][/vc_gitem_col][/vc_gitem_row][vc_gitem_row position="bottom"][vc_gitem_col][/vc_gitem_col][/vc_gitem_row][/vc_gitem_zone_b][/vc_gitem_animated_block][/vc_gitem]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -21305,10 +21305,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Standard Blog Post With All The Trimmings</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/01/standard-blog-post-with-all-the-trimmings/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo21/2016/08/01/standard-blog-post-with-all-the-trimmings/</link>
 		<pubDate>Mon, 01 Aug 2016 10:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=1</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -21406,7 +21406,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2013-10-07 10:38:23]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2013-10-07 10:38:23]]></wp:comment_date_gmt>

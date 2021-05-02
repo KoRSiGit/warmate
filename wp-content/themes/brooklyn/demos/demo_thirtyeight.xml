@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.9.5" created="2018-04-28 01:46" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>Brooklyn</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38</link>
 	<description>Website #38</description>
 	<pubDate>Sat, 28 Apr 2018 01:46:34 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -50,10 +50,10 @@
 
 	<item>
 		<title>brooklyn-32</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=9</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=9</link>
 		<pubDate>Fri, 27 Apr 2018 03:36:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-32.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-32.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -69,7 +69,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-32.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-32.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-32.png]]></wp:meta_value>
@@ -81,10 +81,10 @@
 	</item>
 	<item>
 		<title>brooklyn-57</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=10</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=10</link>
 		<pubDate>Fri, 27 Apr 2018 03:36:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-57.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-57.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -100,7 +100,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-57.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-57.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-57.png]]></wp:meta_value>
@@ -112,10 +112,10 @@
 	</item>
 	<item>
 		<title>brooklyn-72</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=11</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=11</link>
 		<pubDate>Fri, 27 Apr 2018 03:36:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-72.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-72.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -131,7 +131,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-72.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-72.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-72.png]]></wp:meta_value>
@@ -143,10 +143,10 @@
 	</item>
 	<item>
 		<title>brooklyn-114</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=12</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=12</link>
 		<pubDate>Fri, 27 Apr 2018 03:36:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-114.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-114.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -162,7 +162,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-114.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-114.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-114.png]]></wp:meta_value>
@@ -174,10 +174,10 @@
 	</item>
 	<item>
 		<title>brooklyn-144</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=13</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?attachment_id=13</link>
 		<pubDate>Fri, 27 Apr 2018 03:36:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-144.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-144.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -193,7 +193,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-144.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/brooklyn-144.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-144.png]]></wp:meta_value>
@@ -205,10 +205,10 @@
 	</item>
 	<item>
 		<title>1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/1/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/1/</link>
 		<pubDate>Sat, 28 Apr 2018 01:21:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -224,7 +224,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/1.jpg]]></wp:meta_value>
@@ -236,10 +236,10 @@
 	</item>
 	<item>
 		<title>2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2/</link>
 		<pubDate>Sat, 28 Apr 2018 01:21:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/2.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -255,7 +255,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/2.jpg]]></wp:meta_value>
@@ -267,10 +267,10 @@
 	</item>
 	<item>
 		<title>3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/3/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/3/</link>
 		<pubDate>Sat, 28 Apr 2018 01:21:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/3.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -286,7 +286,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/3.jpg]]></wp:meta_value>
@@ -298,10 +298,10 @@
 	</item>
 	<item>
 		<title>4</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/4/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/4/</link>
 		<pubDate>Sat, 28 Apr 2018 01:21:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/4.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -317,7 +317,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/4.jpg]]></wp:meta_value>
@@ -329,10 +329,10 @@
 	</item>
 	<item>
 		<title>5</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/5/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/5/</link>
 		<pubDate>Sat, 28 Apr 2018 01:21:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/5.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -348,7 +348,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/5.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/5.jpg]]></wp:meta_value>
@@ -360,10 +360,10 @@
 	</item>
 	<item>
 		<title>6</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/6/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/6/</link>
 		<pubDate>Sat, 28 Apr 2018 01:21:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/6.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -379,7 +379,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/6.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/6.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/6.jpg]]></wp:meta_value>
@@ -391,10 +391,10 @@
 	</item>
 	<item>
 		<title>7</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/7/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/7/</link>
 		<pubDate>Sat, 28 Apr 2018 01:21:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/7.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -410,7 +410,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/7.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/7.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/7.jpg]]></wp:meta_value>
@@ -422,10 +422,10 @@
 	</item>
 	<item>
 		<title>rsvp</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/rsvp-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/rsvp-2/</link>
 		<pubDate>Fri, 27 Apr 2018 21:27:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/rsvp.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/rsvp.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -441,7 +441,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/rsvp.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/rsvp.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/rsvp.jpg]]></wp:meta_value>
@@ -453,10 +453,10 @@
 	</item>
 	<item>
 		<title>ceremony</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/ceremony/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/ceremony/</link>
 		<pubDate>Fri, 27 Apr 2018 23:08:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/ceremony.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/ceremony.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -472,7 +472,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/ceremony.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/ceremony.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/ceremony.jpg]]></wp:meta_value>
@@ -484,10 +484,10 @@
 	</item>
 	<item>
 		<title>dinner</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/dinner/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/dinner/</link>
 		<pubDate>Fri, 27 Apr 2018 23:08:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/dinner.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/dinner.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -503,7 +503,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/dinner.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/dinner.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/dinner.jpg]]></wp:meta_value>
@@ -515,10 +515,10 @@
 	</item>
 	<item>
 		<title>8</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/8/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/8/</link>
 		<pubDate>Sat, 28 Apr 2018 01:21:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/8.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -534,7 +534,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/8.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/8.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/8.jpg]]></wp:meta_value>
@@ -546,10 +546,10 @@
 	</item>
 	<item>
 		<title>hero-3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/hero-3-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/hero-3-2/</link>
 		<pubDate>Sat, 28 Apr 2018 01:17:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-3-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-3-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -565,7 +565,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-3-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-3-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hero-3-1.jpg]]></wp:meta_value>
@@ -577,10 +577,10 @@
 	</item>
 	<item>
 		<title>hero-1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/hero-1-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/hero-1-2/</link>
 		<pubDate>Sat, 28 Apr 2018 01:17:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-1-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-1-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -596,7 +596,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-1-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-1-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hero-1-1.jpg]]></wp:meta_value>
@@ -608,10 +608,10 @@
 	</item>
 	<item>
 		<title>hero-2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/hero-2-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/hero-2-2/</link>
 		<pubDate>Sat, 28 Apr 2018 01:17:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-2-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-2-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -627,7 +627,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-2-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-2-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hero-2-1.jpg]]></wp:meta_value>
@@ -639,10 +639,10 @@
 	</item>
 	<item>
 		<title>edward-cisneros-411011-unsplash</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/edward-cisneros-411011-unsplash/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/front-page/edward-cisneros-411011-unsplash/</link>
 		<pubDate>Sat, 28 Apr 2018 01:18:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/edward-cisneros-411011-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/edward-cisneros-411011-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -658,7 +658,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/edward-cisneros-411011-unsplash.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/edward-cisneros-411011-unsplash.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/edward-cisneros-411011-unsplash.jpg]]></wp:meta_value>
@@ -670,10 +670,10 @@
 	</item>
 	<item>
 		<title>Hello world!</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/26/hello-world/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/26/hello-world/</link>
 		<pubDate>Thu, 26 Apr 2018 21:08:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?p=1</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -709,10 +709,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Thu, 26 Apr 2018 21:23:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Email (required)
     [email* your-email] </label>
@@ -738,7 +738,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38)
 Reply-To: [your-email]
 
 
@@ -751,7 +751,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38)
 Reply-To: public@unitedthemes.com
 
 
@@ -817,7 +817,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -825,7 +825,7 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38)";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38)";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -846,12 +846,12 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/</link>
 		<pubDate>Fri, 27 Apr 2018 03:35:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?page_id=7</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?page_id=7</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_section el_name="Our Story" bklyn_section_anchor_id="Story"][vc_row el_name="We met in college..."][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867817110{margin-bottom: 40px !important;}"].01[/ut_custom_heading][ut_header title="We met in college..."][/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="more text"][vc_column][ut_header]Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.[/ut_header][/vc_column][/vc_row][vc_row bklyn_overlay="true" background_position="center center" css=".vc_custom_1524878267898{margin-top: 40px !important;padding-top: 300px !important;padding-bottom: 260px !important;background-image: url(http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-3-1.jpg?id=225) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_name="He proposed, she said YES!" bklyn_overlay_color="rgba(26, 28, 30, 0.3)"][vc_column][ut_header font_size="100" line_height="100" title="He proposed, she said YES!" title_color="#ffffff" lead_color="#ffffff"][/ut_header][/vc_column][/vc_row][/vc_section][vc_section el_name="Gallery" bklyn_section_anchor_id="Gallery"][vc_row el_name="Best friends"][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867821692{margin-bottom: 40px !important;}"].02[/ut_custom_heading][ut_header title="Best friends"][/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="more text"][vc_column][ut_header]Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.<br />
+		<content:encoded><![CDATA[<p>[vc_section el_name="Our Story" bklyn_section_anchor_id="Story"][vc_row el_name="We met in college..."][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867817110{margin-bottom: 40px !important;}"].01[/ut_custom_heading][ut_header title="We met in college..."][/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="more text"][vc_column][ut_header]Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.[/ut_header][/vc_column][/vc_row][vc_row bklyn_overlay="true" background_position="center center" css=".vc_custom_1524878267898{margin-top: 40px !important;padding-top: 300px !important;padding-bottom: 260px !important;background-image: url(https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-3-1.jpg?id=225) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_name="He proposed, she said YES!" bklyn_overlay_color="rgba(26, 28, 30, 0.3)"][vc_column][ut_header font_size="100" line_height="100" title="He proposed, she said YES!" title_color="#ffffff" lead_color="#ffffff"][/ut_header][/vc_column][/vc_row][/vc_section][vc_section el_name="Gallery" bklyn_section_anchor_id="Gallery"][vc_row el_name="Best friends"][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867821692{margin-bottom: 40px !important;}"].02[/ut_custom_heading][ut_header title="Best friends"][/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="more text"][vc_column][ut_header]Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.<br />
 [/ut_header][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" el_name="Image Gallery"][vc_column][ut_image_gallery thumbnail_size="large" grid="3" gap="5" caption="yes" lazy="true" loader="true" delay_animation="true" gallery="227,226,225,206,205,229" loader_color="#c39f76" caption_color="#ffffff" caption_background="rgba(26,28,30,0.3)" effect="fadeIn"][/vc_column][/vc_row][/vc_section][vc_section el_name="Events" bklyn_section_anchor_id="Events"][vc_row el_name="Wedding Details"][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867826408{margin-bottom: 40px !important;}"].03[/ut_custom_heading][ut_header title="Wedding Details"]<br />
 [/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="19th October 2018 |  The Brooklyn Church of Christ"][vc_column][ut_header]19th October 2018 |  The Brooklyn Church of Christ<br />
 [/ut_header][/vc_column][/vc_row][vc_row el_name="Main Ceremony"][vc_column width="1/2"][ut_custom_heading tag="h3" align="center"]Main Ceremony[/ut_custom_heading][ut_animated_image size="large" image="205" effect="fadeIn"][vc_column_text]</p>
@@ -864,7 +864,7 @@ Brooklyn, NY 11210</p>
 MarkJoseph Steakhouse<br />
 261 Water St<br />
 New York, NY 10038</p>
-<p>[/vc_column_text][/vc_column][/vc_row][/vc_section][vc_section el_name="Registry / Section has padding bottom 0" bklyn_section_anchor_id="Registry" css=".vc_custom_1524873789448{padding-bottom: 0px !important;}"][vc_row el_name="Gift Registry"][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867831296{margin-bottom: 40px !important;}"].04[/ut_custom_heading][ut_header title="Gift Registry"][/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="more text"][vc_column][ut_header]Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.[/ut_header][/vc_column][/vc_row][vc_row el_name="Gift Image Gallery / Image Gallery has margin bottom 0"][vc_column][ut_image_gallery thumbnail_size="full" grid="4" gap="40" lightbox="no" image_opacity="30" delay_animation="true" gallery="238,237,236,235,234,233,232,231" effect="fadeIn" css=".vc_custom_1524878493296{margin-bottom: 0px !important;}"][/vc_column][/vc_row][/vc_section][vc_section bklyn_overlay="true" background_position="center center" el_name="RSVP" bklyn_section_anchor_id="RSVP" css=".vc_custom_1524873645576{background-image: url(http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/rsvp.jpg?id=167) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" bklyn_overlay_color="linear-gradient(to bottom, #ffffff 0%, rgba(255, 255, 255, 0.6) 100%)"][vc_row el_name="Are you attending?"][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867843616{margin-bottom: 40px !important;}"].05[/ut_custom_heading][ut_header title="Are you attending?"][/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="Kindly response before 30 september."][vc_column][ut_header]Kindly response before 30 september.[/ut_header][/vc_column][/vc_row][vc_row][vc_column offset="vc_col-lg-offset-3 vc_col-lg-6"][ut_c7_shortcode form_id="5"][/vc_column][/vc_row][/vc_section]</p>
+<p>[/vc_column_text][/vc_column][/vc_row][/vc_section][vc_section el_name="Registry / Section has padding bottom 0" bklyn_section_anchor_id="Registry" css=".vc_custom_1524873789448{padding-bottom: 0px !important;}"][vc_row el_name="Gift Registry"][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867831296{margin-bottom: 40px !important;}"].04[/ut_custom_heading][ut_header title="Gift Registry"][/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="more text"][vc_column][ut_header]Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.[/ut_header][/vc_column][/vc_row][vc_row el_name="Gift Image Gallery / Image Gallery has margin bottom 0"][vc_column][ut_image_gallery thumbnail_size="full" grid="4" gap="40" lightbox="no" image_opacity="30" delay_animation="true" gallery="238,237,236,235,234,233,232,231" effect="fadeIn" css=".vc_custom_1524878493296{margin-bottom: 0px !important;}"][/vc_column][/vc_row][/vc_section][vc_section bklyn_overlay="true" background_position="center center" el_name="RSVP" bklyn_section_anchor_id="RSVP" css=".vc_custom_1524873645576{background-image: url(https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/rsvp.jpg?id=167) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" bklyn_overlay_color="linear-gradient(to bottom, #ffffff 0%, rgba(255, 255, 255, 0.6) 100%)"][vc_row el_name="Are you attending?"][vc_column][ut_custom_heading tag="h6" align="center" css=".vc_custom_1524867843616{margin-bottom: 40px !important;}"].05[/ut_custom_heading][ut_header title="Are you attending?"][/ut_header][vc_zigzag el_width="10" el_border_width="8"][/vc_column][/vc_row][vc_row el_name="Kindly response before 30 september."][vc_column][ut_header]Kindly response before 30 september.[/ut_header][/vc_column][/vc_row][vc_row][vc_column offset="vc_col-lg-offset-3 vc_col-lg-6"][ut_c7_shortcode form_id="5"][/vc_column][/vc_row][/vc_section]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
@@ -1549,7 +1549,7 @@ New York, NY 10038</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1524873789448{padding-bottom: 0px !important;}.vc_custom_1524873645576{background-image: url(http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/rsvp.jpg?id=167) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1524878267898{margin-top: 40px !important;padding-top: 300px !important;padding-bottom: 260px !important;background-image: url(http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-3-1.jpg?id=225) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1524867817110{margin-bottom: 40px !important;}.vc_custom_1524867821692{margin-bottom: 40px !important;}.vc_custom_1524867826408{margin-bottom: 40px !important;}.vc_custom_1524867831296{margin-bottom: 40px !important;}.vc_custom_1524878493296{margin-bottom: 0px !important;}.vc_custom_1524867843616{margin-bottom: 40px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1524873789448{padding-bottom: 0px !important;}.vc_custom_1524873645576{background-image: url(https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/rsvp.jpg?id=167) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1524878267898{margin-top: 40px !important;padding-top: 300px !important;padding-bottom: 260px !important;background-image: url(https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/wp-content/uploads/2018/04/hero-3-1.jpg?id=225) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1524867817110{margin-bottom: 40px !important;}.vc_custom_1524867821692{margin-bottom: 40px !important;}.vc_custom_1524867826408{margin-bottom: 40px !important;}.vc_custom_1524867831296{margin-bottom: 40px !important;}.vc_custom_1524878493296{margin-bottom: 0px !important;}.vc_custom_1524867843616{margin-bottom: 40px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_caption_slogan_margin]]></wp:meta_key>
@@ -1574,10 +1574,10 @@ New York, NY 10038</p>
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/14/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/14/</link>
 		<pubDate>Fri, 27 Apr 2018 03:37:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?p=14</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/?p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1637,10 +1637,10 @@ New York, NY 10038</p>
 	</item>
 	<item>
 		<title>When &amp; Where</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/events/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/events/</link>
 		<pubDate>Fri, 27 Apr 2018 17:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/events/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/events/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1659,7 +1659,7 @@ New York, NY 10038</p>
 		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-events]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-events]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1696,10 +1696,10 @@ New York, NY 10038</p>
 	</item>
 	<item>
 		<title>Our Story</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/story/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/story/</link>
 		<pubDate>Fri, 27 Apr 2018 14:53:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/story/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/story/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1750,15 +1750,15 @@ New York, NY 10038</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-story]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-story]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Gallery</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/gallery/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/gallery/</link>
 		<pubDate>Fri, 27 Apr 2018 15:25:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/gallery/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/gallery/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1809,15 +1809,15 @@ New York, NY 10038</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-gallery]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-gallery]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>RSVP</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/rsvp/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/rsvp/</link>
 		<pubDate>Fri, 27 Apr 2018 17:40:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/rsvp/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/rsvp/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1856,7 +1856,7 @@ New York, NY 10038</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-rsvp]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-rsvp]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
@@ -1873,10 +1873,10 @@ New York, NY 10038</p>
 	</item>
 	<item>
 		<title>Registry</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/registry/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/registry/</link>
 		<pubDate>Fri, 27 Apr 2018 17:41:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/registry/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/2018/04/27/registry/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1927,7 +1927,7 @@ New York, NY 10038</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-registry]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo38/#section-registry]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

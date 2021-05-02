@@ -2,7 +2,7 @@
 	jQuery tagEditor v1.0.20
     Copyright (c) 2014 Simon Steinberger / Pixabay
     GitHub: https://github.com/Pixabay/jQuery-tagEditor
-	License: http://www.opensource.org/licenses/mit-license.php
+	License: https://www.opensource.org/licenses/mit-license.php
 */
 
 (function($){

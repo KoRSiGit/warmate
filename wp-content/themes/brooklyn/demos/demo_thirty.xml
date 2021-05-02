@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.8" created="2017-07-11 03:01" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>Brooklyn</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30</link>
 	<description>Demo 30</description>
 	<pubDate>Tue, 11 Jul 2017 03:01:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[john@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[John Brooklyn]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -67,10 +67,10 @@
 
 	<item>
 		<title>quino-al-101314</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/quino-al-101314/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/quino-al-101314/</link>
 		<pubDate>Mon, 10 Jul 2017 08:30:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/quino-al-101314.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/quino-al-101314.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -86,7 +86,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/quino-al-101314.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/quino-al-101314.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/quino-al-101314.jpg]]></wp:meta_value>
@@ -98,10 +98,10 @@
 	</item>
 	<item>
 		<title>samuel-zeller-34751</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/samuel-zeller-34751/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/samuel-zeller-34751/</link>
 		<pubDate>Mon, 10 Jul 2017 08:30:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/samuel-zeller-34751.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/samuel-zeller-34751.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Indefinable]]></excerpt:encoded>
@@ -117,7 +117,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/samuel-zeller-34751.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/samuel-zeller-34751.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/samuel-zeller-34751.jpg]]></wp:meta_value>
@@ -129,10 +129,10 @@
 	</item>
 	<item>
 		<title>sarah-mak-54250</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/sarah-mak-54250/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/sarah-mak-54250/</link>
 		<pubDate>Mon, 10 Jul 2017 08:30:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/sarah-mak-54250.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/sarah-mak-54250.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Enjoying the Life]]></excerpt:encoded>
@@ -148,7 +148,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/sarah-mak-54250.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/sarah-mak-54250.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/sarah-mak-54250.jpg]]></wp:meta_value>
@@ -160,10 +160,10 @@
 	</item>
 	<item>
 		<title>tony-naccarato-55</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/tony-naccarato-55/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/tony-naccarato-55/</link>
 		<pubDate>Mon, 10 Jul 2017 08:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/tony-naccarato-55.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/tony-naccarato-55.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lighthouse]]></excerpt:encoded>
@@ -179,7 +179,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/tony-naccarato-55.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/tony-naccarato-55.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/tony-naccarato-55.jpg]]></wp:meta_value>
@@ -191,10 +191,10 @@
 	</item>
 	<item>
 		<title>zach-guinta-51887</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/zach-guinta-51887/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/zach-guinta-51887/</link>
 		<pubDate>Mon, 10 Jul 2017 08:31:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/zach-guinta-51887.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/zach-guinta-51887.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Barely Visible]]></excerpt:encoded>
@@ -210,7 +210,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/zach-guinta-51887.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/zach-guinta-51887.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/zach-guinta-51887.jpg]]></wp:meta_value>
@@ -222,10 +222,10 @@
 	</item>
 	<item>
 		<title>christopher-campbell-30253</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/christopher-campbell-30253/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/christopher-campbell-30253/</link>
 		<pubDate>Mon, 10 Jul 2017 08:31:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/christopher-campbell-30253.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/christopher-campbell-30253.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Underwater]]></excerpt:encoded>
@@ -241,7 +241,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/christopher-campbell-30253.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/christopher-campbell-30253.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/christopher-campbell-30253.jpg]]></wp:meta_value>
@@ -253,10 +253,10 @@
 	</item>
 	<item>
 		<title>jordan-whitt-54480</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/jordan-whitt-54480/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/jordan-whitt-54480/</link>
 		<pubDate>Mon, 10 Jul 2017 08:31:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jordan-whitt-54480.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jordan-whitt-54480.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Children]]></excerpt:encoded>
@@ -272,7 +272,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jordan-whitt-54480.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jordan-whitt-54480.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/jordan-whitt-54480.jpg]]></wp:meta_value>
@@ -284,10 +284,10 @@
 	</item>
 	<item>
 		<title>jon-tyson-112003</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/jon-tyson-112003/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/jon-tyson-112003/</link>
 		<pubDate>Mon, 10 Jul 2017 08:48:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jon-tyson-112003.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jon-tyson-112003.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[From Above]]></excerpt:encoded>
@@ -303,7 +303,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jon-tyson-112003.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jon-tyson-112003.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/jon-tyson-112003.jpg]]></wp:meta_value>
@@ -315,10 +315,10 @@
 	</item>
 	<item>
 		<title>lotte-meijer-136335</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/beach-life-guard/lotte-meijer-136335/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/beach-life-guard/lotte-meijer-136335/</link>
 		<pubDate>Mon, 10 Jul 2017 08:50:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/lotte-meijer-136335.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/lotte-meijer-136335.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -334,7 +334,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/lotte-meijer-136335.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/lotte-meijer-136335.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/lotte-meijer-136335.jpg]]></wp:meta_value>
@@ -346,10 +346,10 @@
 	</item>
 	<item>
 		<title>peter-sjo-190966</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/time-of-life/peter-sjo-190966/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/time-of-life/peter-sjo-190966/</link>
 		<pubDate>Mon, 10 Jul 2017 08:55:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/peter-sjo-190966.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/peter-sjo-190966.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Just a Tattoo]]></excerpt:encoded>
@@ -365,7 +365,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/peter-sjo-190966.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/peter-sjo-190966.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/peter-sjo-190966.jpg]]></wp:meta_value>
@@ -377,10 +377,10 @@
 	</item>
 	<item>
 		<title>black-and-white-beach-life-guard-safety</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/beach-life-guard/black-and-white-beach-life-guard-safety/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/beach-life-guard/black-and-white-beach-life-guard-safety/</link>
 		<pubDate>Mon, 10 Jul 2017 09:15:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-beach-life-guard-safety.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-beach-life-guard-safety.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Life Guard Safety]]></excerpt:encoded>
@@ -396,7 +396,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-beach-life-guard-safety.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-beach-life-guard-safety.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/black-and-white-beach-life-guard-safety.jpg]]></wp:meta_value>
@@ -408,10 +408,10 @@
 	</item>
 	<item>
 		<title>pexels-photo-24542</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/pexels-photo-24542/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/pexels-photo-24542/</link>
 		<pubDate>Mon, 10 Jul 2017 09:15:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-24542.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-24542.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -427,7 +427,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-24542.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-24542.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3393;s:6:"height";i:2262;s:4:"file";s:30:"2017/07/pexels-photo-24542.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"pexels-photo-24542-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:30:"pexels-photo-24542-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:30:"pexels-photo-24542-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"pexels-photo-24542-1160x1160.jpg";s:5:"width";i:1160;s:6:"height";i:1160;s:9:"mime-type";s:10:"image/jpeg";}s:11:"ut-lightbox";a:4:{s:4:"file";s:31:"pexels-photo-24542-1080x720.jpg";s:5:"width";i:1080;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:4:{i:0;s:8:"1160x773";i:1;s:11:"1160x773@2x";i:2;s:7:"400x400";i:3;s:10:"400x400@2x";}}}]]></wp:meta_value>
@@ -439,10 +439,10 @@
 	</item>
 	<item>
 		<title>samuel-zeller-34761</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/samuel-zeller-34761/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/samuel-zeller-34761/</link>
 		<pubDate>Mon, 10 Jul 2017 09:16:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/samuel-zeller-34761.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/samuel-zeller-34761.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[More Birds]]></excerpt:encoded>
@@ -458,7 +458,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/samuel-zeller-34761.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/samuel-zeller-34761.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/samuel-zeller-34761.jpg]]></wp:meta_value>
@@ -470,10 +470,10 @@
 	</item>
 	<item>
 		<title>black-and-white-nature-sailing-ship-ship</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/black-and-white-nature-sailing-ship-ship/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/black-and-white-nature-sailing-ship-ship/</link>
 		<pubDate>Mon, 10 Jul 2017 10:04:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-nature-sailing-ship-ship.jpeg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-nature-sailing-ship-ship.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Nature Sailing]]></excerpt:encoded>
@@ -489,7 +489,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-nature-sailing-ship-ship.jpeg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-nature-sailing-ship-ship.jpeg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/black-and-white-nature-sailing-ship-ship.jpeg]]></wp:meta_value>
@@ -501,10 +501,10 @@
 	</item>
 	<item>
 		<title>StockSnap_DFTIIGAYTR</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/lighthouse/stocksnap_dftiigaytr/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/lighthouse/stocksnap_dftiigaytr/</link>
 		<pubDate>Mon, 10 Jul 2017 10:07:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_DFTIIGAYTR.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_DFTIIGAYTR.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Another Lighthouse]]></excerpt:encoded>
@@ -520,7 +520,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_DFTIIGAYTR.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_DFTIIGAYTR.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_DFTIIGAYTR.jpg]]></wp:meta_value>
@@ -532,10 +532,10 @@
 	</item>
 	<item>
 		<title>StockSnap_J1NXCAJUVY</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/lighthouse/stocksnap_j1nxcajuvy/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/lighthouse/stocksnap_j1nxcajuvy/</link>
 		<pubDate>Mon, 10 Jul 2017 10:07:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_J1NXCAJUVY.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_J1NXCAJUVY.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Cliffs]]></excerpt:encoded>
@@ -551,7 +551,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_J1NXCAJUVY.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_J1NXCAJUVY.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_J1NXCAJUVY.jpg]]></wp:meta_value>
@@ -563,10 +563,10 @@
 	</item>
 	<item>
 		<title>surfer</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/beach-life-guard/surfer/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/beach-life-guard/surfer/</link>
 		<pubDate>Mon, 10 Jul 2017 10:14:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/surfer.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/surfer.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Surfer on the Beach]]></excerpt:encoded>
@@ -582,7 +582,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/surfer.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/surfer.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/surfer.jpg]]></wp:meta_value>
@@ -594,10 +594,10 @@
 	</item>
 	<item>
 		<title>black-and-white-car-vehicle-vintage</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/black-and-white-car-vehicle-vintage/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/black-and-white-car-vehicle-vintage/</link>
 		<pubDate>Mon, 10 Jul 2017 10:19:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-car-vehicle-vintage.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-car-vehicle-vintage.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[VW Vintage]]></excerpt:encoded>
@@ -613,7 +613,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-car-vehicle-vintage.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-car-vehicle-vintage.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/black-and-white-car-vehicle-vintage.jpg]]></wp:meta_value>
@@ -625,10 +625,10 @@
 	</item>
 	<item>
 		<title>black-and-white-dark-car-vehicle</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/black-and-white-dark-car-vehicle/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/black-and-white-dark-car-vehicle/</link>
 		<pubDate>Mon, 10 Jul 2017 10:19:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-dark-car-vehicle.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-dark-car-vehicle.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Volkswagen]]></excerpt:encoded>
@@ -644,7 +644,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-dark-car-vehicle.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-dark-car-vehicle.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/black-and-white-dark-car-vehicle.jpg]]></wp:meta_value>
@@ -656,10 +656,10 @@
 	</item>
 	<item>
 		<title>cold-snow-black-and-white-road</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/cold-snow-black-and-white-road/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/cold-snow-black-and-white-road/</link>
 		<pubDate>Mon, 10 Jul 2017 10:19:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/cold-snow-black-and-white-road.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/cold-snow-black-and-white-road.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[On the Road]]></excerpt:encoded>
@@ -675,7 +675,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/cold-snow-black-and-white-road.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/cold-snow-black-and-white-road.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/cold-snow-black-and-white-road.jpg]]></wp:meta_value>
@@ -687,10 +687,10 @@
 	</item>
 	<item>
 		<title>black-and-white-dark-curve-forest</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/black-and-white-dark-curve-forest/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/black-and-white-dark-curve-forest/</link>
 		<pubDate>Mon, 10 Jul 2017 10:24:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-dark-curve-forest.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-dark-curve-forest.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Forest Away]]></excerpt:encoded>
@@ -706,7 +706,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-dark-curve-forest.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-dark-curve-forest.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/black-and-white-dark-curve-forest.jpg]]></wp:meta_value>
@@ -718,10 +718,10 @@
 	</item>
 	<item>
 		<title>black-and-white-sky-clouds-cloudy</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/black-and-white-sky-clouds-cloudy/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/black-and-white-sky-clouds-cloudy/</link>
 		<pubDate>Mon, 10 Jul 2017 10:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-sky-clouds-cloudy.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-sky-clouds-cloudy.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Across the Bridge]]></excerpt:encoded>
@@ -737,7 +737,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-sky-clouds-cloudy.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-sky-clouds-cloudy.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/black-and-white-sky-clouds-cloudy.jpg]]></wp:meta_value>
@@ -749,10 +749,10 @@
 	</item>
 	<item>
 		<title>robson-hatsukami-morgan-134764</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/robson-hatsukami-morgan-134764/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/robson-hatsukami-morgan-134764/</link>
 		<pubDate>Mon, 10 Jul 2017 10:26:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/robson-hatsukami-morgan-134764.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/robson-hatsukami-morgan-134764.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Truck on the Road]]></excerpt:encoded>
@@ -768,7 +768,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/robson-hatsukami-morgan-134764.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/robson-hatsukami-morgan-134764.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/robson-hatsukami-morgan-134764.jpg]]></wp:meta_value>
@@ -780,10 +780,10 @@
 	</item>
 	<item>
 		<title>pexels-photo-25315</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/pexels-photo-25315/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/pexels-photo-25315/</link>
 		<pubDate>Mon, 10 Jul 2017 10:32:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-25315.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-25315.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Strange People]]></excerpt:encoded>
@@ -799,7 +799,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-25315.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-25315.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/pexels-photo-25315.jpg]]></wp:meta_value>
@@ -811,10 +811,10 @@
 	</item>
 	<item>
 		<title>black-and-white-city-building-house</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/black-and-white-city-building-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/black-and-white-city-building-house/</link>
 		<pubDate>Mon, 10 Jul 2017 10:34:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-city-building-house.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-city-building-house.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Housewall]]></excerpt:encoded>
@@ -830,7 +830,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-city-building-house.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/black-and-white-city-building-house.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/black-and-white-city-building-house.jpg]]></wp:meta_value>
@@ -842,10 +842,10 @@
 	</item>
 	<item>
 		<title>bridge</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/bridge/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/bridge/</link>
 		<pubDate>Mon, 10 Jul 2017 10:34:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/bridge.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/bridge.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Brooklyn Bridge]]></excerpt:encoded>
@@ -861,7 +861,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/bridge.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/bridge.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/bridge.jpg]]></wp:meta_value>
@@ -873,10 +873,10 @@
 	</item>
 	<item>
 		<title>pexels-photo-29305</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/pexels-photo-29305/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/pexels-photo-29305/</link>
 		<pubDate>Mon, 10 Jul 2017 10:34:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-29305.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-29305.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Bridge]]></excerpt:encoded>
@@ -892,7 +892,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-29305.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-29305.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/pexels-photo-29305.jpg]]></wp:meta_value>
@@ -904,10 +904,10 @@
 	</item>
 	<item>
 		<title>StockSnap_LX19K8E1Q2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/architecture/stocksnap_lx19k8e1q2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/architecture/stocksnap_lx19k8e1q2/</link>
 		<pubDate>Mon, 10 Jul 2017 10:39:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_LX19K8E1Q2.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_LX19K8E1Q2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Tower]]></excerpt:encoded>
@@ -923,7 +923,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_LX19K8E1Q2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_LX19K8E1Q2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_LX19K8E1Q2.jpg]]></wp:meta_value>
@@ -935,10 +935,10 @@
 	</item>
 	<item>
 		<title>StockSnap_9IKL2520VQ</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/architecture/stocksnap_9ikl2520vq/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/architecture/stocksnap_9ikl2520vq/</link>
 		<pubDate>Mon, 10 Jul 2017 10:39:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_9IKL2520VQ.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_9IKL2520VQ.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Balconies in Sunset]]></excerpt:encoded>
@@ -954,7 +954,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_9IKL2520VQ.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_9IKL2520VQ.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_9IKL2520VQ.jpg]]></wp:meta_value>
@@ -966,10 +966,10 @@
 	</item>
 	<item>
 		<title>StockSnap_280EI67WQA</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/architecture/stocksnap_280ei67wqa/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/architecture/stocksnap_280ei67wqa/</link>
 		<pubDate>Mon, 10 Jul 2017 10:39:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_280EI67WQA.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_280EI67WQA.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Strange Building]]></excerpt:encoded>
@@ -985,7 +985,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_280EI67WQA.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_280EI67WQA.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_280EI67WQA.jpg]]></wp:meta_value>
@@ -997,10 +997,10 @@
 	</item>
 	<item>
 		<title>StockSnap_A5J2GBU6CP</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/time-of-life/stocksnap_a5j2gbu6cp/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/time-of-life/stocksnap_a5j2gbu6cp/</link>
 		<pubDate>Mon, 10 Jul 2017 10:45:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_A5J2GBU6CP.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_A5J2GBU6CP.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Drawn from Life]]></excerpt:encoded>
@@ -1016,7 +1016,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_A5J2GBU6CP.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_A5J2GBU6CP.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_A5J2GBU6CP.jpg]]></wp:meta_value>
@@ -1028,10 +1028,10 @@
 	</item>
 	<item>
 		<title>StockSnap_5LPDK5RQ4M</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/time-of-life/stocksnap_5lpdk5rq4m/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/time-of-life/stocksnap_5lpdk5rq4m/</link>
 		<pubDate>Mon, 10 Jul 2017 10:45:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_5LPDK5RQ4M.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_5LPDK5RQ4M.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Old Friends]]></excerpt:encoded>
@@ -1047,7 +1047,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_5LPDK5RQ4M.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_5LPDK5RQ4M.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_5LPDK5RQ4M.jpg]]></wp:meta_value>
@@ -1059,10 +1059,10 @@
 	</item>
 	<item>
 		<title>StockSnap_7U0WEKNZX2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/enjoying-the-life/stocksnap_7u0weknzx2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/enjoying-the-life/stocksnap_7u0weknzx2/</link>
 		<pubDate>Mon, 10 Jul 2017 10:53:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_7U0WEKNZX2.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_7U0WEKNZX2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Beautiful Rose]]></excerpt:encoded>
@@ -1078,7 +1078,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_7U0WEKNZX2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_7U0WEKNZX2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_7U0WEKNZX2.jpg]]></wp:meta_value>
@@ -1090,10 +1090,10 @@
 	</item>
 	<item>
 		<title>girl-dandelion-wish-summer-39485</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/enjoying-the-life/girl-dandelion-wish-summer-39485/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/enjoying-the-life/girl-dandelion-wish-summer-39485/</link>
 		<pubDate>Mon, 10 Jul 2017 10:53:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/girl-dandelion-wish-summer-39485.jpeg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/girl-dandelion-wish-summer-39485.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Dandelion]]></excerpt:encoded>
@@ -1109,7 +1109,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/girl-dandelion-wish-summer-39485.jpeg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/girl-dandelion-wish-summer-39485.jpeg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/girl-dandelion-wish-summer-39485.jpeg]]></wp:meta_value>
@@ -1121,10 +1121,10 @@
 	</item>
 	<item>
 		<title>pexels-photo-25060</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/enjoying-the-life/pexels-photo-25060/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/enjoying-the-life/pexels-photo-25060/</link>
 		<pubDate>Mon, 10 Jul 2017 10:53:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-25060.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-25060.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Drinking Coke]]></excerpt:encoded>
@@ -1140,7 +1140,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-25060.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-25060.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/pexels-photo-25060.jpg]]></wp:meta_value>
@@ -1152,10 +1152,10 @@
 	</item>
 	<item>
 		<title>pexels-photo-51540</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/pexels-photo-51540/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/pexels-photo-51540/</link>
 		<pubDate>Mon, 10 Jul 2017 11:00:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-51540.jpeg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-51540.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Crow]]></excerpt:encoded>
@@ -1171,7 +1171,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-51540.jpeg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-51540.jpeg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/pexels-photo-51540.jpeg]]></wp:meta_value>
@@ -1183,10 +1183,10 @@
 	</item>
 	<item>
 		<title>pexels-photo-28249</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/pexels-photo-28249/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/pexels-photo-28249/</link>
 		<pubDate>Mon, 10 Jul 2017 11:00:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-28249.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-28249.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Seagull]]></excerpt:encoded>
@@ -1202,7 +1202,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-28249.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-28249.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/pexels-photo-28249.jpg]]></wp:meta_value>
@@ -1214,10 +1214,10 @@
 	</item>
 	<item>
 		<title>StockSnap_JQJ0RG011Y</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/stocksnap_jqj0rg011y/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/stocksnap_jqj0rg011y/</link>
 		<pubDate>Mon, 10 Jul 2017 11:02:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_JQJ0RG011Y.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_JQJ0RG011Y.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Waiting for Food]]></excerpt:encoded>
@@ -1233,7 +1233,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_JQJ0RG011Y.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_JQJ0RG011Y.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_JQJ0RG011Y.jpg]]></wp:meta_value>
@@ -1245,10 +1245,10 @@
 	</item>
 	<item>
 		<title>StockSnap_Q0UXZXOBCL</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/stocksnap_q0uxzxobcl/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/stocksnap_q0uxzxobcl/</link>
 		<pubDate>Mon, 10 Jul 2017 11:06:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_Q0UXZXOBCL.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_Q0UXZXOBCL.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Children Playing on the Beach]]></excerpt:encoded>
@@ -1264,7 +1264,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_Q0UXZXOBCL.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_Q0UXZXOBCL.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_Q0UXZXOBCL.jpg]]></wp:meta_value>
@@ -1276,10 +1276,10 @@
 	</item>
 	<item>
 		<title>StockSnap_0TUQMITYZE</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/stocksnap_0tuqmityze/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/stocksnap_0tuqmityze/</link>
 		<pubDate>Mon, 10 Jul 2017 11:06:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_0TUQMITYZE.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_0TUQMITYZE.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Beautiful Smile]]></excerpt:encoded>
@@ -1295,7 +1295,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_0TUQMITYZE.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_0TUQMITYZE.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_0TUQMITYZE.jpg]]></wp:meta_value>
@@ -1307,10 +1307,10 @@
 	</item>
 	<item>
 		<title>Work</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/</link>
 		<pubDate>Mon, 10 Jul 2017 08:15:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?page_id=6</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column][ut_showcase_shortcode showcase_id="10" css=".vc_custom_1499691976143{margin-bottom: 0px !important;}"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1809,10 +1809,10 @@
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/blog/</link>
 		<pubDate>Mon, 10 Jul 2017 08:16:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?page_id=8</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2307,10 +2307,10 @@
 	</item>
 	<item>
 		<title>Just Water</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/</link>
 		<pubDate>Mon, 10 Jul 2017 08:31:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=12</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="104,19,106,107" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.
 
@@ -2808,10 +2808,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>From Behind</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/from-behind/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/from-behind/</link>
 		<pubDate>Mon, 10 Jul 2017 08:39:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=24</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="22,101,102" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor vel turpis quis, volutpat scelerisque mi. Ut sagittis iaculis enim, a placerat lacus efficitur luctus. Fusce non ligula eget nisl ultricies laoreet ac eget metus. Aenean nec efficitur enim. Morbi vitae ornare augue, in ultricies purus.[/vc_column_text][ut_social_share_bar share_text_letter_spacing="2" share_text="SHARE:" share_text_color="#000000" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3307,10 +3307,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Birds</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/birds/</link>
 		<pubDate>Mon, 10 Jul 2017 08:41:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=25</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="91,44,92,95" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.
 
@@ -3808,10 +3808,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Enjoying the Life</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/enjoying-the-life/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/enjoying-the-life/</link>
 		<pubDate>Mon, 10 Jul 2017 08:41:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=26</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="16,86,87,88" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.[/vc_column_text][ut_social_share_bar share_text_letter_spacing="2" share_text="SHARE:" share_text_color="#000000" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4307,10 +4307,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/45/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/45/</link>
 		<pubDate>Mon, 10 Jul 2017 09:25:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?p=45</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4366,10 +4366,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/46/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/46/</link>
 		<pubDate>Mon, 10 Jul 2017 09:25:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?p=46</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4429,10 +4429,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/about/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/about/</link>
 		<pubDate>Mon, 10 Jul 2017 09:30:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?page_id=47</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?page_id=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_animated_image size="large" align="center" image="117"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin facilisis elit vitae mollis faucibus. Proin vitae massa nec mauris dictum consequat. Maecenas congue non felis a malesuada. Phasellus ullamcorper laoreet felis eu viverra. In at tincidunt tortor. Praesent tempor eros vitae elit dignissim, vitae elementum dui dapibus. Duis tristique, ligula eget lobortis accumsan, nibh enim venenatis urna, a commodo elit ex ac urna.
 [/vc_column_text][vc_custom_heading text="FOLLOW ME ON" font_container="tag:h6|text_align:left" use_theme_fonts="yes"][ut_social_follow size="20" socials="%5B%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22colors%22%3A%22global%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22colors%22%3A%22global%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22colors%22%3A%22global%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
@@ -4928,10 +4928,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/48/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/48/</link>
 		<pubDate>Mon, 10 Jul 2017 09:30:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/index.php/2017/07/10/48/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/index.php/2017/07/10/48/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5451,10 +5451,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>StockSnap_TNK87N7464</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/about/stocksnap_tnk87n7464/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/about/stocksnap_tnk87n7464/</link>
 		<pubDate>Mon, 10 Jul 2017 11:53:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_TNK87N7464.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_TNK87N7464.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5470,7 +5470,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_TNK87N7464.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_TNK87N7464.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_TNK87N7464.jpg]]></wp:meta_value>
@@ -5482,10 +5482,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>StockSnap_8A93WRY44S</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/stocksnap_8a93wry44s/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/stocksnap_8a93wry44s/</link>
 		<pubDate>Mon, 10 Jul 2017 11:06:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_8A93WRY44S.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_8A93WRY44S.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Another Beautiful Smile]]></excerpt:encoded>
@@ -5501,7 +5501,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_8A93WRY44S.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_8A93WRY44S.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_8A93WRY44S.jpg]]></wp:meta_value>
@@ -5513,10 +5513,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>StockSnap_W5GWTG3A0X</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/stocksnap_w5gwtg3a0x/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/stocksnap_w5gwtg3a0x/</link>
 		<pubDate>Mon, 10 Jul 2017 11:06:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_W5GWTG3A0X.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_W5GWTG3A0X.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Happy Together]]></excerpt:encoded>
@@ -5532,7 +5532,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_W5GWTG3A0X.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_W5GWTG3A0X.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_W5GWTG3A0X.jpg]]></wp:meta_value>
@@ -5544,10 +5544,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>StockSnap_XT72K3MS5L</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/from-behind/stocksnap_xt72k3ms5l/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/from-behind/stocksnap_xt72k3ms5l/</link>
 		<pubDate>Mon, 10 Jul 2017 11:10:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_XT72K3MS5L.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_XT72K3MS5L.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Kids on the Road]]></excerpt:encoded>
@@ -5563,7 +5563,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_XT72K3MS5L.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_XT72K3MS5L.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_XT72K3MS5L.jpg]]></wp:meta_value>
@@ -5575,10 +5575,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>StockSnap_D345WPQUBG</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/from-behind/stocksnap_d345wpqubg/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/from-behind/stocksnap_d345wpqubg/</link>
 		<pubDate>Mon, 10 Jul 2017 11:10:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_D345WPQUBG.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_D345WPQUBG.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Father and Son]]></excerpt:encoded>
@@ -5594,7 +5594,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_D345WPQUBG.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_D345WPQUBG.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_D345WPQUBG.jpg]]></wp:meta_value>
@@ -5606,10 +5606,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>jeremy-bishop-167210</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/jeremy-bishop-167210/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/jeremy-bishop-167210/</link>
 		<pubDate>Mon, 10 Jul 2017 11:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jeremy-bishop-167210.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jeremy-bishop-167210.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Deep Sea]]></excerpt:encoded>
@@ -5625,7 +5625,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jeremy-bishop-167210.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jeremy-bishop-167210.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/jeremy-bishop-167210.jpg]]></wp:meta_value>
@@ -5637,10 +5637,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>pexels-photo-28125</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/pexels-photo-28125/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/pexels-photo-28125/</link>
 		<pubDate>Mon, 10 Jul 2017 11:40:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-28125.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-28125.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Footbridge]]></excerpt:encoded>
@@ -5656,7 +5656,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-28125.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/pexels-photo-28125.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/pexels-photo-28125.jpg]]></wp:meta_value>
@@ -5668,10 +5668,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>sea-black-and-white-weather-ocean</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/sea-black-and-white-weather-ocean/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/sea-black-and-white-weather-ocean/</link>
 		<pubDate>Mon, 10 Jul 2017 11:40:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/sea-black-and-white-weather-ocean.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/sea-black-and-white-weather-ocean.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sturmwind]]></excerpt:encoded>
@@ -5687,7 +5687,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/sea-black-and-white-weather-ocean.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/sea-black-and-white-weather-ocean.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/sea-black-and-white-weather-ocean.jpg]]></wp:meta_value>
@@ -5699,10 +5699,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>StockSnap_K54V3VFRSG</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/about/stocksnap_k54v3vfrsg/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/about/stocksnap_k54v3vfrsg/</link>
 		<pubDate>Mon, 10 Jul 2017 11:45:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_K54V3VFRSG.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_K54V3VFRSG.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5718,7 +5718,7 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_K54V3VFRSG.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/StockSnap_K54V3VFRSG.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/07/StockSnap_K54V3VFRSG.jpg]]></wp:meta_value>
@@ -5730,10 +5730,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>More Demos</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/more-demos/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/more-demos/</link>
 		<pubDate>Mon, 10 Jul 2017 14:15:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?p=139</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?p=139</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5784,15 +5784,15 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://unitedthemes.com/previews/brooklyn/#section-demos-demos-demos]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://unitedthemes.com/previews/brooklyn/#section-demos-demos-demos]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Fri, 07 Jul 2017 12:44:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -5816,7 +5816,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30)
 john@unitedthemes.com
 Reply-To: [your-email]
 
@@ -5829,7 +5829,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30)
 [your-email]
 Reply-To: john@unitedthemes.com
 
@@ -5881,7 +5881,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30)";s:9:"recipient";s:21:"john@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30)";s:9:"recipient";s:21:"john@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -5889,7 +5889,7 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: john@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: john@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -5906,10 +5906,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>demo30</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-manager/demo30/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-manager/demo30/</link>
 		<pubDate>Mon, 10 Jul 2017 08:29:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio-manager&#038;p=10</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio-manager&#038;p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5972,10 +5972,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Lighthouse</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/lighthouse/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/lighthouse/</link>
 		<pubDate>Mon, 10 Jul 2017 08:42:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=27</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="17,53,54" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.
 
@@ -6473,10 +6473,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Architecture</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/architecture/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/architecture/</link>
 		<pubDate>Mon, 10 Jul 2017 08:43:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=28</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="15,71,73,72" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor vel turpis quis, volutpat scelerisque mi. Ut sagittis iaculis enim, a placerat lacus efficitur luctus. Fusce non ligula eget nisl ultricies laoreet ac eget metus. Aenean nec efficitur enim. Morbi vitae ornare augue, in ultricies purus.[/vc_column_text][ut_social_share_bar share_text_letter_spacing="2" share_text="SHARE:" share_text_color="#000000" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6972,10 +6972,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Brooklyn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/brooklyn/</link>
 		<pubDate>Mon, 10 Jul 2017 08:44:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=29</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=29</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="68,69,67,65" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.
 
@@ -7473,10 +7473,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Streets</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/streets/</link>
 		<pubDate>Mon, 10 Jul 2017 08:48:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=30</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="31,60,62,63" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.[/vc_column_text][ut_social_share_bar share_text_letter_spacing="2" share_text="SHARE:" share_text_color="#000000" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7972,10 +7972,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>On the Road</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/on-the-road/</link>
 		<pubDate>Mon, 10 Jul 2017 08:49:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=32</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="57,59,58" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.
 
@@ -8473,10 +8473,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Beach Life Guard</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/beach-life-guard/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/beach-life-guard/</link>
 		<pubDate>Mon, 10 Jul 2017 08:50:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=34</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" effect="fadeIn" loader_color="#151515" gallery="43,56,51" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.[/vc_column_text][ut_social_share_bar share_text="SHARE:" share_text_color="#000000" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -8972,10 +8972,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Time of Life</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/time-of-life/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/time-of-life/</link>
 		<pubDate>Mon, 10 Jul 2017 08:51:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=36</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=36</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="38,18,77,79" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.
 
@@ -9473,10 +9473,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Happy People</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/happy-people/</link>
 		<pubDate>Mon, 10 Jul 2017 08:56:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=39</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?post_type=portfolio&#038;p=39</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="2/3"][ut_image_gallery thumbnail_size="large" gap="40" caption_below="yes" lazy="true" loader="true" animate_once="yes" delay_animation="true" caption_below_transform="uppercase" caption_below_letter_spacing="2" gallery="98,97,99,96" effect="fadeIn" loader_color="#151515" caption_below_color="#000000"][/vc_column][vc_column width="1/3"][ut_header title_source="page"][/ut_header][vc_column_text]Proin vitae dignissim nisi. Phasellus consectetur dui et diam pulvinar, eget consequat tortor laoreet. Praesent at consequat lectus, a blandit turpis. Aenean quis fermentum dui, nec vehicula sapien. Proin consequat molestie sagittis. Mauris ante mi, sagittis a rutrum a, bibendum et nibh. Morbi nec tincidunt lorem, vehicula malesuada neque. Ut vel volutpat velit.
 
@@ -9974,10 +9974,10 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>Father &amp; Son</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/father-son/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/father-son/</link>
 		<pubDate>Mon, 10 Jul 2017 11:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?p=119</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/?p=119</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elit et turpis dictum pharetra. Morbi ornare, elit eget varius tempor, nibh nunc consequat lectus, ut sagittis nibh dui faucibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra maximus mi in finibus. Nunc eget enim eget metus aliquam pretium et vel nisi. Aenean nulla quam, fermentum rutrum vulputate in, pellentesque tempor felis. Nulla vitae neque fermentum, tempor enim sit amet, commodo libero. Aenean in nisl tempus, sollicitudin eros a, ultrices est. Curabitur quis augue vitae tellus euismod maximus eget non elit. Nam sed nibh id lectus laoreet viverra non vitae leo. Sed egestas volutpat mauris sit amet vulputate. [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]Sed nulla lectus, sollicitudin in velit vitae, molestie pellentesque est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed non lacus ullamcorper, tempor justo a, efficitur enim. Aenean iaculis pellentesque nulla nec dignissim. Donec sit amet ipsum mi. Morbi euismod, risus sed gravida hendrerit, diam ipsum consequat ante, vel suscipit dolor augue id magna. Curabitur venenatis id eros non imperdiet. Fusce non congue lorem. Fusce tristique nisl in turpis pellentesque, at fermentum eros porta. Proin vitae fermentum nunc, sed aliquam diam. Integer nec mattis eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec magna vel nulla dictum dignissim at in dui. Proin nisl ipsum, ornare ac sollicitudin nec, vulputate vel dolor. Mauris pulvinar blandit augue, eget convallis ipsum lacinia eget. [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][ut_social_share_bar share_text_letter_spacing="2" border="true" share_text="SHARE:" share_text_color="#000000" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elit et turpis dictum pharetra. Morbi ornare, elit eget varius tempor, nibh nunc consequat lectus, ut sagittis nibh dui faucibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra maximus mi in finibus. Nunc eget enim eget metus aliquam pretium et vel nisi.]]></excerpt:encoded>
@@ -10075,14 +10075,14 @@ Nulla et ante a nunc ornare luctus at quis sapien. Morbi justo velit, porttitor 
 	</item>
 	<item>
 		<title>From Behind</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/from-behind/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/from-behind/</link>
 		<pubDate>Mon, 10 Jul 2017 12:01:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/index.php/2017/07/10/father-son-copy/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/index.php/2017/07/10/father-son-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column][vc_column_text]
 
-[caption id="attachment_22" align="alignleft" width="300"]<a href="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/jordan-whitt-54480/"><img class="wp-image-22 size-medium" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jordan-whitt-54480-300x300.jpg" alt="" width="300" height="300" /></a> Children[/caption]
+[caption id="attachment_22" align="alignleft" width="300"]<a href="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/portfolio-item/just-water/jordan-whitt-54480/"><img class="wp-image-22 size-medium" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/wp-content/uploads/2017/07/jordan-whitt-54480-300x300.jpg" alt="" width="300" height="300" /></a> Children[/caption]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elit et turpis dictum pharetra. Morbi ornare, elit eget varius tempor, nibh nunc consequat lectus, ut sagittis nibh dui faucibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra maximus mi in finibus. Nunc eget enim eget metus aliquam pretium et vel nisi. Aenean nulla quam, fermentum rutrum vulputate in, pellentesque tempor felis. Nulla vitae neque fermentum, tempor enim sit amet, commodo libero. Aenean in nisl tempus, sollicitudin eros a, ultrices est. Curabitur quis augue vitae tellus euismod maximus eget non elit. Nam sed nibh id lectus laoreet viverra non vitae leo. Sed egestas volutpat mauris sit amet vulputate.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]Sed nulla lectus, sollicitudin in velit vitae, molestie pellentesque est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed non lacus ullamcorper, tempor justo a, efficitur enim. Aenean iaculis pellentesque nulla nec dignissim. Donec sit amet ipsum mi. Morbi euismod, risus sed gravida hendrerit, diam ipsum consequat ante, vel suscipit dolor augue id magna. Curabitur venenatis id eros non imperdiet. Fusce non congue lorem. Fusce tristique nisl in turpis pellentesque, at fermentum eros porta. Proin vitae fermentum nunc, sed aliquam diam. Integer nec mattis eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec magna vel nulla dictum dignissim at in dui. Proin nisl ipsum, ornare ac sollicitudin nec, vulputate vel dolor. Mauris pulvinar blandit augue, eget convallis ipsum lacinia eget.[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]Sed nulla lectus, sollicitudin in velit vitae, molestie pellentesque est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed non lacus ullamcorper, tempor justo a, efficitur enim. Aenean iaculis pellentesque nulla nec dignissim. Donec sit amet ipsum mi. Morbi euismod, risus sed gravida hendrerit, diam ipsum consequat ante, vel suscipit dolor augue id magna. Curabitur venenatis id eros non imperdiet. Fusce non congue lorem. Fusce tristique nisl in turpis pellentesque, at fermentum eros porta. Proin vitae fermentum nunc, sed aliquam diam. Integer nec mattis eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec magna vel nulla dictum dignissim at in dui. Proin nisl ipsum, ornare ac sollicitudin nec, vulputate vel dolor. Mauris pulvinar blandit augue, eget convallis ipsum lacinia eget.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][ut_social_share_bar share_text_letter_spacing="2" border="true" share_text="SHARE" share_text_color="#000000" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elit et turpis dictum pharetra. Morbi ornare, elit eget varius tempor, nibh nunc consequat lectus, ut sagittis nibh dui faucibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra maximus mi in finibus. Nunc eget enim eget metus aliquam pretium et vel nisi.]]></excerpt:encoded>
@@ -10188,10 +10188,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elit et 
 	</item>
 	<item>
 		<title>With Cassey on tour</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/with-cassey-on-tour/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/with-cassey-on-tour/</link>
 		<pubDate>Mon, 10 Jul 2017 12:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/index.php/2017/07/10/father-son-copy-copy/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo30/index.php/2017/07/10/father-son-copy-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elit et turpis dictum pharetra. Morbi ornare, elit eget varius tempor, nibh nunc consequat lectus, ut sagittis nibh dui faucibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra maximus mi in finibus. Nunc eget enim eget metus aliquam pretium et vel nisi. Aenean nulla quam, fermentum rutrum vulputate in, pellentesque tempor felis. Nulla vitae neque fermentum, tempor enim sit amet, commodo libero. Aenean in nisl tempus, sollicitudin eros a, ultrices est. Curabitur quis augue vitae tellus euismod maximus eget non elit. Nam sed nibh id lectus laoreet viverra non vitae leo. Sed egestas volutpat mauris sit amet vulputate. [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]Sed nulla lectus, sollicitudin in velit vitae, molestie pellentesque est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed non lacus ullamcorper, tempor justo a, efficitur enim. Aenean iaculis pellentesque nulla nec dignissim. Donec sit amet ipsum mi. Morbi euismod, risus sed gravida hendrerit, diam ipsum consequat ante, vel suscipit dolor augue id magna. Curabitur venenatis id eros non imperdiet. Fusce non congue lorem. Fusce tristique nisl in turpis pellentesque, at fermentum eros porta. Proin vitae fermentum nunc, sed aliquam diam. Integer nec mattis eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec magna vel nulla dictum dignissim at in dui. Proin nisl ipsum, ornare ac sollicitudin nec, vulputate vel dolor. Mauris pulvinar blandit augue, eget convallis ipsum lacinia eget. [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][ut_image_gallery thumbnail_size="large" grid="4" caption="yes" caption_content="plus" lazy="true" loader="true" gallery="106,104,19,53" loader_color="#000000" caption_color="#ffffff" caption_background="rgba(0,0,0,0.9)"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elit et turpis dictum pharetra. Morbi ornare, elit eget varius tempor, nibh nunc consequat lectus, ut sagittis nibh dui faucibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra maximus mi in finibus. Nunc eget enim eget metus aliquam pretium et vel nisi. Aenean nulla quam, fermentum rutrum vulputate in, pellentesque tempor felis. Nulla vitae neque fermentum, tempor enim sit amet, commodo libero. Aenean in nisl tempus, sollicitudin eros a, ultrices est. Curabitur quis augue vitae tellus euismod maximus eget non elit. Nam sed nibh id lectus laoreet viverra non vitae leo. Sed egestas volutpat mauris sit amet vulputate. [/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]Sed nulla lectus, sollicitudin in velit vitae, molestie pellentesque est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed non lacus ullamcorper, tempor justo a, efficitur enim. Aenean iaculis pellentesque nulla nec dignissim. Donec sit amet ipsum mi. Morbi euismod, risus sed gravida hendrerit, diam ipsum consequat ante, vel suscipit dolor augue id magna. Curabitur venenatis id eros non imperdiet. Fusce non congue lorem. Fusce tristique nisl in turpis pellentesque, at fermentum eros porta. Proin vitae fermentum nunc, sed aliquam diam. Integer nec mattis eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec magna vel nulla dictum dignissim at in dui. Proin nisl ipsum, ornare ac sollicitudin nec, vulputate vel dolor. Mauris pulvinar blandit augue, eget convallis ipsum lacinia eget. [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][ut_social_share_bar share_text_letter_spacing="2" border="true" share_text="SHARE" share_text_color="#000000" icon_color="#000000" icon_color_hover="rgba(0,0,0,0.4)"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elit et turpis dictum pharetra. Morbi ornare, elit eget varius tempor, nibh nunc consequat lectus, ut sagittis nibh dui faucibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra maximus mi in finibus. Nunc eget enim eget metus aliquam pretium et vel nisi.]]></excerpt:encoded>

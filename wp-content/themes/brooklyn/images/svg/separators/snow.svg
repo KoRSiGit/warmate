@@ -1,5 +1,5 @@
 <!-- Copyright Unitedthemes   -->
-<svg id="{{SVG_ID}}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 460" preserveAspectRatio="none">
+<svg id="{{SVG_ID}}" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1920 460" preserveAspectRatio="none">
     {{SVG_STYLE_ID}}
     {{SVG_DEF_ID}}    
     <path {{SVG_FILL_2_ID}} class="{{SVG_PATH_2_CLASS}} bklyn-section-separator-path-fill" d="M1889.1,169.3l-4.5-6.2l11.2-8.1l-2.1-3l-11.8,8.5l-8.6-1.4l8.8-6.4l-2.2-3l-11.8,8.5l-9.7-1.6

@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.9.5" created="2018-04-26 22:44" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>brooklyn.</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37</link>
 	<description>Website #37</description>
 	<pubDate>Thu, 26 Apr 2018 22:44:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -50,10 +50,10 @@
 
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/home/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/home/</link>
 		<pubDate>Wed, 25 Apr 2018 14:48:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/?p=8</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/?p=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -113,10 +113,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/107/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/107/</link>
 		<pubDate>Wed, 25 Apr 2018 22:12:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/2018/04/25/107/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/2018/04/25/107/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -176,10 +176,10 @@
 	</item>
 	<item>
 		<title>pin</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/pin/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/pin/</link>
 		<pubDate>Thu, 26 Apr 2018 21:26:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/pin.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/pin.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -195,7 +195,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/pin.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/pin.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/pin.png]]></wp:meta_value>
@@ -207,10 +207,10 @@
 	</item>
 	<item>
 		<title>brooklyn-114</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=493</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=493</link>
 		<pubDate>Thu, 26 Apr 2018 21:36:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-114.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-114.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -226,7 +226,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-114.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-114.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-114.png]]></wp:meta_value>
@@ -238,10 +238,10 @@
 	</item>
 	<item>
 		<title>brooklyn-144</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=494</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=494</link>
 		<pubDate>Thu, 26 Apr 2018 21:36:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-144.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-144.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -257,7 +257,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-144.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-144.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-144.png]]></wp:meta_value>
@@ -269,10 +269,10 @@
 	</item>
 	<item>
 		<title>brooklyn-32</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=490</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=490</link>
 		<pubDate>Thu, 26 Apr 2018 21:36:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-32.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-32.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -288,7 +288,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-32.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-32.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-32.png]]></wp:meta_value>
@@ -300,10 +300,10 @@
 	</item>
 	<item>
 		<title>brooklyn-57</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=491</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=491</link>
 		<pubDate>Thu, 26 Apr 2018 21:36:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-57.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-57.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -319,7 +319,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-57.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-57.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brooklyn-57.png]]></wp:meta_value>
@@ -331,10 +331,10 @@
 	</item>
 	<item>
 		<title>brooklyn-72</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=492</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?attachment_id=492</link>
 		<pubDate>Thu, 26 Apr 2018 21:36:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-72.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/wp-content/uploads/2018/04/brooklyn-72.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -350,7 +350,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-72.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/brooklyn-72.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:72;s:6:"height";i:72;s:4:"file";s:23:"2018/04/brooklyn-72.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -362,10 +362,10 @@
 	</item>
 	<item>
 		<title>body-burpee-coach-176779</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/body-burpee-coach-176779/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/body-burpee-coach-176779/</link>
 		<pubDate>Thu, 26 Apr 2018 22:28:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176779.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176779.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -381,7 +381,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176779.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176779.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/body-burpee-coach-176779.jpg]]></wp:meta_value>
@@ -393,10 +393,10 @@
 	</item>
 	<item>
 		<title>body-burpee-coach-176783</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/body-burpee-coach-176783/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/body-burpee-coach-176783/</link>
 		<pubDate>Thu, 26 Apr 2018 22:28:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176783.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176783.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -412,7 +412,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176783.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176783.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/body-burpee-coach-176783.jpg]]></wp:meta_value>
@@ -424,10 +424,10 @@
 	</item>
 	<item>
 		<title>body-exercise-fitness-176782</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/body-exercise-fitness-176782/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/body-exercise-fitness-176782/</link>
 		<pubDate>Thu, 26 Apr 2018 22:28:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-exercise-fitness-176782.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-exercise-fitness-176782.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -443,7 +443,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-exercise-fitness-176782.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-exercise-fitness-176782.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/body-exercise-fitness-176782.jpg]]></wp:meta_value>
@@ -455,10 +455,10 @@
 	</item>
 	<item>
 		<title>8</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/8-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/8-2/</link>
 		<pubDate>Thu, 26 Apr 2018 22:29:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/8-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/8-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -474,7 +474,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/8-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/8-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/8-1.jpg]]></wp:meta_value>
@@ -486,10 +486,10 @@
 	</item>
 	<item>
 		<title>1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/1-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/1-2/</link>
 		<pubDate>Thu, 26 Apr 2018 22:29:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/1-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/1-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -505,7 +505,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/1-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/1-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/1-1.jpg]]></wp:meta_value>
@@ -517,10 +517,10 @@
 	</item>
 	<item>
 		<title>2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/2-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/2-2/</link>
 		<pubDate>Thu, 26 Apr 2018 22:29:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/2-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/2-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -536,7 +536,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/2-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/2-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/2-1.jpg]]></wp:meta_value>
@@ -548,10 +548,10 @@
 	</item>
 	<item>
 		<title>3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/3-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/3-2/</link>
 		<pubDate>Thu, 26 Apr 2018 22:29:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/3-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/3-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -567,7 +567,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/3-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/3-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/3-1.jpg]]></wp:meta_value>
@@ -579,10 +579,10 @@
 	</item>
 	<item>
 		<title>4</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/4-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/4-2/</link>
 		<pubDate>Thu, 26 Apr 2018 22:29:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/4-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/4-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -598,7 +598,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/4-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/4-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/4-1.jpg]]></wp:meta_value>
@@ -610,10 +610,10 @@
 	</item>
 	<item>
 		<title>5</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/5-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/5-2/</link>
 		<pubDate>Thu, 26 Apr 2018 22:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/5-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/5-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -629,7 +629,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/5-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/5-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/5-1.jpg]]></wp:meta_value>
@@ -641,10 +641,10 @@
 	</item>
 	<item>
 		<title>6</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/6-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/6-2/</link>
 		<pubDate>Thu, 26 Apr 2018 22:29:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/6-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/6-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -660,7 +660,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/6-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/6-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/6-1.jpg]]></wp:meta_value>
@@ -672,10 +672,10 @@
 	</item>
 	<item>
 		<title>7</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/7-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/front-page/7-2/</link>
 		<pubDate>Thu, 26 Apr 2018 22:29:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/7-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/7-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -691,7 +691,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/7-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/7-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/7-1.jpg]]></wp:meta_value>
@@ -703,10 +703,10 @@
 	</item>
 	<item>
 		<title>replace-portrait</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/studio/replace-portrait/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/studio/replace-portrait/</link>
 		<pubDate>Thu, 26 Apr 2018 22:32:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/replace-portrait.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/replace-portrait.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -722,7 +722,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/replace-portrait.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/replace-portrait.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/replace-portrait.jpg]]></wp:meta_value>
@@ -734,10 +734,10 @@
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Wed, 25 Apr 2018 12:39:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -761,7 +761,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37)
 public@unitedthemes.com
 Reply-To: [your-email]
 
@@ -774,7 +774,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37)
 [your-email]
 Reply-To: public@unitedthemes.com
 
@@ -826,7 +826,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -834,7 +834,7 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -851,10 +851,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/</link>
 		<pubDate>Wed, 25 Apr 2018 13:37:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/?page_id=6</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_section css=".vc_custom_1524752029516{padding-bottom: 0px !important;}" el_name="Welcome to our Yoga Studio"][vc_row][vc_column][ut_header title="Welcome to our Yoga Studio"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column][ut_gallery_slider type="carousel" number="4" number_tablet="3" autoplay="true" hover_color_opacity="30" hover_caption="on" hover_caption_text_transform="lowercase" slides="507,508,509,510,511,512" css=".vc_custom_1524781766152{margin-bottom: 0px !important;}" hover_color="#09031f" hover_caption_color="#ffffff" arrow_color="rgb(9, 3, 32)" arrow_background_color="rgb(255, 255, 255)" max_icon_color="rgb(9, 3, 32)" max_icon_bg_color="#ffffff" arrow_color_hover="rgb(9, 3, 32)" arrow_background_color_hover="rgba(255, 255, 255, 0.5)" dot_color="#ffffff" dot_color_hover="rgb(9, 3, 32)"][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524752019422{background-color: #f7f9fe !important;}" el_name="Our Trainer"][vc_row][vc_column][ut_header title="Our Trainer"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row gap="40" hide_on_tablet="true" hide_on_mobile="true" el_name="Desktop Version"][vc_column width="1/4" css=".vc_custom_1524780654728{margin-left: 40px !important;background-color: #edf0f8 !important;}" offset="vc_col-lg-3"][ut_team_member align="left" icon_size="18" line="off" avatar="512" name="Jackie Brooklyn" occupation="Studio West" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D" css=".vc_custom_1524781773944{margin-right: -50% !important;}" icon_color="rgba(9,3,32,0.8)" icon_color_hover="rgba(9,3,32,0.5)"][/ut_team_member][/vc_column][vc_column width="1/4" offset="vc_col-lg-3" css=".vc_custom_1524780658196{margin-left: 120px !important;background-color: #edf0f8 !important;}"][ut_team_member align="left" icon_size="18" line="off" avatar="512" name="Diana Schmidt" occupation="Studio West" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D" css=".vc_custom_1524781781096{margin-right: -50% !important;}" icon_color="rgba(9,3,32,0.8)" icon_color_hover="rgba(9,3,32,0.5)"][/ut_team_member][/vc_column][vc_column width="1/4" offset="vc_col-lg-3" css=".vc_custom_1524780662208{margin-left: 200px !important;background-color: #edf0f8 !important;}"][ut_team_member align="left" icon_size="18" line="off" avatar="512" name="Eva Stein" occupation="Studio East" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D" css=".vc_custom_1524781790212{margin-right: -50% !important;}" icon_color="rgba(9,3,32,0.8)" icon_color_hover="rgba(9,3,32,0.5)"][/ut_team_member][/vc_column][/vc_row][vc_row hide_on_desktop="true" el_name="Mobile and Tablet Version"][vc_column width="1/3"][ut_team_member align="left" icon_size="18" line="off" avatar="512" name="Jackie Brooklyn" occupation="Studio West" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D" icon_color="rgba(9,3,32,0.8)" icon_color_hover="rgba(9,3,32,0.5)"][/ut_team_member][/vc_column][vc_column width="1/3"][ut_team_member align="left" line="off" avatar="512" name="Diana Schmidt" occupation="Studio West" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D" icon_color="rgba(9,3,32,0.8)" icon_color_hover="rgba(9,3,32,0.5)"][/ut_team_member][/vc_column][vc_column width="1/3"][ut_team_member align="left" icon_size="18" line="off" avatar="512" name="Eva Stein" occupation="Studio East" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D" icon_color="rgba(9,3,32,0.8)" icon_color_hover="rgba(9,3,32,0.5)"][/ut_team_member][/vc_column][/vc_row][vc_row][vc_column][ut_btn button_size="bklyn-btn-normal" button_hover_shadow="yes" button_border_radius="50" font_family="inherit" font_weight="300" text_transform="lowercase" button_text="Our Programs" spacing="padding-top:12px;padding-right:40px;padding-bottom:12px;padding-left:40px" button_text_color="#ffffff" button_link="url:%23|||" button_text_color_hover="#ffffff" button_background_hover="rgba(9, 3, 32, 0.5)" button_background="rgba(9, 3, 32, 0.8)"][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524752040984{margin-bottom: 0px !important;padding-bottom: 0px !important;}" el_name="Our Studios"][vc_row hide_on_mobile="true" el_name="Desktop and Tablet Version"][vc_column width="1/2"][ut_header title="Our Studios"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][ut_custom_heading tag="h4" css=".vc_custom_1524763421236{margin-bottom: 30px !important;}"]Follow us[/ut_custom_heading][ut_social_follow gap="40 Pixel" size="30" socials="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22colors%22%3A%22global%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22colors%22%3A%22global%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22colors%22%3A%22global%22%7D%5D" icon_color="rgba(9,3,31,0.8)" icon_color_hover="rgba(9,3,31,0.5)"][/vc_column][vc_column width="1/2"][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]</p>
 <h3 style="text-align: left;"><span style="color: #333333;">Contact</span></h3>
@@ -1601,10 +1601,10 @@ brooklyn]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Studio</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/studio/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/studio/</link>
 		<pubDate>Wed, 25 Apr 2018 22:12:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/front-page-copy-2/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/front-page-copy-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_section el_name="Studio West Brooklyn"][vc_row][vc_column][ut_header align="left" title="Studio West Brooklyn"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column][ut_gallery_slider type="carousel" number="5" number_tablet="3" autoplay="true" hover_color_opacity="30" hover_caption="on" hover_caption_text_transform="lowercase" slides="512,511,510,509,508,507" hover_color="#09031f" hover_caption_color="#ffffff" css=".vc_custom_1524781889982{margin-bottom: 0px !important;}" arrow_color="rgb(9, 3, 32)" arrow_color_hover="rgb(9, 3, 32)" arrow_background_color="rgb(255, 255, 255)" arrow_background_color_hover="rgba(255, 255, 255, 0.5)" max_icon_color="rgb(9, 3, 32)" max_icon_bg_color="#ffffff" dot_color="#ffffff" dot_color_hover="rgb(9, 3, 32)"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="top" css=".vc_custom_1524757566204{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 80px !important;padding-bottom: 40px !important;background-color: #f7f9fe !important;}"][vc_column width="1/6"][ut_animated_image size="full" image="516" css=".vc_custom_1524781929422{margin-bottom: 40px !important;}"][/vc_column][vc_column width="5/6"][ut_custom_heading tag="h2" css=".vc_custom_1524757455564{margin-bottom: 40px !important;}"]Book your free trial session (450) 523-236-658 [/ut_custom_heading][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][ut_btn button_size="bklyn-btn-normal" button_align="bklyn-btn-left" button_hover_shadow="yes" button_border_radius="50" font_family="inherit" font_weight="300" text_transform="lowercase" button_text="Our Programs" spacing="padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px" button_text_color="#ffffff" button_background="rgba(9, 3, 32, 0.8)" button_text_color_hover="#ffffff" button_background_hover="rgba(9, 3, 32, 0.5)" button_link="url:%23|||"][/vc_column][/vc_row][/vc_section][vc_section el_name="Our Studios"][vc_row hide_on_mobile="true" el_name="Desktop and Tablet Version"][vc_column width="1/2"][ut_header title="Our Studios"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][vc_column width="1/2"][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]</p>
 <h3 style="text-align: left;"><span style="color: #333333;">Contact</span></h3>
@@ -1667,7 +1667,7 @@ brooklyn]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_video_poster]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/7-1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/7-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -1759,7 +1759,7 @@ brooklyn]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_tablet]]></wp:meta_key>
@@ -2351,9 +2351,9 @@ brooklyn]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_fancy_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:0;a:9:{s:5:"title";s:7:"Slide 1";s:5:"image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:4:"left";s:9:"expertise";s:0:"";s:11:"description";s:22:"yoga
+			<wp:meta_value><![CDATA[a:2:{i:0;a:9:{s:5:"title";s:7:"Slide 1";s:5:"image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:4:"left";s:9:"expertise";s:0:"";s:11:"description";s:22:"yoga
 studio
-brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}i:1;a:9:{s:5:"title";s:7:"Slide 2";s:5:"image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PL9LTGJ.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:6:"center";s:9:"expertise";s:0:"";s:11:"description";s:8:"brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}}]]></wp:meta_value>
+brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}i:1;a:9:{s:5:"title";s:7:"Slide 2";s:5:"image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PL9LTGJ.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:6:"center";s:9:"expertise";s:0:"";s:11:"description";s:8:"brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_main_hero_button_text]]></wp:meta_key>
@@ -2362,10 +2362,10 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 	</item>
 	<item>
 		<title>Contact</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/contact/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/contact/</link>
 		<pubDate>Wed, 25 Apr 2018 23:01:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/contact/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_section bklyn_overlay="true" css=".vc_custom_1524759070580{padding-top: 80px !important;padding-bottom: 40px !important;background-color: linear-gradient(140deg, rgb(69, 45, 166) 0%, rgb(121, 87, 255) 100%) !important;}"][vc_row][vc_column][ut_custom_heading tag="h3" color="#ffffff" css=".vc_custom_1524759073994{margin-bottom: 40px !important;}"]Book your free trial session (450) 523-236-658 [/ut_custom_heading][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524752040984{margin-bottom: 0px !important;padding-bottom: 0px !important;}" el_name="Our Studios"][vc_row hide_on_mobile="true" el_name="Desktop and Tablet Version"][vc_column width="1/2"][ut_header title="Our Studios"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][ut_custom_heading tag="h4" css=".vc_custom_1524763421236{margin-bottom: 30px !important;}"]Follow us[/ut_custom_heading][ut_social_follow gap="40 Pixel" size="30" socials="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22colors%22%3A%22global%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22colors%22%3A%22global%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22colors%22%3A%22global%22%7D%5D" icon_color="rgba(9,3,31,0.8)" icon_color_hover="rgba(9,3,31,0.5)"][/vc_column][vc_column width="1/2"][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]</p>
 <h3 style="text-align: left;"><span style="color: #333333;">Contact</span></h3>
@@ -2521,7 +2521,7 @@ Brooklyn, NY 11217[/ut_google_maps][/vc_column][/vc_row][/vc_section]</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176783.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176783.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_tablet]]></wp:meta_key>
@@ -3105,9 +3105,9 @@ Brooklyn, NY 11217[/ut_google_maps][/vc_column][/vc_row][/vc_section]</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_fancy_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:0;a:9:{s:5:"title";s:7:"Slide 1";s:5:"image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:4:"left";s:9:"expertise";s:0:"";s:11:"description";s:22:"yoga
+			<wp:meta_value><![CDATA[a:2:{i:0;a:9:{s:5:"title";s:7:"Slide 1";s:5:"image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:4:"left";s:9:"expertise";s:0:"";s:11:"description";s:22:"yoga
 studio
-brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}i:1;a:9:{s:5:"title";s:7:"Slide 2";s:5:"image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PL9LTGJ.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:6:"center";s:9:"expertise";s:0:"";s:11:"description";s:8:"brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}}]]></wp:meta_value>
+brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}i:1;a:9:{s:5:"title";s:7:"Slide 2";s:5:"image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PL9LTGJ.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:6:"center";s:9:"expertise";s:0:"";s:11:"description";s:8:"brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_main_hero_button_text]]></wp:meta_key>
@@ -3116,10 +3116,10 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/167/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/167/</link>
 		<pubDate>Wed, 25 Apr 2018 23:01:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/2018/04/25/167/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/2018/04/25/167/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3179,10 +3179,10 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 	</item>
 	<item>
 		<title>Gallery</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/gallery/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/gallery/</link>
 		<pubDate>Wed, 25 Apr 2018 23:07:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/gallery/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/gallery/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_section css=".vc_custom_1524765038684{padding-bottom: 0px !important;}" el_name="Our Yoga Gallery"][vc_row css=".vc_custom_1524767092852{margin-top: 0px !important;padding-top: 80px !important;padding-bottom: 40px !important;background-color: linear-gradient(140deg, rgb(69, 45, 166) 0%, rgb(121, 87, 255) 100%) !important;}"][vc_column][ut_custom_heading tag="h3" color="#ffffff" css=".vc_custom_1524767097274{margin-bottom: 40px !important;}"]Book your free trial session (450) 523-236-658 [/ut_custom_heading][/vc_column][/vc_row][vc_row][vc_column][ut_header align="left" title="Our Yoga Gallery"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column][ut_image_gallery thumbnail_size="large" grid="4" lightbox_size="full_hd" caption="yes" lazy="true" loader="true" delay_animation="true" caption_transform="lowercase" gallery="512,511,510,509,508,507,506,505" css=".vc_custom_1524782107178{margin-bottom: 0px !important;padding-bottom: 0px !important;}" loader_color="#6748e0" caption_color="#ffffff" caption_background="rgba(9,3,31,0.3)" effect="fadeIn"][/vc_column][/vc_row][/vc_section][vc_section bklyn_overlay="true" css=".vc_custom_1524765067762{background-color: linear-gradient(140deg, rgb(69, 45, 166) 0%, rgb(121, 87, 255) 100%) !important;}" el_name="Book your free trial session (450) 523-236-658 "][vc_row][vc_column offset="vc_col-lg-offset-3 vc_col-lg-6"][ut_header align="center" title="Get Connected" title_color="#ffffff" lead_color="#ffffff"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row css=".vc_custom_1524758152574{border-top-width: 1px !important;padding-top: 80px !important;border-top-color: rgba(255,255,255,0.1) !important;border-top-style: solid !important;}"][vc_column width="1/3"][ut_big_icon shape="normal" icon="fa fa-instagram" title="Instagram" slogan="Latest Images" icon_color="#ffffff" icon_hover_color="rgba(255,255,255,0.5)" title_color="rgba(255,255,255,0.5)" slogan_color="#ffffff" link="url:%23||target:%20_blank|"][/vc_column][vc_column width="1/3"][ut_big_icon shape="normal" icon="fa fa-twitter" title="Twitter" slogan=" Follow us on Twitter " icon_color="#ffffff" icon_hover_color="rgba(255,255,255,0.5)" title_color="rgba(255,255,255,0.5)" slogan_color="#ffffff" link="url:%23||target:%20_blank|"][/vc_column][vc_column width="1/3"][ut_big_icon shape="normal" icon="fa fa-facebook" title="Facebook" slogan=" Join the Conversation " icon_color="#ffffff" icon_hover_color="rgba(255,255,255,0.5)" title_color="rgba(255,255,255,0.5)" slogan_color="#ffffff" link="url:%23||target:%20_blank|"][/vc_column][/vc_row][/vc_section]</p>
 ]]></content:encoded>
@@ -3305,7 +3305,7 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176779.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176779.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_tablet]]></wp:meta_key>
@@ -3889,9 +3889,9 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_fancy_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:0;a:9:{s:5:"title";s:7:"Slide 1";s:5:"image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:4:"left";s:9:"expertise";s:0:"";s:11:"description";s:22:"yoga
+			<wp:meta_value><![CDATA[a:2:{i:0;a:9:{s:5:"title";s:7:"Slide 1";s:5:"image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:4:"left";s:9:"expertise";s:0:"";s:11:"description";s:22:"yoga
 studio
-brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}i:1;a:9:{s:5:"title";s:7:"Slide 2";s:5:"image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PL9LTGJ.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:6:"center";s:9:"expertise";s:0:"";s:11:"description";s:8:"brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}}]]></wp:meta_value>
+brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}i:1;a:9:{s:5:"title";s:7:"Slide 2";s:5:"image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PL9LTGJ.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:6:"center";s:9:"expertise";s:0:"";s:11:"description";s:8:"brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_main_hero_button_text]]></wp:meta_key>
@@ -3900,10 +3900,10 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/174/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/174/</link>
 		<pubDate>Wed, 25 Apr 2018 23:07:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/2018/04/25/174/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/2018/04/25/174/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3963,10 +3963,10 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 	</item>
 	<item>
 		<title>Programs</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/programs/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/programs/</link>
 		<pubDate>Wed, 25 Apr 2018 23:10:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/studio-copy/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/studio-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_section el_name="Our Yoga Programs"][vc_row][vc_column][ut_header align="left" title="Our Yoga Programs"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][ut_animated_image size="large" image="512"][/vc_column][vc_column width="1/2"][ut_custom_heading tag="h2" align="center"]Ashtanga Yoga[/ut_custom_heading][ut_custom_heading tag="div" align="center" css=".vc_custom_1524762406610{margin-bottom: 40px !important;}"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_custom_heading][ut_btn button_size="bklyn-btn-normal" button_hover_shadow="yes" button_border_radius="50" font_family="inherit" font_weight="300" text_transform="lowercase" button_text="learn more" spacing="padding-top:12px;padding-right:40px;padding-bottom:12px;padding-left:40px" button_text_color="#ffffff" button_background="rgba(9, 3, 32, 0.8)" button_text_color_hover="#ffffff" button_background_hover="rgba(9, 3, 32, 0.5)"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle"][vc_column width="1/2"][ut_custom_heading tag="h2" align="center"]Anusara Yoga[/ut_custom_heading][ut_custom_heading tag="div" align="center" css=".vc_custom_1524762411840{margin-bottom: 40px !important;}"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_custom_heading][ut_btn button_size="bklyn-btn-normal" button_hover_shadow="yes" button_border_radius="50" font_family="inherit" font_weight="300" text_transform="lowercase" button_text="learn more" spacing="padding-top:12px;padding-right:40px;padding-bottom:12px;padding-left:40px" button_text_color="#ffffff" button_background="rgba(9, 3, 32, 0.8)" button_text_color_hover="#ffffff" button_background_hover="rgba(9, 3, 32, 0.5)"][/vc_column][vc_column width="1/2"][ut_animated_image size="large" image="512"][/vc_column][/vc_row][/vc_section][vc_section bklyn_overlay="true" css=".vc_custom_1524765279536{background-color: linear-gradient(140deg, rgb(69, 45, 166) 0%, rgb(121, 87, 255) 100%) !important;}" el_name="Our Yoga Programs"][vc_row][vc_column offset="vc_col-lg-offset-3 vc_col-lg-6"][ut_header align="center" title="Get Connected" title_color="#ffffff" lead_color="#ffffff"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<br />
 [/ut_header][/vc_column][/vc_row][vc_row css=".vc_custom_1524758152574{border-top-width: 1px !important;padding-top: 80px !important;border-top-color: rgba(255,255,255,0.1) !important;border-top-style: solid !important;}"][vc_column width="1/3"][ut_big_icon shape="normal" icon="fa fa-instagram" title="Instagram" slogan="Latest Images" icon_color="#ffffff" icon_hover_color="rgba(255,255,255,0.5)" title_color="rgba(255,255,255,0.5)" slogan_color="#ffffff" link="url:%23||target:%20_blank|"][/vc_column][vc_column width="1/3"][ut_big_icon shape="normal" icon="fa fa-twitter" title="Twitter" slogan=" Follow us on Twitter " icon_color="#ffffff" icon_hover_color="rgba(255,255,255,0.5)" title_color="rgba(255,255,255,0.5)" slogan_color="#ffffff" link="url:%23||target:%20_blank|"][/vc_column][vc_column width="1/3"][ut_big_icon shape="normal" icon="fa fa-facebook" title="Facebook" slogan=" Join the Conversation " icon_color="#ffffff" icon_hover_color="rgba(255,255,255,0.5)" title_color="rgba(255,255,255,0.5)" slogan_color="#ffffff" link="url:%23||target:%20_blank|"][/vc_column][/vc_row][/vc_section]</p>
@@ -4090,7 +4090,7 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:122:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176783.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:122:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/body-burpee-coach-176783.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_tablet]]></wp:meta_key>
@@ -4674,9 +4674,9 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_fancy_slider]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:0;a:9:{s:5:"title";s:7:"Slide 1";s:5:"image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:4:"left";s:9:"expertise";s:0:"";s:11:"description";s:22:"yoga
+			<wp:meta_value><![CDATA[a:2:{i:0;a:9:{s:5:"title";s:7:"Slide 1";s:5:"image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PZCYPP5.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:4:"left";s:9:"expertise";s:0:"";s:11:"description";s:22:"yoga
 studio
-brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}i:1;a:9:{s:5:"title";s:7:"Slide 2";s:5:"image";s:151:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PL9LTGJ.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:6:"center";s:9:"expertise";s:0:"";s:11:"description";s:8:"brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}}]]></wp:meta_value>
+brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}i:1;a:9:{s:5:"title";s:7:"Slide 2";s:5:"image";s:151:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/wp-content/uploads/2018/04/woman-doing-yoga-isolated-on-white-background-PL9LTGJ.jpg";s:5:"style";s:15:"ut-hero-style-5";s:5:"align";s:6:"center";s:9:"expertise";s:0:"";s:11:"description";s:8:"brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_main_hero_button_text]]></wp:meta_key>
@@ -4685,10 +4685,10 @@ brooklyn";s:11:"catchphrase";s:0:"";s:4:"link";s:0:"";s:16:"link_description";s:
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/178/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo37/2018/04/25/178/</link>
 		<pubDate>Wed, 25 Apr 2018 23:10:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/2018/04/25/178/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo37/2018/04/25/178/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>

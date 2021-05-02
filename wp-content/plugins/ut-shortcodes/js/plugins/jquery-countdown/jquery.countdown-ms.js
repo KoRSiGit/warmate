@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
    Malay initialisation for the jQuery countdown extension
    Written by Jason Ong (jason{at}portalgroove.com) May 2010. */
 (function($) {

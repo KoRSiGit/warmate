@@ -1273,7 +1273,7 @@ div.videogallery {
   opacity: 0.4;
 }
 
-/* preloader from http://fareco.github.io/css-loader/ */
+/* preloader from https://fareco.github.io/css-loader/ */
 .videogallery-con .preloader, .videogallery-fake-con .preloader.ball-pulse {
   background-image: none;
   background-color: transparent;

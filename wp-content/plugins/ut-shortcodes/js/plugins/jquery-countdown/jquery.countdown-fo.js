@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
    Faroese initialisation for the jQuery countdown extension
    Written by Kasper Friis Christensen (kasper@friischristensen.com). */
 (function($) {

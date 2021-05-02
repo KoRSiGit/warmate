@@ -381,7 +381,7 @@ var logErrorOnce = memize_default()(console.error); // eslint-disable-line no-co
  * @param {string}    format The format of the string to generate.
  * @param {...*} args Arguments to apply to the format.
  *
- * @see http://www.diveintojavascript.com/projects/javascript-sprintf
+ * @see https://www.diveintojavascript.com/projects/javascript-sprintf
  *
  * @return {string} The formatted string.
  */
@@ -732,7 +732,7 @@ function pluralForms( expression ) {
 /**
  * Jed-formatted locale data.
  *
- * @see http://messageformat.github.io/Jed/
+ * @see https://messageformat.github.io/Jed/
  *
  * @typedef {{[domain:string]:TanninLocaleDomain}} TanninLocaleData
  */
@@ -943,7 +943,7 @@ var DEFAULT_LOCALE_DATA = {
  * Merges locale data into the Tannin instance by domain. Accepts data in a
  * Jed-formatted JSON object shape.
  *
- * @see http://messageformat.github.io/Jed/
+ * @see https://messageformat.github.io/Jed/
  */
 
 /**
@@ -1256,7 +1256,7 @@ var i18n = create_i18n_createI18n(undefined, undefined, {
  * Merges locale data into the Tannin instance by domain. Accepts data in a
  * Jed-formatted JSON object shape.
  *
- * @see http://messageformat.github.io/Jed/
+ * @see https://messageformat.github.io/Jed/
  *
  * @param {LocaleData} [data]   Locale data configuration.
  * @param {string}     [domain] Domain for which configuration applies.

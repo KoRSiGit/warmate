@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Italian initialisation for the jQuery countdown extension
  * Written by Davide Bellettini (davide.bellettini@gmail.com) and Roberto Chiaveri Feb 2008. */
 (function($) {

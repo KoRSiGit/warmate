@@ -234,7 +234,7 @@
                                             eKey: true,
                                             addClass: 'ut-ui-button-blue',
                                             onClick: function(dialog) {
-                                                window.location = 'http://helpdesk.unitedthemes.com/';
+                                                window.location = 'https://helpdesk.unitedthemes.com/';
                                                 return true;
                                             }
 
@@ -274,7 +274,7 @@
 										eKey: true,
 										addClass: 'ut-ui-button-health',
 										onClick: function(dialog) {
-											window.location = 'http://helpdesk.unitedthemes.com/'; 
+											window.location = 'https://helpdesk.unitedthemes.com/';
 											return true;
 										}
 
@@ -342,7 +342,7 @@
 									eKey: true,
 									addClass: 'ut-ui-button-health',
 									onClick: function(dialog) {
-										window.location = 'http://helpdesk.unitedthemes.com/'; 
+										window.location = 'https://helpdesk.unitedthemes.com/';
 										return true;
 									}
 
@@ -371,7 +371,7 @@
                             eKey: true,
                             addClass: 'ut-ui-button-yellow',
                             onClick: function(dialog) {
-                                window.location = "http://wordpress.org/plugins/wordpress-database-reset/"; 
+                                window.location = "https://wordpress.org/plugins/wordpress-database-reset/";
                                 return true;
                             }
                         }                   

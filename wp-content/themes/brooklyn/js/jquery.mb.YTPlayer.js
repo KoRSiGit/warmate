@@ -9,8 +9,8 @@
  * @Copyright: 2020. Matteo Bicocchi
  *
  *  Open Lab s.r.l., Florence - Italy
- *  @blog:  http://pupunzi.open-lab.com
- *  @site:  http://pupunzi.com
+ *  @blog:  https://pupunzi.open-lab.com
+ *  @site:  https://pupunzi.com
  ****************************************************/
 
 
@@ -2813,14 +2813,14 @@ let getYTPVideoID = function (url) {
  _ Open Lab s.r.l., Florence - Italy                                                                                                                _
  _                                                                                                                                                  _
  _ email: matbicoc@gmail.com                                                                                                                       _
- _ site: http://pupunzi.com                                                                                                                         _
- _       http://open-lab.com                                                                                                                        _
- _ blog: http://pupunzi.open-lab.com                                                                                                                _
- _ Q&A:  http://jquery.pupunzi.com                                                                                                                  _
+ _ site: https://pupunzi.com                                                                                                                         _
+ _       https://open-lab.com                                                                                                                        _
+ _ blog: https://pupunzi.open-lab.com                                                                                                                _
+ _ Q&A:  https://jquery.pupunzi.com                                                                                                                  _
  _                                                                                                                                                  _
  _ Licences: MIT, GPL                                                                                                                               _
- _    http://www.opensource.org/licenses/mit-license.php                                                                                            _
- _    http://www.gnu.org/licenses/gpl.html                                                                                                          _
+ _    https://www.opensource.org/licenses/mit-license.php                                                                                            _
+ _    https://www.gnu.org/licenses/gpl.html                                                                                                          _
  _                                                                                                                                                  _
  _ Copyright (c) 2001-2017. Matteo Bicocchi (Pupunzi);                                                                                              _
  ___________________________________________________________________________________________________________________________________________________*/
@@ -2846,13 +2846,13 @@ jQuery.browser.versionCompare=function(a,e){if("stringstring"!=typeof a+typeof e
  *  Copyright (c) 2001-2014. Matteo Bicocchi (Pupunzi);
  *  Open lab srl, Firenze - Italy
  *  email: matbicoc@gmail.com
- *  site: 	http://pupunzi.com
- *  blog:	http://pupunzi.open-lab.com
- * 	http://open-lab.com
+ *  site: 	https://pupunzi.com
+ *  blog:	https://pupunzi.open-lab.com
+ * 	https://open-lab.com
  *
  *  Licences: MIT, GPL
- *  http://www.opensource.org/licenses/mit-license.php
- *  http://www.gnu.org/licenses/gpl.html
+ *  https://www.opensource.org/licenses/mit-license.php
+ *  https://www.gnu.org/licenses/gpl.html
  *
  *  last modified: 26/03/14 21.40
  *  *****************************************************************************
@@ -2883,13 +2883,13 @@ jQuery.fn.css3=function(d){return this.each(function(){var a=jQuery(this),b=jQue
 
  Open Lab s.r.l., Florence - Italy
  email:  matteo@open-lab.com
- blog: 	http://pupunzi.open-lab.com
- site: 	http://pupunzi.com
- 	http://open-lab.com
+ blog: 	https://pupunzi.open-lab.com
+ site: 	https://pupunzi.com
+ 	https://open-lab.com
 
  Licences: MIT, GPL
- http://www.opensource.org/licenses/mit-license.php
- http://www.gnu.org/licenses/gpl.html
+ https://www.opensource.org/licenses/mit-license.php
+ https://www.gnu.org/licenses/gpl.html
 
  Copyright (c) 2001-2018. Matteo Bicocchi (Pupunzi)
  :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
@@ -3050,14 +3050,14 @@ jQuery.fn.css3=function(d){return this.each(function(){var a=jQuery(this),b=jQue
  _ Open Lab s.r.l., Florence - Italy                                                                                                                _
  _                                                                                                                                                  _
  _ email: matteo@open-lab.com                                                                                                                       _
- _ site: http://pupunzi.com                                                                                                                         _
- _       http://open-lab.com                                                                                                                        _
- _ blog: http://pupunzi.open-lab.com                                                                                                                _
- _ Q&A:  http://jquery.pupunzi.com                                                                                                                  _
+ _ site: https://pupunzi.com                                                                                                                         _
+ _       https://open-lab.com                                                                                                                        _
+ _ blog: https://pupunzi.open-lab.com                                                                                                                _
+ _ Q&A:  https://jquery.pupunzi.com                                                                                                                  _
  _                                                                                                                                                  _
  _ Licences: MIT, GPL                                                                                                                               _
- _    http://www.opensource.org/licenses/mit-license.php                                                                                            _
- _    http://www.gnu.org/licenses/gpl.html                                                                                                          _
+ _    https://www.opensource.org/licenses/mit-license.php                                                                                            _
+ _    https://www.gnu.org/licenses/gpl.html                                                                                                          _
  _                                                                                                                                                  _
  _ Copyright (c) 2001-2015. Matteo Bicocchi (Pupunzi);                                                                                              _
  ___________________________________________________________________________________________________________________________________________________*/

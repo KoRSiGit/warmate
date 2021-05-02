@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Slovenian localisation for the jQuery countdown extension
  * Written by Borut Tomažin (debijan{at}gmail.com) (2011)
  * updated by Jan Zavrl (jan@iuvo.si) (2015) */

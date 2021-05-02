@@ -46,7 +46,7 @@ function vc_button_param_target_callback() {
         $link_field = $(".wpb-edit-form [name=href]"),
         key_up_callback = _.debounce(function() {
             var val = $(this).val();
-            0 < val.length && "http://" !== val && "https://" !== val ? $link_target.show() : $link_target.hide()
+            0 < val.length && "https://" !== val && "https://" !== val ? $link_target.show() : $link_target.hide()
         }, 300);
     $link_field.keyup(key_up_callback).trigger("keyup")
 }
@@ -57,7 +57,7 @@ function vc_cta_button_param_target_callback() {
         $link_field = $(".wpb-edit-form [name=href]"),
         key_up_callback = _.debounce(function() {
             var val = $(this).val();
-            0 < val.length && "http://" !== val && "https://" !== val ? $link_target.show() : $link_target.hide()
+            0 < val.length && "https://" !== val && "https://" !== val ? $link_target.show() : $link_target.hide()
         }, 300);
     $link_field.keyup(key_up_callback).trigger("keyup")
 }
@@ -3939,7 +3939,7 @@ window.vc.filters = {
             parse: function(param) {
                 var $field = this.content().find(".wpb_vc_param_value[name=" + param.param_name + "]"),
                     val = "";
-                return $field.length && "http://" !== $field.val() && (val = $field.val()), val
+                return $field.length && "https://" !== $field.val() && (val = $field.val()), val
             }
         }, vc.atts.attach_image = {
             parse: function(param) {

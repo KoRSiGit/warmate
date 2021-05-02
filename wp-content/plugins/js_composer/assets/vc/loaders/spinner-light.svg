@@ -1,4 +1,4 @@
-<svg version="1.1" id="vc_wp-spinner" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px">
+<svg version="1.1" id="vc_wp-spinner" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px">
   <defs>
     <mask id="hole">
       <rect width="100%" height="100%" fill="white"/>

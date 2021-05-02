@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Lithuanian localisation for the jQuery countdown extension
  * Written by Moacir P. de Sá Pereira (moacir{at}gmail.com) (2009) */
 (function($) {

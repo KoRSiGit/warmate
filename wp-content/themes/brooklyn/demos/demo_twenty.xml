@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.5.3" created="2016-07-07 21:34" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>Brooklyn Homes</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20</link>
 	<description>Construction Demo 20</description>
 	<pubDate>Thu, 07 Jul 2016 21:34:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -57,10 +57,10 @@
 
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/?p=11</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/?p=11</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=11</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -119,10 +119,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/28/12/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/28/12/</link>
 		<pubDate>Tue, 28 Jun 2016 13:00:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=12</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -182,10 +182,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/226/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/226/</link>
 		<pubDate>Wed, 29 Jun 2016 22:08:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/06/29/226/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/06/29/226/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -581,10 +581,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/229/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/229/</link>
 		<pubDate>Wed, 29 Jun 2016 22:13:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/06/29/229/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/06/29/229/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -980,10 +980,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/232/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/232/</link>
 		<pubDate>Wed, 29 Jun 2016 22:14:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/06/29/232/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/06/29/232/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1379,10 +1379,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/?p=246</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/?p=246</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=246</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=246</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1441,10 +1441,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/?p=248</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/?p=248</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=248</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=248</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1503,10 +1503,10 @@
 	</item>
 	<item>
 		<title>tool1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home/tool1/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home/tool1/#main</link>
 		<pubDate>Thu, 30 Jun 2016 00:04:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/tool1.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/tool1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1522,7 +1522,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/tool1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/tool1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:100;s:6:"height";i:100;s:4:"file";s:17:"2016/06/tool1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -1534,10 +1534,10 @@
 	</item>
 	<item>
 		<title>tool2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home/tool2/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home/tool2/#main</link>
 		<pubDate>Thu, 30 Jun 2016 00:31:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/tool2.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/tool2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1553,7 +1553,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/tool2.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/tool2.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/tool2.png]]></wp:meta_value>
@@ -1565,10 +1565,10 @@
 	</item>
 	<item>
 		<title>tool3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home/tool3/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home/tool3/#main</link>
 		<pubDate>Thu, 30 Jun 2016 00:32:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/tool3.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/tool3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1584,7 +1584,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/tool3.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/tool3.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:100;s:6:"height";i:94;s:4:"file";s:17:"2016/06/tool3.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -1596,10 +1596,10 @@
 	</item>
 	<item>
 		<title>Bklyn-Homes-Hero</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/about/bklyn-homes-hero/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/about/bklyn-homes-hero/#main</link>
 		<pubDate>Tue, 05 Jul 2016 23:48:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/Bklyn-Homes-Hero.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/Bklyn-Homes-Hero.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1615,7 +1615,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/Bklyn-Homes-Hero.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/Bklyn-Homes-Hero.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/Bklyn-Homes-Hero.png]]></wp:meta_value>
@@ -1627,10 +1627,10 @@
 	</item>
 	<item>
 		<title>Bklyn-Homes-Logo</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/bklyn-homes-logo/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/bklyn-homes-logo/</link>
 		<pubDate>Tue, 05 Jul 2016 23:54:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/Bklyn-Homes-Logo.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/Bklyn-Homes-Logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1646,7 +1646,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/Bklyn-Homes-Logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/Bklyn-Homes-Logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/Bklyn-Homes-Logo.png]]></wp:meta_value>
@@ -1658,10 +1658,10 @@
 	</item>
 	<item>
 		<title>Bklyn-Homes-Logo-Alt</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/bklyn-homes-logo-alt/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/bklyn-homes-logo-alt/</link>
 		<pubDate>Tue, 05 Jul 2016 23:54:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Alt.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Alt.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1677,7 +1677,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Alt.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Alt.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:88;s:6:"height";i:30;s:4:"file";s:32:"2016/07/Bklyn-Homes-Logo-Alt.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -1689,10 +1689,10 @@
 	</item>
 	<item>
 		<title>Bklyn-Homes-Logo-Retina</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/bklyn-homes-logo-retina/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/bklyn-homes-logo-retina/</link>
 		<pubDate>Tue, 05 Jul 2016 23:54:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Retina.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Retina.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1708,7 +1708,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Retina.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Retina.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:175;s:6:"height";i:60;s:4:"file";s:35:"2016/07/Bklyn-Homes-Logo-Retina.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"Bklyn-Homes-Logo-Retina-150x60.png";s:5:"width";i:150;s:6:"height";i:60;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -1720,10 +1720,10 @@
 	</item>
 	<item>
 		<title>Bklyn-Homes-Logo-Retina-Alt</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/bklyn-homes-logo-retina-alt/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/bklyn-homes-logo-retina-alt/</link>
 		<pubDate>Tue, 05 Jul 2016 23:54:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Retina-Alt.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Retina-Alt.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1739,7 +1739,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Retina-Alt.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/Bklyn-Homes-Logo-Retina-Alt.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/Bklyn-Homes-Logo-Retina-Alt.png]]></wp:meta_value>
@@ -1751,10 +1751,10 @@
 	</item>
 	<item>
 		<title>test_logo</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/test__trashed/test_logo/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/test__trashed/test_logo/#main</link>
 		<pubDate>Wed, 06 Jul 2016 17:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/test_logo.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/test_logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1770,7 +1770,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/test_logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/test_logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:74;s:4:"file";s:21:"2016/06/test_logo.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"test_logo-150x74.png";s:5:"width";i:150;s:6:"height";i:74;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -1782,10 +1782,10 @@
 	</item>
 	<item>
 		<title>banner-bottom</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/banner-bottom/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/banner-bottom/</link>
 		<pubDate>Thu, 07 Jul 2016 18:45:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/banner-bottom.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/banner-bottom.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1801,7 +1801,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/banner-bottom.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/banner-bottom.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/banner-bottom.jpg]]></wp:meta_value>
@@ -1813,10 +1813,10 @@
 	</item>
 	<item>
 		<title>banner-small</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/banner-small/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/banner-small/</link>
 		<pubDate>Thu, 07 Jul 2016 18:45:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/banner-small.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/banner-small.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1832,7 +1832,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/banner-small.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/banner-small.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/banner-small.jpg]]></wp:meta_value>
@@ -1844,10 +1844,10 @@
 	</item>
 	<item>
 		<title>image-placerholder-slider</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/image-placerholder-slider/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/image-placerholder-slider/</link>
 		<pubDate>Thu, 07 Jul 2016 18:45:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1863,7 +1863,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/image-placerholder-slider.jpg]]></wp:meta_value>
@@ -1875,10 +1875,10 @@
 	</item>
 	<item>
 		<title>ut-placeholder</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/ut-placeholder/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/ut-placeholder/</link>
 		<pubDate>Thu, 07 Jul 2016 18:45:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/ut-placeholder.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/ut-placeholder.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1894,7 +1894,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/ut-placeholder.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/ut-placeholder.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/ut-placeholder.jpg]]></wp:meta_value>
@@ -1906,10 +1906,10 @@
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/</link>
 		<pubDate>Tue, 28 Jun 2016 12:39:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=7</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2276,10 +2276,10 @@
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/blog/</link>
 		<pubDate>Tue, 28 Jun 2016 12:59:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=9</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2646,10 +2646,10 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home/</link>
 		<pubDate>Tue, 28 Jun 2016 15:32:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=69</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1467669204375{margin-bottom: 120px !important;}"][vc_column width="1/3"][ut_service_icon_box icon="fa fa-bluetooth" headline="Building" css=".vc_custom_1467851491149{margin-bottom: 0px !important;padding-top: 100px !important;padding-right: 100px !important;padding-bottom: 100px !important;padding-left: 100px !important;background-color: #f1c40f !important;}" headline_color="#0a0d1b" text_color="#322803" imageicon="268" color="#0a0d1b" hovercolor="#0a0d1b"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.[/ut_service_icon_box][/vc_column][vc_column width="1/3"][ut_service_icon_box icon="fa fa-shopping-basket" headline="Renovation" css=".vc_custom_1467669190944{margin-bottom: 0px !important;padding-top: 100px !important;padding-right: 100px !important;padding-bottom: 100px !important;padding-left: 100px !important;background-color: #0a0d1b !important;}" headline_color="#f1c40f" text_color="#ffffff" imageicon="276" color="#f1c40f" hovercolor="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.[/ut_service_icon_box][/vc_column][vc_column width="1/3"][ut_service_icon_box icon_color="#ffffff" headline="Demolition" css=".vc_custom_1467851496502{margin-bottom: 0px !important;padding-top: 100px !important;padding-right: 100px !important;padding-bottom: 100px !important;padding-left: 100px !important;background-color: #f1c40f !important;}" imageicon="278" color="#0a0d1b" hovercolor="#0a0d1b" headline_color="#0a0d1b" text_color="#322803"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.[/ut_service_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column][ut_header style="pt-style-2" align="left" title="Build Your House With Us!" font_size="24px"]Building energy efficient, comfortable and affordable homes for America's families is at the heart of what we do at Brooklyn Construction.[/ut_header][/vc_column][/vc_row][vc_row css=".vc_custom_1467468867642{margin-bottom: 80px !important;}"][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 <div class="wpb_text_column wpb_content_element ">
@@ -3049,10 +3049,10 @@ Founder of Brooklyn Homes</small>[/vc_column_text][/vc_column][vc_column width="
 	</item>
 	<item>
 		<title>About Us</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/about/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/about/</link>
 		<pubDate>Wed, 29 Jun 2016 22:08:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=225</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=225</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1467568839237{margin-bottom: 80px !important;}"][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -3218,7 +3218,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -3507,10 +3507,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Services</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/services/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/services/</link>
 		<pubDate>Wed, 29 Jun 2016 22:13:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=228</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=228</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1467781577280{margin-bottom: 40px !important;}"][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Design and Plans" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Groundworks and Contract Brickwork" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="New Builds" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1467781584262{margin-bottom: 40px !important;}"][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Alterations" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Extensions" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Electrical &amp; Plumbing" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1467781600019{margin-bottom: 40px !important;}"][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Plastering" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Kitchens" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Bathrooms" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1467781607831{margin-bottom: 80px !important;}"][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Painting &amp; Decorating" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Steelwork" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image img_size="full" alignment="center"][vc_custom_heading text="Hard Landscaping" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467781265964{margin-bottom: 0px !important;background-color: #141414 !important;}"][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-phone" color="#0a0d1b" background="#f1c40f" headline="Any Question at" headline_margin_bottom="0px"]1-8456-563-BKLYN[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-home" color="#0a0d1b" background="#f1c40f" headline="1399 Beverley Rd" headline_margin_bottom="0px"]Brooklyn, NY 11218[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-clock-o" color="#0a0d1b" background="#f1c40f" headline="Mon-Sat" headline_margin_bottom="0px"]8 am – 8 pm[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-envelope-o" color="#0a0d1b" background="#f1c40f" headline="Send your mail at" headline_margin_bottom="0px"]contact@yourdomain.com[/ut_service_column][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3664,7 +3664,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -3921,10 +3921,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Projects</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/</link>
 		<pubDate>Wed, 29 Jun 2016 22:14:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=231</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=231</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1467847467098{margin-bottom: 60px !important;}"][vc_column][ut_custom_shortcode][ut_showcase id="249"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467847682342{margin-bottom: 0px !important;background-color: #141414 !important;}"][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-phone" color="#0a0d1b" background="#f1c40f" headline="Any Question at" headline_margin_bottom="0px"]1-8456-563-BKLYN[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-home" color="#0a0d1b" background="#f1c40f" headline="1399 Beverley Rd" headline_margin_bottom="0px"]Brooklyn, NY 11218[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-clock-o" color="#0a0d1b" background="#f1c40f" headline="Mon-Sat" headline_margin_bottom="0px"]8 am – 8 pm[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-envelope-o" color="#0a0d1b" background="#f1c40f" headline="Send your mail at" headline_margin_bottom="0px"]contact@yourdomain.com[/ut_service_column][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4086,7 +4086,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -4340,10 +4340,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Contact</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/contact/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/contact/</link>
 		<pubDate>Wed, 29 Jun 2016 22:16:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=241</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=241</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1467823960306{margin-bottom: 60px !important;}"][vc_column width="1/2"][vc_custom_heading text="Company Information" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[/vc_column_text][vc_column_text]
 <ul>
@@ -4523,7 +4523,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -4764,10 +4764,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/242/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/242/</link>
 		<pubDate>Wed, 29 Jun 2016 22:16:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/06/29/242/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/06/29/242/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5163,10 +5163,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/250/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/06/29/250/</link>
 		<pubDate>Wed, 29 Jun 2016 22:25:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=250</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=250</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5226,10 +5226,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Headers</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/headers/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/headers/</link>
 		<pubDate>Sat, 02 Jul 2016 13:55:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=514</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=514</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column width="1/2"][ut_header align="left" title="Header Style One"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][vc_column width="1/2"][ut_header style="pt-style-2" align="left" title="Header Style Two"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row][vc_column width="1/2"][ut_header style="pt-style-3" align="left" title="Header Style Three"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][vc_column width="1/2"][ut_header style="pt-style-4" align="left" title="Header Style Four"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row][vc_column width="1/2"][ut_header style="pt-style-6" align="left" title="Header Style Six"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][vc_column width="1/2"][ut_header style="pt-style-7" align="left" title="Header Style Seven"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][/vc_row][vc_row][vc_column width="1/2"][ut_header style="pt-style-2" align="left" title="Header Style Two" accent="#ffffff" css=".vc_custom_1467504561792{padding-top: 25px !important;padding-right: 25px !important;padding-bottom: 25px !important;padding-left: 25px !important;background-color: #f1c40f !important;}" title_color="#ffffff" lead_color="#ffffff" style_2_height="2px"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/ut_header][/vc_column][vc_column width="1/2"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5616,10 +5616,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Grid 4 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/4-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/4-column/</link>
 		<pubDate>Mon, 04 Jul 2016 00:42:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=789</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=789</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1467847467098{margin-bottom: 60px !important;}"][vc_column][ut_custom_shortcode][ut_showcase id="792"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467847682342{margin-bottom: 0px !important;background-color: #141414 !important;}"][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-phone" color="#0a0d1b" background="#f1c40f" headline="Any Question at" headline_margin_bottom="0px"]1-8456-563-BKLYN[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-home" color="#0a0d1b" background="#f1c40f" headline="1399 Beverley Rd" headline_margin_bottom="0px"]Brooklyn, NY 11218[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-clock-o" color="#0a0d1b" background="#f1c40f" headline="Mon-Sat" headline_margin_bottom="0px"]8 am – 8 pm[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-envelope-o" color="#0a0d1b" background="#f1c40f" headline="Send your mail at" headline_margin_bottom="0px"]contact@yourdomain.com[/ut_service_column][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5809,7 +5809,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -6031,10 +6031,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/04/790/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/04/790/</link>
 		<pubDate>Mon, 04 Jul 2016 00:42:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/07/04/790/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/07/04/790/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6430,10 +6430,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/04/798/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/04/798/</link>
 		<pubDate>Mon, 04 Jul 2016 00:47:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/07/04/798/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/07/04/798/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6829,10 +6829,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/04/804/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/04/804/</link>
 		<pubDate>Mon, 04 Jul 2016 00:53:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=804</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=804</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6892,10 +6892,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/997/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/997/</link>
 		<pubDate>Tue, 05 Jul 2016 15:31:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=997</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=997</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6955,10 +6955,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/998/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/998/</link>
 		<pubDate>Tue, 05 Jul 2016 15:31:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=998</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=998</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7018,10 +7018,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/999/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/999/</link>
 		<pubDate>Tue, 05 Jul 2016 15:31:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=999</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=999</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7081,10 +7081,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/1000/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/1000/</link>
 		<pubDate>Tue, 05 Jul 2016 15:31:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=1000</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=1000</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7144,10 +7144,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/1001/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/05/1001/</link>
 		<pubDate>Tue, 05 Jul 2016 15:31:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=1001</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=1001</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7207,10 +7207,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Our Team</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/06/our-member/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2016/07/06/our-member/</link>
 		<pubDate>Wed, 06 Jul 2016 05:08:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=1094</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=1094</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7270,10 +7270,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Sample Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/sample-page__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/sample-page__trashed/</link>
 		<pubDate>Tue, 28 Jun 2016 12:37:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
@@ -7283,7 +7283,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+As a new WordPress user, you should go to <a href="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-28 12:37:31]]></wp:post_date>
@@ -7320,12 +7320,12 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Test</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/test__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/test__trashed/</link>
 		<pubDate>Tue, 28 Jun 2016 13:13:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=14</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=14</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column][ut_client_group carousel="true" css=".vc_custom_1467813276110{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #34495e !important;}" arrow_color="#34495e" arrow_color_hover="#ffffff" arrow_background="#f1c40f" arrow_background_hover="#34495e" arrow_border_color="#f1c40f" arrow_border_color_hover="#34495e"][ut_client logo="411" name="Green Homes" url="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/grid-3-column/"][ut_client logo="2755" name="Green Homes" url="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/grid-3-column/"][ut_client logo="409" name="Solar Power" url="url:http%3A%2F%2Fbeta.unitedthemes.com%2Fbrooklyn%2Fprojects%2Fgrid-3-column%2F|title:Solar%20Power|target:%20_blank|"][ut_client logo="407" name="Smart House" url="url:%23|title:Smart%20House|target:%20_blank|"][ut_client logo="405" name="Healthy Homes" url="url:%23|title:Healthy%20Homes|target:%20_blank|"][ut_client logo="407" name="Smart House" url="url:%23|title:Smart%20House|target:%20_blank|"][ut_client logo="404" name="Perfect Houses" url="url:%23|title:Perfect%20Houses|target:%20_blank|"][ut_client logo="405" name="Healthy Homes" url="url:%23|title:Healthy%20Homes|target:%20_blank|"][ut_client logo="409" name="Solar Power" url="url:http%3A%2F%2Fbeta.unitedthemes.com%2Fbrooklyn%2Fprojects%2Fgrid-3-column%2F|title:Solar%20Power|target:%20_blank|"][ut_client logo="405" name="Healthy Homes" url="url:%23|title:Healthy%20Homes|target:%20_blank|"][ut_client logo="404" name="Perfect Houses" url="url:%23|title:Perfect%20Houses|target:%20_blank|"][ut_client logo="401" name="Eco Dreams" url="url:%23|title:Eco%20Dreams|target:%20_blank|"][ut_client logo="405" name="Healthy Homes" url="url:%23|title:Healthy%20Homes|target:%20_blank|"][ut_client logo="404" name="Perfect Houses" url="url:%23|title:Perfect%20Houses|target:%20_blank|"][/ut_client_group][/vc_column][/vc_row][vc_row][vc_column][ut_button size="large" color="orange" shape="round" link="http://www.google.com" title="My Anus"]My Text[/ut_button][/vc_column][/vc_row][vc_row][vc_column][ut_btn button_size="bklyn-btn-large" button_align="bklyn-btn-right" button_border_width="16" button_border_radius="20" button_text="Button Text" button_text_color="#8224e3" button_background="#f1c40f" button_custom_border="true" button_border_color="#81d742" button_border_color_hover="#8224e3" button_text_color_hover="#dd3333" button_background_hover="#eeee22" button_custom_font="true"][/vc_column][/vc_row][vc_row][vc_column][ut_single_quote author="Author Name" company="Author Company" title="Title" date="Date" author_color="#8224e3" company_color="#dd3333" title_color="#dd9933" date_color="#1e73be" rating_color="#fc00fc" deco_line_color="#eeee22" quote_color="#81d742"]Quote Text[/ut_single_quote][/vc_column][/vc_row][vc_row][vc_column][ut_quote_rotator][/ut_quote_rotator][/vc_column][/vc_row][ut_client_group carousel="on"][ut_client url="#" name="Client 1" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 2" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 3" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 4" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 5" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 6" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 7" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 8" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 9" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 10" logo="http://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][/ut_client_group][vc_row][vc_column][ut_blog][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row][vc_column][ut_client_group carousel="true" css=".vc_custom_1467813276110{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #34495e !important;}" arrow_color="#34495e" arrow_color_hover="#ffffff" arrow_background="#f1c40f" arrow_background_hover="#34495e" arrow_border_color="#f1c40f" arrow_border_color_hover="#34495e"][ut_client logo="411" name="Green Homes" url="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/grid-3-column/"][ut_client logo="2755" name="Green Homes" url="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/grid-3-column/"][ut_client logo="409" name="Solar Power" url="url:http%3A%2F%2Fbeta.unitedthemes.com%2Fbrooklyn%2Fprojects%2Fgrid-3-column%2F|title:Solar%20Power|target:%20_blank|"][ut_client logo="407" name="Smart House" url="url:%23|title:Smart%20House|target:%20_blank|"][ut_client logo="405" name="Healthy Homes" url="url:%23|title:Healthy%20Homes|target:%20_blank|"][ut_client logo="407" name="Smart House" url="url:%23|title:Smart%20House|target:%20_blank|"][ut_client logo="404" name="Perfect Houses" url="url:%23|title:Perfect%20Houses|target:%20_blank|"][ut_client logo="405" name="Healthy Homes" url="url:%23|title:Healthy%20Homes|target:%20_blank|"][ut_client logo="409" name="Solar Power" url="url:http%3A%2F%2Fbeta.unitedthemes.com%2Fbrooklyn%2Fprojects%2Fgrid-3-column%2F|title:Solar%20Power|target:%20_blank|"][ut_client logo="405" name="Healthy Homes" url="url:%23|title:Healthy%20Homes|target:%20_blank|"][ut_client logo="404" name="Perfect Houses" url="url:%23|title:Perfect%20Houses|target:%20_blank|"][ut_client logo="401" name="Eco Dreams" url="url:%23|title:Eco%20Dreams|target:%20_blank|"][ut_client logo="405" name="Healthy Homes" url="url:%23|title:Healthy%20Homes|target:%20_blank|"][ut_client logo="404" name="Perfect Houses" url="url:%23|title:Perfect%20Houses|target:%20_blank|"][/ut_client_group][/vc_column][/vc_row][vc_row][vc_column][ut_button size="large" color="orange" shape="round" link="https://www.google.com" title="My Anus"]My Text[/ut_button][/vc_column][/vc_row][vc_row][vc_column][ut_btn button_size="bklyn-btn-large" button_align="bklyn-btn-right" button_border_width="16" button_border_radius="20" button_text="Button Text" button_text_color="#8224e3" button_background="#f1c40f" button_custom_border="true" button_border_color="#81d742" button_border_color_hover="#8224e3" button_text_color_hover="#dd3333" button_background_hover="#eeee22" button_custom_font="true"][/vc_column][/vc_row][vc_row][vc_column][ut_single_quote author="Author Name" company="Author Company" title="Title" date="Date" author_color="#8224e3" company_color="#dd3333" title_color="#dd9933" date_color="#1e73be" rating_color="#fc00fc" deco_line_color="#eeee22" quote_color="#81d742"]Quote Text[/ut_single_quote][/vc_column][/vc_row][vc_row][vc_column][ut_quote_rotator][/ut_quote_rotator][/vc_column][/vc_row][ut_client_group carousel="on"][ut_client url="#" name="Client 1" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 2" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 3" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 4" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 5" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 6" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 7" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 8" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 9" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][ut_client url="#" name="Client 10" logo="https://faq.unitedthemes.com/brooklyn/wp-content/uploads/2014/05/logo.png"][/ut_client_group][vc_row][vc_column][ut_blog][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-28 13:13:07]]></wp:post_date>
@@ -7718,10 +7718,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Full Width Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/full-width-page__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/full-width-page__trashed/</link>
 		<pubDate>Tue, 28 Jun 2016 14:50:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=35</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=35</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column width="1/3"][ut_header title="Title"]This is my lead text[/ut_header][/vc_column][vc_column width="1/3"][ut_header style="pt-style-2" title="Title" font_size="6em"]This is my lead text[/ut_header][/vc_column][vc_column width="1/3"][ut_header style="pt-style-3" title="Title"]This is my lead text[/ut_header][/vc_column][/vc_row][vc_row full_width="stretch_row_content" full_height="yes" columns_placement="stretch" equal_height="yes" parallax="content-moving" parallax_image="577" bklyn_over_style="bklyn-style-two" overlay="true" css=".vc_custom_1467549846035{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}" bklyn_overlay="true" bklyn_overlay_color="rgba(241,196,15,0.35)"][vc_column][vc_column_text]I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7875,7 +7875,7 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:16:"background-image";s:113:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/Bklyn-Slide-2-1.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:16:"background-image";s:113:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/06/Bklyn-Slide-2-1.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -8160,10 +8160,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Villa De Rosa</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/villa-de-rosa/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/villa-de-rosa/</link>
 		<pubDate>Tue, 28 Jun 2016 23:40:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=155</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=155</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924065767-a7d6cf0b-2052-7"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -8469,10 +8469,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Villa Virginia</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/villa-virginia/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/villa-virginia/</link>
 		<pubDate>Tue, 28 Jun 2016 23:42:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=157</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=157</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924052887-ea82533b-a738-2"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -8778,10 +8778,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>The Brooklyn House</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/the-brooklyn-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/the-brooklyn-house/</link>
 		<pubDate>Tue, 28 Jun 2016 23:43:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=158</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=158</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924057285-1fe5eb94-1583-3"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -9087,10 +9087,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Villa Long Island</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/villa-long-island/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/villa-long-island/</link>
 		<pubDate>Tue, 28 Jun 2016 23:44:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=159</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=159</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924071302-f2d91041-1b3a-3"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -9400,10 +9400,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>New Hampshire House</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/new-hampshire-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/new-hampshire-house/</link>
 		<pubDate>Tue, 28 Jun 2016 23:45:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=160</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=160</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924062445-b3a00a56-6c8f-6"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -9709,10 +9709,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Home Version 2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/234-2__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/234-2__trashed/</link>
 		<pubDate>Wed, 29 Jun 2016 22:15:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=234</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=234</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10095,10 +10095,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Home Version 3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home-version-3__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/home-version-3__trashed/</link>
 		<pubDate>Wed, 29 Jun 2016 22:15:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=238</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=238</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10481,10 +10481,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Features</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/</link>
 		<pubDate>Fri, 01 Jul 2016 17:23:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=372</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=372</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10867,10 +10867,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Team Member</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/team-member__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/team-member__trashed/</link>
 		<pubDate>Sat, 02 Jul 2016 12:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=499</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=499</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11240,7 +11240,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_team_member]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;a:21:{s:5:"title";s:10:"Jack Black";s:13:"ut_member_pic";s:102:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/t1-1.jpg";s:17:"ut_member_pic_alt";s:0:"";s:14:"ut_member_name";s:10:"Jack Black";s:15:"ut_member_title";s:24:"fghgfdhgfdhdfghfdghfdhdh";s:21:"ut_member_description";s:21:"sfdgsdfghgfghfgdhdgfh";s:15:"ut_member_email";s:1:"#";s:17:"ut_member_website";s:1:"#";s:18:"ut_member_facebook";s:1:"#";s:17:"ut_member_twitter";s:1:"#";s:16:"ut_member_google";s:1:"#";s:16:"ut_member_github";s:1:"#";s:15:"ut_member_skype";s:1:"#";s:18:"ut_member_dribbble";s:1:"#";s:17:"ut_member_dropbox";s:0:"";s:16:"ut_member_flickr";s:0:"";s:14:"ut_member_xing";s:0:"";s:17:"ut_member_youtube";s:0:"";s:15:"ut_member_vimeo";s:0:"";s:18:"ut_member_linkedin";s:0:"";s:19:"ut_member_instagram";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{i:0;a:21:{s:5:"title";s:10:"Jack Black";s:13:"ut_member_pic";s:102:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/t1-1.jpg";s:17:"ut_member_pic_alt";s:0:"";s:14:"ut_member_name";s:10:"Jack Black";s:15:"ut_member_title";s:24:"fghgfdhgfdhdfghfdghfdhdh";s:21:"ut_member_description";s:21:"sfdgsdfghgfghfgdhdgfh";s:15:"ut_member_email";s:1:"#";s:17:"ut_member_website";s:1:"#";s:18:"ut_member_facebook";s:1:"#";s:17:"ut_member_twitter";s:1:"#";s:16:"ut_member_google";s:1:"#";s:16:"ut_member_github";s:1:"#";s:15:"ut_member_skype";s:1:"#";s:18:"ut_member_dribbble";s:1:"#";s:17:"ut_member_dropbox";s:0:"";s:16:"ut_member_flickr";s:0:"";s:14:"ut_member_xing";s:0:"";s:17:"ut_member_youtube";s:0:"";s:15:"ut_member_vimeo";s:0:"";s:18:"ut_member_linkedin";s:0:"";s:19:"ut_member_instagram";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
@@ -11257,10 +11257,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Quote Rotators</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/quote-rotators__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/quote-rotators__trashed/</link>
 		<pubDate>Sat, 02 Jul 2016 13:14:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=503</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=503</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][ut_quote_rotator speed="5000"][ut_quote author="Marcel M."]Each completed project makes us even more hungry, hungry for more designs, more code and at least some more twinkies. As a result we deliver a better web experience.[/ut_quote][ut_quote author="Matthias N."][/ut_quote][/ut_quote_rotator][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11659,10 +11659,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Call to Action</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/call-to-action__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/call-to-action__trashed/</link>
 		<pubDate>Sun, 03 Jul 2016 13:14:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=657</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=657</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1467669204375{margin-bottom: 120px !important;}"][vc_column width="1/3"][ut_service_icon_box icon="fa fa-bluetooth" headline="Building" css=".vc_custom_1467669194132{margin-bottom: 0px !important;padding-top: 100px !important;padding-right: 100px !important;padding-bottom: 100px !important;padding-left: 100px !important;background-color: #f1c40f !important;}" headline_color="#0a0d1b" text_color="#ffffff" imageicon="268" color="#0a0d1b" hovercolor="#0a0d1b"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.[/ut_service_icon_box][/vc_column][vc_column width="1/3"][ut_service_icon_box icon="fa fa-shopping-basket" headline="Renovation" css=".vc_custom_1467669190944{margin-bottom: 0px !important;padding-top: 100px !important;padding-right: 100px !important;padding-bottom: 100px !important;padding-left: 100px !important;background-color: #0a0d1b !important;}" headline_color="#f1c40f" text_color="#ffffff" imageicon="276" color="#f1c40f" hovercolor="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.[/ut_service_icon_box][/vc_column][vc_column width="1/3"][ut_service_icon_box icon_color="#ffffff" headline="Demolition" css=".vc_custom_1467669197818{margin-bottom: 0px !important;padding-top: 100px !important;padding-right: 100px !important;padding-bottom: 100px !important;padding-left: 100px !important;background-color: #f1c40f !important;}" imageicon="278" color="#0a0d1b" hovercolor="#0a0d1b" headline_color="#0a0d1b" text_color="#ffffff"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.[/ut_service_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column][ut_header style="pt-style-2" align="left" title="Build Your House With Us!" font_size="24px"]Building energy efficient, comfortable and affordable homes for America's families is at the heart of what we do at Brooklyn Construction.[/ut_header][/vc_column][/vc_row][vc_row css=".vc_custom_1467468867642{margin-bottom: 80px !important;}"][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 <div class="wpb_text_column wpb_content_element ">
@@ -12071,10 +12071,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Grid 2 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/797-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/797-2/</link>
 		<pubDate>Mon, 04 Jul 2016 00:47:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=797</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=797</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1467847467098{margin-bottom: 60px !important;}"][vc_column][ut_custom_shortcode][ut_showcase id="795"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467847682342{margin-bottom: 0px !important;background-color: #141414 !important;}"][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-phone" color="#0a0d1b" background="#f1c40f" headline="Any Question at" headline_margin_bottom="0px"]1-8456-563-BKLYN[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-home" color="#0a0d1b" background="#f1c40f" headline="1399 Beverley Rd" headline_margin_bottom="0px"]Brooklyn, NY 11218[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-clock-o" color="#0a0d1b" background="#f1c40f" headline="Mon-Sat" headline_margin_bottom="0px"]8 am – 8 pm[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-envelope-o" color="#0a0d1b" background="#f1c40f" headline="Send your mail at" headline_margin_bottom="0px"]contact@yourdomain.com[/ut_service_column][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12268,7 +12268,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -12489,10 +12489,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Grid 3 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/grid-3-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/projects/grid-3-column/</link>
 		<pubDate>Mon, 04 Jul 2016 00:52:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=802</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=802</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1467847467098{margin-bottom: 60px !important;}"][vc_column][ut_custom_shortcode][ut_showcase id="249"][/ut_custom_shortcode][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467847682342{margin-bottom: 0px !important;background-color: #141414 !important;}"][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-phone" color="#0a0d1b" background="#f1c40f" headline="Any Question at" headline_margin_bottom="0px"]1-8456-563-BKLYN[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-home" color="#0a0d1b" background="#f1c40f" headline="1399 Beverley Rd" headline_margin_bottom="0px"]Brooklyn, NY 11218[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-clock-o" color="#0a0d1b" background="#f1c40f" headline="Mon-Sat" headline_margin_bottom="0px"]8 am – 8 pm[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-envelope-o" color="#0a0d1b" background="#f1c40f" headline="Send your mail at" headline_margin_bottom="0px"]contact@yourdomain.com[/ut_service_column][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12686,7 +12686,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center bottom";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -12903,10 +12903,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Fancy Lists</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/fancy-lists/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/fancy-lists/</link>
 		<pubDate>Mon, 04 Jul 2016 14:15:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=827</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=827</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Icon List"][/ut_header][ut_fancy_list list_style_type="icons" values="%5B%7B%22icon%22%3A%22fa%20fa-bicycle%22%2C%22title%22%3A%22List%20Item%22%7D%2C%7B%22icon%22%3A%22fa%20fa-edge%22%2C%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22icon%22%3A%22fa%20fa-futbol-o%22%2C%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22icon%22%3A%22fa%20fa-pie-chart%22%2C%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D" css=".vc_custom_1467647323467{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #ffe26d !important;}" text_color="#0a0d1b" icon_color="#0a0d1b"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Icon List with Link"][/ut_header][ut_fancy_list list_style_type="icons" values="%5B%7B%22icon%22%3A%22fa%20fa-google%22%2C%22title%22%3A%22Google%20Plus%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AGoogle%2520Plus%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-facebook-official%22%2C%22title%22%3A%22Facebook%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" css=".vc_custom_1467646831268{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #f9d543 !important;}" text_color="#f1c40f" icon_color="#f1c40f" icon_color_hover="#f39c12" text_color_hover="#f39c12"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Icon List"][/ut_header][ut_fancy_list list_style_type="icons" values="%5B%7B%22icon%22%3A%22fa%20fa-bicycle%22%2C%22title%22%3A%22List%20Item%22%7D%2C%7B%22icon%22%3A%22fa%20fa-edge%22%2C%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22icon%22%3A%22fa%20fa-futbol-o%22%2C%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22icon%22%3A%22fa%20fa-pie-chart%22%2C%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D" css=".vc_custom_1467647594392{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #34495e !important;}" text_color="#ffffff" icon_color="#f1c40f"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Icon List with Link"][/ut_header][ut_fancy_list list_style_type="icons" values="%5B%7B%22icon%22%3A%22fa%20fa-google%22%2C%22title%22%3A%22Google%20Plus%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AGoogle%2520Plus%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-facebook-official%22%2C%22title%22%3A%22Facebook%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" text_color="#95a5a6" icon_color="#95a5a6" icon_color_hover="#f1c40f" text_color_hover="#95a5a6" css=".vc_custom_1467647400387{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #0a0d1b !important;}"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Disc"][/ut_header][ut_fancy_list list_style_type="disc" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Circle"][/ut_header][ut_fancy_list list_style_type="circle" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Square"][/ut_header][ut_fancy_list list_style_type="square" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Decimal"][/ut_header][ut_fancy_list list_style_type="decimal" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Decimal Leading Zero"][/ut_header][ut_fancy_list list_style_type="decimal-leading-zero" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Lower Roman"][/ut_header][ut_fancy_list list_style_type="lower-roman" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Upper Roman"][/ut_header][ut_fancy_list list_style_type="upper-roman" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Lower Greek"][/ut_header][ut_fancy_list list_style_type="lower-greek" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Lower Latin"][/ut_header][ut_fancy_list list_style_type="lower-latin" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Upper Latin"][/ut_header][ut_fancy_list list_style_type="upper-latin" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Armenian"][/ut_header][ut_fancy_list list_style_type="armenian" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][vc_column width="1/4"][ut_header style="pt-style-2" align="left" title="Georgian"][/ut_header][ut_fancy_list list_style_type="georgian" values="%5B%7B%22title%22%3A%22List%20Item%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22List%20Item%22%2C%22is_link%22%3A%22true%22%7D%5D"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -13281,10 +13281,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Team Member</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/team-member/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/team-member/</link>
 		<pubDate>Mon, 04 Jul 2016 17:20:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=872</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=872</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][ut_header style="pt-style-2" align="global" title="Team Member Style 1" font_size="30px"][/ut_header][/vc_column][/vc_row][vc_row][vc_column][vc_text_separator title="Base Layout" color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row css=".vc_custom_1467783739808{margin-bottom: 40px !important;}"][vc_column width="1/4"][ut_team_member align="left" name="Thomas Hoffmann" occupation="CEO Brookyln Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][vc_column width="1/4"][ut_team_member align="left" name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][vc_column width="1/4"][ut_team_member align="left" name="Max Hoffmann" occupation="The Brother" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][vc_column width="1/4"][ut_team_member align="left" name="Helmut Hoffmann" occupation="The Nephew" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467788799558{margin-bottom: 40px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #f9f9f9 !important;}"][vc_column][vc_text_separator title="Text Align Center" color="custom" accent_color="#ededed"][vc_row_inner][vc_column_inner width="1/4"][ut_team_member name="Thomas Hoffmann" occupation="CEO Brookyln Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Max Hoffmann" occupation="The Brother" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Helmut Hoffmann" occupation="The Nephew" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1467789037399{margin-bottom: 40px !important;}"][vc_column][vc_text_separator title="Without Description" color="custom" accent_color="#ededed"][vc_row_inner][vc_column_inner width="1/4"][ut_team_member name="Thomas Hoffmann" occupation="CEO Brookyln Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b"][/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b"][/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Max Hoffmann" occupation="The Brother" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b"][/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Helmut Hoffmann" occupation="The Nephew" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b"][/ut_team_member][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467788987858{margin-bottom: 40px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #f9f9f9 !important;}"][vc_column][vc_text_separator title="Without Description &amp; Social Icons" color="custom" accent_color="#ededed"][vc_row_inner][vc_column_inner width="1/4"][ut_team_member name="Thomas Hoffmann" occupation="CEO Brookyln Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"][/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"][/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Max Hoffmann" occupation="The Brother" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"][/ut_team_member][/vc_column_inner][vc_column_inner width="1/4"][ut_team_member name="Helmut Hoffmann" occupation="The Nephew" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%7D%5D" icon_color="#0a0d1b" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f"][/ut_team_member][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_text_separator title="Custom Sizes &amp; Colors" color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row css=".vc_custom_1467789310167{margin-bottom: 40px !important;}"][vc_column width="1/3"][ut_team_member align="left" name="Thomas Hoffmann" occupation="CEO Brooklyn Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][vc_column width="1/3"][ut_team_member name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" css=".vc_custom_1467916949182{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #2c3e50 !important;}" name_color="#f1c40f" ocupation_color="#fafafa" description_color="#fafafa" line_color="#34495e" icon_color_hover="#fafafa"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][vc_column width="1/3"][ut_team_member name="Max Hoffmann" occupation="The Brother" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" css=".vc_custom_1467916953409{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #0c2032 !important;}" name_color="#bdc3c7" ocupation_color="#f1c40f" description_color="#bdc3c7" line_color="#1b3147" icon_color="#ffffff" icon_color_hover="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467789274461{margin-bottom: 40px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #f9f9f9 !important;}"][vc_column][ut_header style="pt-style-2" title="Team Member Style 2"][/ut_header][vc_row_inner][vc_column_inner][vc_text_separator title="Base Layout" color="custom" accent_color="#ededed"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][ut_team_member style="member-style-2" name="Thomas Hoffmann" occupation="CEO Brooklyn Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" line_color="#ededed" icon_color_hover="#f1c40f" ocupation_color="#0a0d1b"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column_inner][vc_column_inner width="1/3"][ut_team_member style="member-style-2" name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" icon_color="#0a0d1b" line_color="#ededed" icon_color_hover="#f1c40f" ocupation_color="#0a0d1b"][/ut_team_member][/vc_column_inner][vc_column_inner width="1/3"][ut_team_member style="member-style-2" name="Max Hoffmann" occupation="The Brother" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%7D%5D" icon_color="#0a0d1b" line_color="#fafafa" icon_color_hover="#f1c40f" ocupation_color="#0a0d1b"][/ut_team_member][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_text_separator title="Custom Layouts" color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row css=".vc_custom_1467786238954{margin-bottom: 40px !important;}"][vc_column width="1/3"][ut_team_member style="member-style-2" name="Thomas Hoffmann" occupation="CEO Brooklyn Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" css=".vc_custom_1467916974674{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #ecf0f1 !important;}" icon_color="#dadada" line_color="#fafafa" icon_color_hover="#2c3e50"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][vc_column width="1/3"][ut_team_member style="member-style-2" name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" css=".vc_custom_1467916979619{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #2c3e50 !important;}" name_color="#f1c40f" ocupation_color="#fafafa" description_color="#fafafa" line_color="#34495e" icon_color_hover="#fafafa"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][vc_column width="1/3"][ut_team_member style="member-style-2" name="Max Hoffmann" occupation="The Brother" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467789691859{margin-bottom: 40px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #f9f9f9 !important;}"][vc_column][ut_header style="pt-style-2" title="Team Member Style 3"][/ut_header][vc_row_inner][vc_column_inner][vc_text_separator title="Custom Hover Styles" color="custom" accent_color="#ededed"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][ut_team_member style="member-style-3" name="Thomas Hoffmann" occupation="CEO Brooklyn Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" name_color="#ffffff"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column_inner][vc_column_inner width="1/3"][ut_team_member style="member-style-3" name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" css=".vc_custom_1467916995634{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #f1c40f !important;}" name_color="#f1c40f" ocupation_color="#0a0d1b" icon_color_hover="#f1c40f" overlay_color="#ffffff" icon_color="#0a0d1b"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column_inner][vc_column_inner width="1/3"][ut_team_member style="member-style-3" name="Max Hoffmann" occupation="The Brother" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%7D%5D" name_color="#0a0d1b" ocupation_color="#ffffff" overlay_color="#f1c40f" icon_color="#0a0d1b" icon_color_hover="#ffffff"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][ut_header style="pt-style-2" title="Team Member Style 4"][/ut_header][/vc_column][/vc_row][vc_row][vc_column][vc_text_separator title="Text Alignment Bottom" color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row css=".vc_custom_1467667458182{margin-bottom: 80px !important;}"][vc_column width="1/2"][ut_team_member style="member-style-4" name="Max Hoffmann" occupation="CEO Brooklyn Homes" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%7D%5D" name_color="#0a0d1b" overlay_color="rgba(255,255,255,0.9)" ocupation_color="#f1c40f"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][vc_column width="1/2"][ut_team_member style="member-style-4" name="Frank Hoffmann" occupation="The Son" values="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7C%7Ctarget%3A%2520_blank%7C%22%7D%5D" social="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22title%22%3A%22Facebook%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3AFacebook%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22title%22%3A%22Twitter%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitter%7Ctarget%3A%2520_blank%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitch%22%2C%22title%22%3A%22Twitch%22%2C%22link%22%3A%22url%3A%2523%7Ctitle%3ATwitch%7Ctarget%3A%2520_blank%7C%22%7D%5D" css=".vc_custom_1467917009408{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #ededed !important;}" name_color="#f1c40f" ocupation_color="#fafafa" icon_color_hover="#fafafa" overlay_color="rgba(52,73,94,0.7)"]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidun.[/ut_team_member][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1467792636872{margin-bottom: 0px !important;background-color: #141414 !important;}"][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-phone" color="#0a0d1b" background="#f1c40f" headline="Any Question at" headline_margin_bottom="0px"]1-8456-563-BKLYN[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-home" color="#0a0d1b" background="#f1c40f" headline="1399 Beverley Rd" headline_margin_bottom="0px"]Brooklyn, NY 11218[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-clock-o" color="#0a0d1b" background="#f1c40f" headline="Mon-Sat" headline_margin_bottom="0px"]8 am – 8 pm[/ut_service_column][/vc_column][vc_column width="1/4"][ut_service_column shape="round" headline_color="#ffffff" text_color="#777777" icon="fa fa-envelope-o" color="#0a0d1b" background="#f1c40f" headline="Send your mail at" headline_margin_bottom="0px"]contact@yourdomain.com[/ut_service_column][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -13462,7 +13462,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_parallax]]></wp:meta_key>
@@ -13703,10 +13703,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Testimonials</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/testimonials__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/features__trashed/testimonials__trashed/</link>
 		<pubDate>Wed, 06 Jul 2016 09:18:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=1199</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=1199</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14097,10 +14097,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Test 2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/test-2__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/test-2__trashed/</link>
 		<pubDate>Wed, 06 Jul 2016 16:06:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2721</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2721</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14491,10 +14491,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Our Projects</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-manager/our-work/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-manager/our-work/</link>
 		<pubDate>Tue, 28 Jun 2016 23:06:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=139</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=139</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14553,10 +14553,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>South Carolina House</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/south-carolina-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/south-carolina-house/</link>
 		<pubDate>Tue, 28 Jun 2016 23:51:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=163</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=163</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924081714-1ccbdcbf-b388-6"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -14862,10 +14862,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Springfield House</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/springfield-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/springfield-house/</link>
 		<pubDate>Wed, 29 Jun 2016 16:09:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=186</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=186</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924072921-ed312964-483c-6"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -15171,10 +15171,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>The Evo House</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/the-evo-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/the-evo-house/</link>
 		<pubDate>Wed, 29 Jun 2016 16:10:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=187</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=187</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924080750-bcfa7f24-1793-5"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -15480,10 +15480,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Green Energy House</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/green-energy-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/green-energy-house/</link>
 		<pubDate>Wed, 29 Jun 2016 16:11:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=188</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=188</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924077991-c8a16065-f7c4-1"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -15789,10 +15789,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>City Apartments</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/city-apartments/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/city-apartments/</link>
 		<pubDate>Wed, 29 Jun 2016 16:11:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=189</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=189</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924075299-b33f8ef3-3e2f-4"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -16098,10 +16098,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Simsons House</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/simsons-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/simsons-house/</link>
 		<pubDate>Wed, 29 Jun 2016 16:13:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=190</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=190</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924083893-4ff2595c-31fd-8"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -16407,10 +16407,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>THE OLD HOUSE</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/the-old-house/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-item/the-old-house/</link>
 		<pubDate>Wed, 29 Jun 2016 16:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=191</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=191</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_single_image img_size="full" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1467836668565{margin-bottom: 80px !important;}"][vc_column width="1/6"][vc_media_grid style="pagination" items_per_page="3" element_width="12" gap="20" grid_id="vc_gid:1467924084904-3b55c542-3365-7"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Project Description" font_container="tag:h3|text_align:left" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -16736,10 +16736,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Grid 3 Columns</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-manager/grid-gallery/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-manager/grid-gallery/</link>
 		<pubDate>Wed, 29 Jun 2016 22:24:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=249</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=249</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -16798,10 +16798,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Grid 4 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-manager/grid-4-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-manager/grid-4-column/</link>
 		<pubDate>Mon, 04 Jul 2016 00:44:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=792</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=792</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -16860,10 +16860,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Grid 2 Column</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-manager/grid-2-column/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/portfolio-manager/grid-2-column/</link>
 		<pubDate>Mon, 04 Jul 2016 00:47:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=795</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=795</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -16922,10 +16922,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Last Construction</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/07/last-construction/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/07/last-construction/</link>
 		<pubDate>Thu, 07 Nov 2013 07:24:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=555</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery link="file" size="large" ids="597,386,385,384,382,381"]
 
@@ -17016,12 +17016,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>AWESOME WORDPRESS THEMES</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/05/post-format-link/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/05/post-format-link/</link>
 		<pubDate>Tue, 05 Nov 2013 08:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=565</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="http://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
+		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="https://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -17054,13 +17054,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Post Format: Quote</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/08/post-format-quote/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/08/post-format-quote/</link>
 		<pubDate>Fri, 08 Nov 2013 08:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=575</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=575</guid>
 		<description></description>
 		<content:encoded><![CDATA[<blockquote>Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-<cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
+<cite><a href="https://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1238</wp:post_id>
@@ -17090,10 +17090,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Jerry&#039;s Diner - Bounce In Place</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/05/jerrys-diner-bounce-in-place/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/05/jerrys-diner-bounce-in-place/</link>
 		<pubDate>Tue, 05 Nov 2013 08:36:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=587</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=587</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167220706&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -17189,10 +17189,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>The Springfield House is now completed!</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/08/the-springfield-house-is-now-completed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/08/the-springfield-house-is-now-completed/</link>
 		<pubDate>Fri, 08 Nov 2013 03:20:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2442</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2442</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -17277,10 +17277,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>We Build Worldwide</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/07/we-build-worldwide/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/07/we-build-worldwide/</link>
 		<pubDate>Thu, 07 Nov 2013 04:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2469</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2469</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://player.vimeo.com/video/3847109?color=ffffff&title=0&byline=0&portrait=0" width="640" height="272" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -17382,10 +17382,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Standard Post without Image</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/05/post-without-image/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/05/post-without-image/</link>
 		<pubDate>Tue, 05 Nov 2013 05:58:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2484</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2484</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -17459,10 +17459,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Hello Brooklyn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/05/hello-brooklyn/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/05/hello-brooklyn/</link>
 		<pubDate>Tue, 05 Nov 2013 06:01:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2486</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2486</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://player.vimeo.com/video/10089801?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -17512,7 +17512,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_9edd1db7d8369e94aaeca0c2b85f4bf3]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_activate_csection]]></wp:meta_key>
@@ -17557,10 +17557,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Standard Blog Post With All The Trimmings</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/09/standard-blog-post-with-all-the-trimmings/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/2013/11/09/standard-blog-post-with-all-the-trimmings/</link>
 		<pubDate>Sat, 09 Nov 2013 10:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=1</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -17650,7 +17650,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2013-10-07 10:38:23]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2013-10-07 10:38:23]]></wp:comment_date_gmt>
@@ -17706,10 +17706,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Tue, 28 Jun 2016 12:38:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>Your Name (required)<br />
     [text* your-name] </p>
@@ -17733,7 +17733,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on United Themes Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20)
+This e-mail was sent from a contact form on United Themes Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20)
 public@unitedthemes.com
 Reply-To: [your-email]
 
@@ -17746,7 +17746,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on United Themes Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20)
+This e-mail was sent from a contact form on United Themes Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20)
 [your-email]
 Reply-To: public@unitedthemes.com
 
@@ -17798,7 +17798,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on United Themes Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on United Themes Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -17806,7 +17806,7 @@ This e-mail was sent from a contact form on United Themes Brooklyn (http://theme
 [your-message]
 
 --
-This e-mail was sent from a contact form on United Themes Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on United Themes Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo20)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>

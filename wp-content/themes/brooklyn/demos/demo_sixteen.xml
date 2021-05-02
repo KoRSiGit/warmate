@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.5.3" created="2016-07-07 13:49" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>Brooklyn Weddings</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16</link>
 	<description>since 1980</description>
 	<pubDate>Thu, 07 Jul 2016 13:49:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -53,10 +53,10 @@
 
 	<item>
 		<title>Brooklyn-Weddings-Logo</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/brooklyn-weddings-logo/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/brooklyn-weddings-logo/</link>
 		<pubDate>Tue, 21 Jun 2016 23:32:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/Brooklyn-Weddings-Logo.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/Brooklyn-Weddings-Logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -72,7 +72,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/Brooklyn-Weddings-Logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/Brooklyn-Weddings-Logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/Brooklyn-Weddings-Logo.png]]></wp:meta_value>
@@ -84,10 +84,10 @@
 	</item>
 	<item>
 		<title>What our Bride&#039;s say</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/?p=2708</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/?p=2708</link>
 		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2708</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2708</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -146,10 +146,10 @@
 	</item>
 	<item>
 		<title>Bklyn-logo-heart</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/bklyn-logo-heart/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/bklyn-logo-heart/</link>
 		<pubDate>Wed, 22 Jun 2016 23:40:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/Bklyn-logo-heart.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/Bklyn-logo-heart.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -165,7 +165,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/Bklyn-logo-heart.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/Bklyn-logo-heart.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/Bklyn-logo-heart.png]]></wp:meta_value>
@@ -177,10 +177,10 @@
 	</item>
 	<item>
 		<title>wedding_03</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_03/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_03/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_03.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_03.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -196,7 +196,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_03.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_03.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_03.png]]></wp:meta_value>
@@ -208,10 +208,10 @@
 	</item>
 	<item>
 		<title>wedding_09</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_09/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_09/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_09.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_09.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -227,7 +227,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_09.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_09.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_09.png]]></wp:meta_value>
@@ -239,10 +239,10 @@
 	</item>
 	<item>
 		<title>wedding_10</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_10/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_10/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_10.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_10.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -258,7 +258,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_10.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_10.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_10.png]]></wp:meta_value>
@@ -270,10 +270,10 @@
 	</item>
 	<item>
 		<title>wedding_12</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_12/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_12/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_12.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_12.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -289,7 +289,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_12.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_12.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_12.png]]></wp:meta_value>
@@ -301,10 +301,10 @@
 	</item>
 	<item>
 		<title>wedding_17</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_17/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_17/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_17.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_17.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -320,7 +320,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_17.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_17.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_17.png]]></wp:meta_value>
@@ -332,10 +332,10 @@
 	</item>
 	<item>
 		<title>wedding_22</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_22/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_22/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_22.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_22.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -351,7 +351,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_22.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_22.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_22.png]]></wp:meta_value>
@@ -363,10 +363,10 @@
 	</item>
 	<item>
 		<title>wedding_28</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_28/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_28/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_28.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_28.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -382,7 +382,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_28.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_28.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_28.png]]></wp:meta_value>
@@ -394,10 +394,10 @@
 	</item>
 	<item>
 		<title>wedding_46</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_46/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_46/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_46.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_46.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -413,7 +413,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_46.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_46.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_46.png]]></wp:meta_value>
@@ -425,10 +425,10 @@
 	</item>
 	<item>
 		<title>wedding_47</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_47/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_47/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_47.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_47.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -444,7 +444,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_47.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_47.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_47.png]]></wp:meta_value>
@@ -456,10 +456,10 @@
 	</item>
 	<item>
 		<title>wedding_52</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_52/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_52/</link>
 		<pubDate>Thu, 23 Jun 2016 00:42:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_52.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_52.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -475,7 +475,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_52.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_52.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_52.png]]></wp:meta_value>
@@ -487,10 +487,10 @@
 	</item>
 	<item>
 		<title>wedding_44</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_44/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_44/</link>
 		<pubDate>Thu, 23 Jun 2016 21:09:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_44.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_44.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -506,7 +506,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_44.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_44.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_44.png]]></wp:meta_value>
@@ -518,10 +518,10 @@
 	</item>
 	<item>
 		<title>wedding_61</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_61/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_61/</link>
 		<pubDate>Thu, 23 Jun 2016 21:09:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_61.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_61.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -537,7 +537,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_61.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_61.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_61.png]]></wp:meta_value>
@@ -549,10 +549,10 @@
 	</item>
 	<item>
 		<title>wedding_62</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_62/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding_62/</link>
 		<pubDate>Thu, 23 Jun 2016 21:09:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_62.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/wedding_62.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -568,7 +568,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_62.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_62.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/wedding_62.png]]></wp:meta_value>
@@ -580,10 +580,10 @@
 	</item>
 	<item>
 		<title>image-placerholder-slider</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/image-placerholder-slider/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/image-placerholder-slider/</link>
 		<pubDate>Thu, 07 Jul 2016 12:43:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -599,7 +599,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/image-placerholder-slider.jpg]]></wp:meta_value>
@@ -611,10 +611,10 @@
 	</item>
 	<item>
 		<title>banner-small</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/banner-small/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/banner-small/</link>
 		<pubDate>Thu, 07 Jul 2016 12:45:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/banner-small.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/banner-small.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -630,7 +630,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/banner-small.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/banner-small.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/banner-small.jpg]]></wp:meta_value>
@@ -642,10 +642,10 @@
 	</item>
 	<item>
 		<title>member</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/member/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/member/</link>
 		<pubDate>Thu, 07 Jul 2016 12:48:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -661,7 +661,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/member.jpg]]></wp:meta_value>
@@ -673,10 +673,10 @@
 	</item>
 	<item>
 		<title>ut-placeholder</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/09/standard-blog-post-with-all-the-trimmings/ut-placeholder/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/09/standard-blog-post-with-all-the-trimmings/ut-placeholder/#main</link>
 		<pubDate>Thu, 07 Jul 2016 13:00:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2013/11/ut-placeholder.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2013/11/ut-placeholder.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -692,7 +692,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2013/11/ut-placeholder.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2013/11/ut-placeholder.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/11/ut-placeholder.jpg]]></wp:meta_value>
@@ -704,10 +704,10 @@
 	</item>
 	<item>
 		<title>Sample Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/sample-page__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/sample-page__trashed/</link>
 		<pubDate>Tue, 21 Jun 2016 15:38:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
@@ -717,7 +717,7 @@
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+As a new WordPress user, you should go to <a href="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-21 15:38:49]]></wp:post_date>
@@ -750,10 +750,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/blog/</link>
 		<pubDate>Tue, 21 Jun 2016 15:40:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=7</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1108,10 +1108,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/</link>
 		<pubDate>Tue, 21 Jun 2016 15:40:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=9</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1478,16 +1478,16 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>About us</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/about-us/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/about-us/</link>
 		<pubDate>Tue, 21 Jun 2016 18:58:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=26</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=26</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_service_column_vertical icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_61.png" headline="Consulting" margin_bottom="20" shape="normal" width="third" effect="fadeIn" animate_once="yes" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam. [/ut_service_column_vertical]
+		<content:encoded><![CDATA[[ut_service_column_vertical icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_61.png" headline="Consulting" margin_bottom="20" shape="normal" width="third" effect="fadeIn" animate_once="yes" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam. [/ut_service_column_vertical]
 
-[ut_service_column_vertical icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_44.png" headline="Day of Coordination" margin_bottom="20" shape="normal" width="third" effect="fadeIn" animate_once="yes" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam. [/ut_service_column_vertical]
+[ut_service_column_vertical icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_44.png" headline="Day of Coordination" margin_bottom="20" shape="normal" width="third" effect="fadeIn" animate_once="yes" last="false"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam. [/ut_service_column_vertical]
 
-[ut_service_column_vertical icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_62.png" headline="Full Service Wedding Planning" margin_bottom="20" shape="normal" width="third" effect="fadeIn" animate_once="yes" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.[/ut_service_column_vertical]]]></content:encoded>
+[ut_service_column_vertical icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_62.png" headline="Full Service Wedding Planning" margin_bottom="20" shape="normal" width="third" effect="fadeIn" animate_once="yes" last="true"] Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.[/ut_service_column_vertical]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-21 18:58:42]]></wp:post_date>
@@ -1884,10 +1884,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/21/51/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/21/51/</link>
 		<pubDate>Tue, 21 Jun 2016 23:46:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=51</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1947,10 +1947,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Wedding Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/21/52/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/21/52/</link>
 		<pubDate>Tue, 21 Jun 2016 23:46:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=52</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2010,10 +2010,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/21/home/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/21/home/</link>
 		<pubDate>Tue, 21 Jun 2016 23:46:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=53</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2073,18 +2073,18 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>What our Wedding Couples say</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/what-our-wedding-couples-say/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/what-our-wedding-couples-say/</link>
 		<pubDate>Wed, 22 Jun 2016 15:33:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2703</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2703</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_single_quote author="Maria &amp; Jason" company="" title="Thank You Brooklyn Weddings for making our day perfect!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Thank you for making our day perfect. From talking to our planner online to make our reservation, to meeting us and going over everything, we knew we were in good hands. Our day was perfect and fun. Thank you again!!! [/ut_single_quote]
+		<content:encoded><![CDATA[[ut_single_quote author="Maria &amp; Jason" company="" title="Thank You Brooklyn Weddings for making our day perfect!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Thank you for making our day perfect. From talking to our planner online to make our reservation, to meeting us and going over everything, we knew we were in good hands. Our day was perfect and fun. Thank you again!!! [/ut_single_quote]
 
-[ut_single_quote author="Diana &amp; Steven" company="" title="Fantastic experience by well organised professionals!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] Renewal of vows for our 10th Anniversary was perfectly planned and executed. From the pick up in limo to the ceremony photos and drop off in the limo. The gazebo on the terrace was magical and the staff made us all feel special, especially the words from the Minister... They were perfect for how we feel about each other. [/ut_single_quote]
+[ut_single_quote author="Diana &amp; Steven" company="" title="Fantastic experience by well organised professionals!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] Renewal of vows for our 10th Anniversary was perfectly planned and executed. From the pick up in limo to the ceremony photos and drop off in the limo. The gazebo on the terrace was magical and the staff made us all feel special, especially the words from the Minister... They were perfect for how we feel about each other. [/ut_single_quote]
 
-[ut_single_quote author="Chrissi &amp; Matthias" company="" title="Just Amazing!!!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] I recently got married here in may 2016. After planning it all over the internet with shannon the wedding planner prior !! Everything on the day went perfect !! The staff were friendly and made our day go smoothly !! Highly recommended to anyone getting married in New York!! Photos also came out perfect ! So happy [/ut_single_quote]
+[ut_single_quote author="Chrissi &amp; Matthias" company="" title="Just Amazing!!!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] I recently got married here in may 2016. After planning it all over the internet with shannon the wedding planner prior !! Everything on the day went perfect !! The staff were friendly and made our day go smoothly !! Highly recommended to anyone getting married in New York!! Photos also came out perfect ! So happy [/ut_single_quote]
 
-[ut_single_quote author="Jacqueline &amp; Marcel" company="" title="Fabulous Terrace wedding venue!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] I cannot thank this venue enough! The whole process, from booking online, through to arrival, the wedding and the photo viewing was efficient. I loved the terrace and getting married outside holding a beautiful small bouquet of flowers they provided. The minister was excellent and we have some love photographs too, including one in a folder with the wedding certificate. Long Island will be forever special in my hear. [/ut_single_quote]]]></content:encoded>
+[ut_single_quote author="Jacqueline &amp; Marcel" company="" title="Fabulous Terrace wedding venue!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] I cannot thank this venue enough! The whole process, from booking online, through to arrival, the wedding and the photo viewing was efficient. I loved the terrace and getting married outside holding a beautiful small bouquet of flowers they provided. The minister was excellent and we have some love photographs too, including one in a folder with the wedding certificate. Long Island will be forever special in my hear. [/ut_single_quote]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2703</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-22 15:33:44]]></wp:post_date>
@@ -2489,10 +2489,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>What our Bride’s say</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/22/2704/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/22/2704/</link>
 		<pubDate>Wed, 22 Jun 2016 15:33:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/06/22/2704/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/06/22/2704/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2884,12 +2884,12 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Excellence Wedding Packages</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/excellence-wedding-packages/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/excellence-wedding-packages/</link>
 		<pubDate>Wed, 22 Jun 2016 15:55:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2717</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2717</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_one_third][ut_fancy_image image="3087" overlay="#222222" border="#ffffff" title="Elegant Weddings" title_color="#ffffff" link="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/elegant-weddings/" margin_bottom="40px" target="_self"]The Hamptons New York USA[/ut_fancy_image][/ut_one_third][ut_one_third][ut_fancy_image image="3087" overlay="#222222" border="#ffffff" title="Coastal Weddings" title_color="#ffffff" link="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/coastal-weddings/" margin_bottom="40px" target="_self"]Hampton Bays New York USA[/ut_fancy_image][/ut_one_third][ut_one_third_last][ut_fancy_image image="3087" overlay="#222222" border="#ffffff" title="Outdoor Weddings" title_color="#ffffff" link="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/outdoor-weddings/" margin_bottom="40px" target="_self"]Central Park New York CITY USA[/ut_fancy_image][/ut_one_third_last]]]></content:encoded>
+		<content:encoded><![CDATA[[ut_one_third][ut_fancy_image image="3087" overlay="#222222" border="#ffffff" title="Elegant Weddings" title_color="#ffffff" link="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/elegant-weddings/" margin_bottom="40px" target="_self"]The Hamptons New York USA[/ut_fancy_image][/ut_one_third][ut_one_third][ut_fancy_image image="3087" overlay="#222222" border="#ffffff" title="Coastal Weddings" title_color="#ffffff" link="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/coastal-weddings/" margin_bottom="40px" target="_self"]Hampton Bays New York USA[/ut_fancy_image][/ut_one_third][ut_one_third_last][ut_fancy_image image="3087" overlay="#222222" border="#ffffff" title="Outdoor Weddings" title_color="#ffffff" link="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/outdoor-weddings/" margin_bottom="40px" target="_self"]Central Park New York CITY USA[/ut_fancy_image][/ut_one_third_last]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2717</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-22 15:55:20]]></wp:post_date>
@@ -3294,10 +3294,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Wedding Packages</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/22/2718/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/22/2718/</link>
 		<pubDate>Wed, 22 Jun 2016 15:55:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/06/22/2718/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/06/22/2718/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3689,28 +3689,28 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Our Wedding Services</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/our-wedding-services/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/our-wedding-services/</link>
 		<pubDate>Wed, 22 Jun 2016 16:03:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2721</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2721</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_46.png" headline="Photos" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Capture your Brooklyn wedding with award-winning photography.[/ut_service_column]
+		<content:encoded><![CDATA[[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_46.png" headline="Photos" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Capture your Brooklyn wedding with award-winning photography.[/ut_service_column]
 
-[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_12.png" headline="Flowers" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Our on-site Floral Studio will design the wedding flowers of your dreams. [/ut_service_column]
+[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_12.png" headline="Flowers" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Our on-site Floral Studio will design the wedding flowers of your dreams. [/ut_service_column]
 
-[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_09.png" headline="Cermony" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="true"] Customize your Brooklyn wedding ceremony to include specialty services.[/ut_service_column][ut_clear]
+[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_09.png" headline="Cermony" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="true"] Customize your Brooklyn wedding ceremony to include specialty services.[/ut_service_column][ut_clear]
 
-[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_10.png" headline="Attire" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Say "I do" in style with our fashion-forward wedding attire packages.[/ut_service_column]
+[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_10.png" headline="Attire" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Say "I do" in style with our fashion-forward wedding attire packages.[/ut_service_column]
 
-[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_22.png" headline="Reception" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Celebrate your Brooklyn wedding with a casual or elegant wedding reception.[/ut_service_column]
+[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_22.png" headline="Reception" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Celebrate your Brooklyn wedding with a casual or elegant wedding reception.[/ut_service_column]
 
-[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_28.png" headline="Hotel" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="true"] Find and book your Brooklyn hotel for you and your guests.[/ut_service_column][ut_clear]
+[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_28.png" headline="Hotel" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="true"] Find and book your Brooklyn hotel for you and your guests.[/ut_service_column][ut_clear]
 
-[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_47.png" headline="Video" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Broadcast your wedding ceremony and relive all the moments from your wedding.[/ut_service_column]
+[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_47.png" headline="Video" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Broadcast your wedding ceremony and relive all the moments from your wedding.[/ut_service_column]
 
-[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_17.png" headline="Wedding Cakes" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Be married and eat cake! Fun and elegant wedding cakes available in all sizes. [/ut_service_column]
+[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_17.png" headline="Wedding Cakes" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="false"] Be married and eat cake! Fun and elegant wedding cakes available in all sizes. [/ut_service_column]
 
-[ut_service_column color="#FDA527" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_52.png" headline="Limousines" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="true"] Arrive in comfort, elegance, and style to the Brooklyn wedding of your dreams. [/ut_service_column]]]></content:encoded>
+[ut_service_column color="#FDA527" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/wedding_52.png" headline="Limousines" margin_bottom="20" shape="normal" align="left" width="third" effect="fadeInUp" last="true"] Arrive in comfort, elegance, and style to the Brooklyn wedding of your dreams. [/ut_service_column]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2721</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-22 16:03:31]]></wp:post_date>
@@ -3782,7 +3782,7 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -4091,10 +4091,10 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Our Services</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/22/2722/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/22/2722/</link>
 		<pubDate>Wed, 22 Jun 2016 16:03:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/2016/06/22/2722/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/2016/06/22/2722/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4486,14 +4486,14 @@ As a new WordPress user, you should go to <a href="http://themeforest.unitedthem
 	</item>
 	<item>
 		<title>Elegant Weddings</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/elegant-weddings/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/elegant-weddings/</link>
 		<pubDate>Thu, 23 Jun 2016 11:43:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2873</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2873</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_one_half]
 <h2>Our Wedding Plan</h2>
-<img class="aligncenter wp-image-3066 size-large" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg" width="1024" height="683" />
+<img class="aligncenter wp-image-3066 size-large" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg" width="1024" height="683" />
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 [/ut_one_half]
@@ -4505,9 +4505,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 [ut_spacer margin_bottom="60px"]
 
-[ut_single_quote author="Maria &amp; Jason" company="" title="Thank You Brooklyn Weddings for making our day perfect!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Thank you for making our day perfect. From talking to our planner online to make our reservation, to meeting us and going over everything, we knew we were in good hands. Our day was perfect and fun. Thank you again!!! [/ut_single_quote]
+[ut_single_quote author="Maria &amp; Jason" company="" title="Thank You Brooklyn Weddings for making our day perfect!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Thank you for making our day perfect. From talking to our planner online to make our reservation, to meeting us and going over everything, we knew we were in good hands. Our day was perfect and fun. Thank you again!!! [/ut_single_quote]
 
-[ut_single_quote author="Diana &amp; Steven" company="" title="Fantastic experience by well organised professionals!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] Renewal of vows for our 10th Anniversary was perfectly planned and executed. From the pick up in limo to the ceremony photos and drop off in the limo. The gazebo on the terrace was magical and the staff made us all feel special, especially the words from the Minister... They were perfect for how we feel about each other. [/ut_single_quote]
+[ut_single_quote author="Diana &amp; Steven" company="" title="Fantastic experience by well organised professionals!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] Renewal of vows for our 10th Anniversary was perfectly planned and executed. From the pick up in limo to the ceremony photos and drop off in the limo. The gazebo on the terrace was magical and the staff made us all feel special, especially the words from the Minister... They were perfect for how we feel about each other. [/ut_single_quote]
 
 [ut_spacer margin_bottom="40px"]
 
@@ -4731,7 +4731,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:9:"no-repeat";s:15:"background-size";s:5:"cover";s:16:"background-image";s:131:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/Complete-Celebration-Package-Hero.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:9:"no-repeat";s:15:"background-size";s:5:"cover";s:16:"background-image";s:131:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/Complete-Celebration-Package-Hero.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_split_content_type]]></wp:meta_key>
@@ -4928,14 +4928,14 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Coastal Weddings</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/coastal-weddings/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/coastal-weddings/</link>
 		<pubDate>Thu, 23 Jun 2016 11:43:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2876</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2876</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_one_half]
 <h2>Our Wedding Plan</h2>
-<img class="aligncenter wp-image-3086 size-full" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg" width="1600" height="900" />
+<img class="aligncenter wp-image-3086 size-full" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg" width="1600" height="900" />
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 [/ut_one_half]
@@ -4947,9 +4947,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 [ut_spacer margin_bottom="60px"]
 
-[ut_single_quote author="Maria &amp; Jason" company="" title="Thank You Brooklyn Weddings for making our day perfect!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Thank you for making our day perfect. From talking to our planner online to make our reservation, to meeting us and going over everything, we knew we were in good hands. Our day was perfect and fun. Thank you again!!! [/ut_single_quote]
+[ut_single_quote author="Maria &amp; Jason" company="" title="Thank You Brooklyn Weddings for making our day perfect!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Thank you for making our day perfect. From talking to our planner online to make our reservation, to meeting us and going over everything, we knew we were in good hands. Our day was perfect and fun. Thank you again!!! [/ut_single_quote]
 
-[ut_single_quote author="Diana &amp; Steven" company="" title="Fantastic experience by well organised professionals!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] Renewal of vows for our 10th Anniversary was perfectly planned and executed. From the pick up in limo to the ceremony photos and drop off in the limo. The gazebo on the terrace was magical and the staff made us all feel special, especially the words from the Minister... They were perfect for how we feel about each other. [/ut_single_quote]
+[ut_single_quote author="Diana &amp; Steven" company="" title="Fantastic experience by well organised professionals!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] Renewal of vows for our 10th Anniversary was perfectly planned and executed. From the pick up in limo to the ceremony photos and drop off in the limo. The gazebo on the terrace was magical and the staff made us all feel special, especially the words from the Minister... They were perfect for how we feel about each other. [/ut_single_quote]
 
 [ut_spacer margin_bottom="40px"]
 
@@ -5350,14 +5350,14 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Outdoor Weddings</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/outdoor-weddings/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/outdoor-weddings/</link>
 		<pubDate>Thu, 23 Jun 2016 11:43:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2879</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2879</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_one_half]
 <h2>Our Wedding Plan</h2>
-<img class="aligncenter wp-image-3086 size-full" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg" width="1600" height="900" />
+<img class="aligncenter wp-image-3086 size-full" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg" width="1600" height="900" />
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 [/ut_one_half]
@@ -5369,9 +5369,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 [ut_spacer margin_bottom="60px"]
 
-[ut_single_quote author="Maria &amp; Jason" company="" title="Thank You Brooklyn Weddings for making our day perfect!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Thank you for making our day perfect. From talking to our planner online to make our reservation, to meeting us and going over everything, we knew we were in good hands. Our day was perfect and fun. Thank you again!!! [/ut_single_quote]
+[ut_single_quote author="Maria &amp; Jason" company="" title="Thank You Brooklyn Weddings for making our day perfect!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Thank you for making our day perfect. From talking to our planner online to make our reservation, to meeting us and going over everything, we knew we were in good hands. Our day was perfect and fun. Thank you again!!! [/ut_single_quote]
 
-[ut_single_quote author="Diana &amp; Steven" company="" title="Fantastic experience by well organised professionals!" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] Renewal of vows for our 10th Anniversary was perfectly planned and executed. From the pick up in limo to the ceremony photos and drop off in the limo. The gazebo on the terrace was magical and the staff made us all feel special, especially the words from the Minister... They were perfect for how we feel about each other. [/ut_single_quote]
+[ut_single_quote author="Diana &amp; Steven" company="" title="Fantastic experience by well organised professionals!" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] Renewal of vows for our 10th Anniversary was perfectly planned and executed. From the pick up in limo to the ceremony photos and drop off in the limo. The gazebo on the terrace was magical and the staff made us all feel special, especially the words from the Minister... They were perfect for how we feel about each other. [/ut_single_quote]
 
 [ut_spacer margin_bottom="40px"]
 
@@ -5768,10 +5768,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Test Section</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/test-section/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/test-section/</link>
 		<pubDate>Thu, 23 Jun 2016 11:45:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2882</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2882</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6194,10 +6194,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Award-Winning Wedding Planning</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/about-us/award-winning-wedding-planning/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/about-us/award-winning-wedding-planning/</link>
 		<pubDate>Thu, 23 Jun 2016 16:52:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2954</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2954</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6387,7 +6387,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:123:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_section]]></wp:meta_key>
@@ -6576,10 +6576,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>CALL US 564-5231-652-WEDDING</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/our-wedding-services/call-us-564-5231-652-wedding/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/our-wedding-services/call-us-564-5231-652-wedding/</link>
 		<pubDate>Thu, 23 Jun 2016 17:14:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2963</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2963</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2 style="text-align: center;">CALL US 564-5231-652-WEDDING</h2>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6954,10 +6954,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Our Most Popular Wedding Venues</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/what-our-wedding-couples-say/our-most-popular-wedding-venues/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/what-our-wedding-couples-say/our-most-popular-wedding-venues/</link>
 		<pubDate>Thu, 23 Jun 2016 22:45:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=3004</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=3004</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_pricing id="3002"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7364,10 +7364,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Hello world!</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/21/hello-world__trashed-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2016/06/21/hello-world__trashed-2/</link>
 		<pubDate>Tue, 21 Jun 2016 15:38:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=1</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7418,10 +7418,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Hello world!</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2015/12/17/hello-world__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2015/12/17/hello-world__trashed/</link>
 		<pubDate>Thu, 17 Dec 2015 22:51:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=1</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7504,10 +7504,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Awesome Gallery Post</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/07/post-format-gallery/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/07/post-format-gallery/</link>
 		<pubDate>Thu, 07 Nov 2013 07:24:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=555</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery ids="3086"]
 
@@ -7594,12 +7594,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>AWESOME WORDPRESS THEMES</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/05/post-format-link/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/05/post-format-link/</link>
 		<pubDate>Tue, 05 Nov 2013 08:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=565</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="http://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
+		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="https://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -7632,13 +7632,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Post Format: Quote</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/08/post-format-quote/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/08/post-format-quote/</link>
 		<pubDate>Fri, 08 Nov 2013 08:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=575</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=575</guid>
 		<description></description>
 		<content:encoded><![CDATA[<blockquote>Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-<cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
+<cite><a href="https://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>575</wp:post_id>
@@ -7668,10 +7668,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Jerry&#039;s Diner - Bounce In Place</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/05/jerrys-diner-bounce-in-place/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/05/jerrys-diner-bounce-in-place/</link>
 		<pubDate>Tue, 05 Nov 2013 08:36:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=587</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=587</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167220706&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -7767,10 +7767,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Wedding Contest</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/08/wedding-contest/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/08/wedding-contest/</link>
 		<pubDate>Fri, 08 Nov 2013 03:20:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2442</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2442</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -7859,10 +7859,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Wedding Reception</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/07/wedding-reception/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/07/wedding-reception/</link>
 		<pubDate>Thu, 07 Nov 2013 04:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2469</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2469</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://player.vimeo.com/video/73395793?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -7964,10 +7964,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Standard Post without Image</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/05/post-without-image/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/05/post-without-image/</link>
 		<pubDate>Tue, 05 Nov 2013 05:58:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2484</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2484</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -8041,10 +8041,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Hello Brooklyn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/05/hello-brooklyn/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/05/hello-brooklyn/</link>
 		<pubDate>Tue, 05 Nov 2013 06:01:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2486</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2486</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://player.vimeo.com/video/10089801?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -8094,7 +8094,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_9edd1db7d8369e94aaeca0c2b85f4bf3]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_activate_csection]]></wp:meta_key>
@@ -8139,10 +8139,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Standard Blog Post With All The Trimmings</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/09/standard-blog-post-with-all-the-trimmings/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/2013/11/09/standard-blog-post-with-all-the-trimmings/</link>
 		<pubDate>Sat, 09 Nov 2013 10:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=1</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -8236,7 +8236,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2013-10-07 10:38:23]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2013-10-07 10:38:23]]></wp:comment_date_gmt>
@@ -8292,10 +8292,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Exquisite Wedding Adventures</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/about-us/exquisite-wedding-adventures__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/about-us/exquisite-wedding-adventures__trashed/</link>
 		<pubDate>Wed, 22 Jun 2016 11:01:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2690</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2690</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://player.vimeo.com/video/89224516?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/89145303?color=ffffff&title=0&byline=0&portrait=0" width="640" height="274" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></content:encoded>
@@ -8422,7 +8422,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:113:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/Bklyn-Wedding-1.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:113:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/06/Bklyn-Wedding-1.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_tabs_tablet_color]]></wp:meta_key>
@@ -8675,10 +8675,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Menu Test!</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/menu-test__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/menu-test__trashed/</link>
 		<pubDate>Wed, 22 Jun 2016 16:14:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2724</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2724</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9057,10 +9057,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Wischuell Komposa</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wischuell-komposa__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wischuell-komposa__trashed/</link>
 		<pubDate>Thu, 23 Jun 2016 10:28:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2794</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2794</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column width="1/2"][ut_fancy_image image="2712" overlay="#8224e3" border="#81d742" title="Bride in Love" title_color="#81d742" title_hover_color="#eeee22" desc_color="#ffffff" link="url:http%3A%2F%2Fbeta.unitedthemes.com%2Fbrooklyn%2Ftest-section%2F|title:TestText|target:%20_blank|" target=""]Some Text for this Box[/ut_fancy_image][/vc_column][vc_column width="1/2"][ut_fancy_image image="2709" title="Day One of Infinity"]Some Text for this Box[/ut_fancy_image][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9439,10 +9439,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Complete Celebration Package</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-menu-manager/complete-celebration-package__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-menu-manager/complete-celebration-package__trashed/</link>
 		<pubDate>Thu, 23 Jun 2016 12:11:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2890</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2890</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9485,10 +9485,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Summer Wedding Package</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-menu-manager/summer-wedding-package__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-menu-manager/summer-wedding-package__trashed/</link>
 		<pubDate>Thu, 23 Jun 2016 12:11:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2891</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2891</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9531,10 +9531,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>ADD - ONS</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-menu-manager/add-ons/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-menu-manager/add-ons/</link>
 		<pubDate>Thu, 23 Jun 2016 13:11:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2898</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2898</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9573,10 +9573,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Wedding Gallery</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding-gallery__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wedding-gallery__trashed/</link>
 		<pubDate>Thu, 23 Jun 2016 17:10:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2960</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2960</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_showcase id="2992"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9983,10 +9983,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Wedding Gallery</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/portfolio-item/wedding-gallery__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/portfolio-item/wedding-gallery__trashed/</link>
 		<pubDate>Thu, 23 Jun 2016 21:55:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=2991</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=2991</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10253,10 +10253,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/portfolio-item/1__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/portfolio-item/1__trashed/</link>
 		<pubDate>Fri, 24 Jun 2016 01:18:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=3026</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=3026</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10544,10 +10544,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Tue, 21 Jun 2016 15:39:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>Your Name (required)<br />
     [text* your-name] </p>
@@ -10571,7 +10571,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on United Themes Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16)
+This e-mail was sent from a contact form on United Themes Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16)
 public@unitedthemes.com
 Reply-To: [your-email]
 
@@ -10584,7 +10584,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on United Themes Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16)
+This e-mail was sent from a contact form on United Themes Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16)
 [your-email]
 Reply-To: public@unitedthemes.com
 
@@ -10636,7 +10636,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on United Themes Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on United Themes Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -10644,7 +10644,7 @@ This e-mail was sent from a contact form on United Themes Brooklyn (http://theme
 [your-message]
 
 --
-This e-mail was sent from a contact form on United Themes Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on United Themes Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -10661,10 +10661,10 @@ This e-mail was sent from a contact form on United Themes Brooklyn (http://theme
 	</item>
 	<item>
 		<title>Intimate Weddings</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-menu-manager/intimate-weddings__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-menu-manager/intimate-weddings__trashed/</link>
 		<pubDate>Thu, 23 Jun 2016 12:15:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2892</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2892</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10707,10 +10707,10 @@ This e-mail was sent from a contact form on United Themes Brooklyn (http://theme
 	</item>
 	<item>
 		<title>Elegant Pricing</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-table-manager/elegant-pricing/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/ut-table-manager/elegant-pricing/</link>
 		<pubDate>Thu, 23 Jun 2016 22:45:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-table-manager&#038;p=3002</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-table-manager&#038;p=3002</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10744,7 +10744,7 @@ This e-mail was sent from a contact form on United Themes Brooklyn (http://theme
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_table_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{i:1;a:13:{s:15:"activate_column";s:2:"on";s:15:"featured_column";s:2:"on";s:17:"featured_headline";s:18:"starts at $4999.00";s:6:"header";s:135:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg">";s:8:"headline";s:20:"The Hamptons Mansion";s:11:"subheadline";s:15:"Elegant Wedding";s:5:"price";s:7:"5999.00";s:8:"currency";s:1:"$";s:6:"period";s:0:"";s:8:"features";a:5:{i:1;a:1:{s:5:"title";s:50:"Personal Assistance obtaining the Marriage License";}i:11;a:1:{s:5:"title";s:24:"Romantic Mansion Wedding";}i:111;a:1:{s:5:"title";s:36:"Photographer 150 Photos on USB Stick";}i:112;a:1:{s:5:"title";s:12:"Wedding cake";}i:113;a:1:{s:5:"title";s:32:"Registration of Marriage License";}}s:11:"button_text";s:13:"Fint Out More";s:11:"button_link";s:84:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/elegant-weddings/";s:13:"button_target";s:5:"_self";}i:2;a:13:{s:15:"activate_column";s:2:"on";s:15:"featured_column";s:2:"on";s:17:"featured_headline";s:18:"starts at $3999.00";s:6:"header";s:135:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg">";s:8:"headline";s:12:"Hamtpon Bays";s:11:"subheadline";s:15:"Coastal Wedding";s:5:"price";s:7:"4599.00";s:8:"currency";s:1:"$";s:6:"period";s:0:"";s:8:"features";a:5:{i:1;a:1:{s:5:"title";s:50:"Personal Assistance obtaining the Marriage License";}i:11;a:1:{s:5:"title";s:22:"Romantic Beach Wedding";}i:111;a:1:{s:5:"title";s:36:"Photographer 150 Photos on USB Stick";}i:112;a:1:{s:5:"title";s:12:"Wedding cake";}i:113;a:1:{s:5:"title";s:32:"Registration of Marriage License";}}s:11:"button_text";s:13:"Find Out More";s:11:"button_link";s:84:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/coastal-weddings/";s:13:"button_target";s:5:"_self";}i:3;a:13:{s:15:"activate_column";s:2:"on";s:15:"featured_column";s:2:"on";s:17:"featured_headline";s:18:"starts at $2999.00";s:6:"header";s:135:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg">";s:8:"headline";s:26:"Central Park New York City";s:11:"subheadline";s:15:"Outdoor Wedding";s:5:"price";s:7:"3299.00";s:8:"currency";s:1:"$";s:6:"period";s:0:"";s:8:"features";a:5:{i:1;a:1:{s:5:"title";s:50:"Personal Assistance obtaining the Marriage License";}i:11;a:1:{s:5:"title";s:21:"Romantic Park Wedding";}i:111;a:1:{s:5:"title";s:36:"Photographer 150 Photos on USB Stick";}i:112;a:1:{s:5:"title";s:12:"Wedding cake";}i:113;a:1:{s:5:"title";s:32:"Registration of Marriage License";}}s:11:"button_text";s:13:"Find Out More";s:11:"button_link";s:84:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/outdoor-weddings/";s:13:"button_target";s:5:"_self";}i:4;a:10:{s:17:"featured_headline";s:0:"";s:6:"header";s:0:"";s:8:"headline";s:0:"";s:11:"subheadline";s:0:"";s:5:"price";s:0:"";s:8:"currency";s:0:"";s:6:"period";s:0:"";s:11:"button_text";s:0:"";s:11:"button_link";s:0:"";s:13:"button_target";s:5:"_self";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:4:{i:1;a:13:{s:15:"activate_column";s:2:"on";s:15:"featured_column";s:2:"on";s:17:"featured_headline";s:18:"starts at $4999.00";s:6:"header";s:135:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg">";s:8:"headline";s:20:"The Hamptons Mansion";s:11:"subheadline";s:15:"Elegant Wedding";s:5:"price";s:7:"5999.00";s:8:"currency";s:1:"$";s:6:"period";s:0:"";s:8:"features";a:5:{i:1;a:1:{s:5:"title";s:50:"Personal Assistance obtaining the Marriage License";}i:11;a:1:{s:5:"title";s:24:"Romantic Mansion Wedding";}i:111;a:1:{s:5:"title";s:36:"Photographer 150 Photos on USB Stick";}i:112;a:1:{s:5:"title";s:12:"Wedding cake";}i:113;a:1:{s:5:"title";s:32:"Registration of Marriage License";}}s:11:"button_text";s:13:"Fint Out More";s:11:"button_link";s:84:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/elegant-weddings/";s:13:"button_target";s:5:"_self";}i:2;a:13:{s:15:"activate_column";s:2:"on";s:15:"featured_column";s:2:"on";s:17:"featured_headline";s:18:"starts at $3999.00";s:6:"header";s:135:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg">";s:8:"headline";s:12:"Hamtpon Bays";s:11:"subheadline";s:15:"Coastal Wedding";s:5:"price";s:7:"4599.00";s:8:"currency";s:1:"$";s:6:"period";s:0:"";s:8:"features";a:5:{i:1;a:1:{s:5:"title";s:50:"Personal Assistance obtaining the Marriage License";}i:11;a:1:{s:5:"title";s:22:"Romantic Beach Wedding";}i:111;a:1:{s:5:"title";s:36:"Photographer 150 Photos on USB Stick";}i:112;a:1:{s:5:"title";s:12:"Wedding cake";}i:113;a:1:{s:5:"title";s:32:"Registration of Marriage License";}}s:11:"button_text";s:13:"Find Out More";s:11:"button_link";s:84:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/coastal-weddings/";s:13:"button_target";s:5:"_self";}i:3;a:13:{s:15:"activate_column";s:2:"on";s:15:"featured_column";s:2:"on";s:17:"featured_headline";s:18:"starts at $2999.00";s:6:"header";s:135:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/wp-content/uploads/2016/07/image-placerholder-slider.jpg">";s:8:"headline";s:26:"Central Park New York City";s:11:"subheadline";s:15:"Outdoor Wedding";s:5:"price";s:7:"3299.00";s:8:"currency";s:1:"$";s:6:"period";s:0:"";s:8:"features";a:5:{i:1;a:1:{s:5:"title";s:50:"Personal Assistance obtaining the Marriage License";}i:11;a:1:{s:5:"title";s:21:"Romantic Park Wedding";}i:111;a:1:{s:5:"title";s:36:"Photographer 150 Photos on USB Stick";}i:112;a:1:{s:5:"title";s:12:"Wedding cake";}i:113;a:1:{s:5:"title";s:32:"Registration of Marriage License";}}s:11:"button_text";s:13:"Find Out More";s:11:"button_link";s:84:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo16/outdoor-weddings/";s:13:"button_target";s:5:"_self";}i:4;a:10:{s:17:"featured_headline";s:0:"";s:6:"header";s:0:"";s:8:"headline";s:0:"";s:11:"subheadline";s:0:"";s:5:"price";s:0:"";s:8:"currency";s:0:"";s:6:"period";s:0:"";s:11:"button_text";s:0:"";s:11:"button_link";s:0:"";s:13:"button_target";s:5:"_self";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

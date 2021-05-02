@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.9.5" created="2018-04-23 23:50" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>Brooklyn</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35</link>
 	<description>Website #35</description>
 	<pubDate>Mon, 23 Apr 2018 23:50:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -50,10 +50,10 @@
 
 	<item>
 		<title>Helpful</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/helpful/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/helpful/</link>
 		<pubDate>Mon, 23 Apr 2018 21:28:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/helpful/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/helpful/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -100,7 +100,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/#section-helpful]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/#section-helpful]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
@@ -109,10 +109,10 @@
 	</item>
 	<item>
 		<title>Test Form</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/mc4wp-form/17/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/mc4wp-form/17/</link>
 		<pubDate>Wed, 14 Feb 2018 14:41:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/mc4wp-form/17/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/mc4wp-form/17/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
 	<label>Email address: </label>
@@ -182,10 +182,10 @@
 	</item>
 	<item>
 		<title>Locations</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/locations/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/locations/</link>
 		<pubDate>Mon, 23 Apr 2018 21:21:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/locations/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/locations/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -232,7 +232,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/#section-locations]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/#section-locations]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
@@ -241,10 +241,10 @@
 	</item>
 	<item>
 		<title>Contact</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/contact/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/contact/</link>
 		<pubDate>Mon, 23 Apr 2018 21:21:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/contact/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -295,15 +295,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/#section-contact]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/#section-contact]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/about/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/about/</link>
 		<pubDate>Mon, 23 Apr 2018 21:22:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/about/</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/about/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -326,7 +326,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/#section-about]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/#section-about]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
@@ -359,10 +359,10 @@
 	</item>
 	<item>
 		<title>test</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?p=510</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?p=510</link>
 		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?p=510</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?p=510</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -421,10 +421,10 @@
 	</item>
 	<item>
 		<title>Leaf-Logo</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/leaf-logo/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/leaf-logo/</link>
 		<pubDate>Mon, 23 Apr 2018 11:48:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Leaf-Logo.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Leaf-Logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -440,7 +440,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Leaf-Logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Leaf-Logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/Leaf-Logo.png]]></wp:meta_value>
@@ -452,10 +452,10 @@
 	</item>
 	<item>
 		<title>salad</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/salad/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/salad/</link>
 		<pubDate>Mon, 23 Apr 2018 20:45:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/salad.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/salad.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -471,7 +471,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/salad.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/salad.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/salad.png]]></wp:meta_value>
@@ -483,10 +483,10 @@
 	</item>
 	<item>
 		<title>eggs</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/eggs/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/eggs/</link>
 		<pubDate>Mon, 23 Apr 2018 20:47:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/eggs.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/eggs.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -502,7 +502,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/eggs.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/eggs.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/eggs.png]]></wp:meta_value>
@@ -514,10 +514,10 @@
 	</item>
 	<item>
 		<title>corn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/corn-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/corn-2/</link>
 		<pubDate>Mon, 23 Apr 2018 20:48:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/corn.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/corn.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -533,7 +533,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/corn.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/corn.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/corn.png]]></wp:meta_value>
@@ -545,10 +545,10 @@
 	</item>
 	<item>
 		<title>broccoli</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/broccoli-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/broccoli-2/</link>
 		<pubDate>Mon, 23 Apr 2018 20:50:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/broccoli.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/broccoli.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -564,7 +564,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/broccoli.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/broccoli.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/broccoli.png]]></wp:meta_value>
@@ -576,10 +576,10 @@
 	</item>
 	<item>
 		<title>Map-Pin-1_120px</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/map-pin-1_120px/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/map-pin-1_120px/</link>
 		<pubDate>Mon, 23 Apr 2018 22:04:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Map-Pin-1_120px.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Map-Pin-1_120px.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -595,7 +595,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Map-Pin-1_120px.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Map-Pin-1_120px.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:50;s:6:"height";i:88;s:4:"file";s:27:"2018/04/Map-Pin-1_120px.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -607,10 +607,10 @@
 	</item>
 	<item>
 		<title>hero</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/hero/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/hero/</link>
 		<pubDate>Mon, 23 Apr 2018 23:17:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -626,7 +626,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/hero.jpg]]></wp:meta_value>
@@ -638,10 +638,10 @@
 	</item>
 	<item>
 		<title>about-our-market</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/about-our-market-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/about-our-market-2/</link>
 		<pubDate>Mon, 23 Apr 2018 23:20:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/about-our-market-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/about-our-market-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -657,7 +657,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/about-our-market-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/about-our-market-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/about-our-market-1.jpg]]></wp:meta_value>
@@ -669,10 +669,10 @@
 	</item>
 	<item>
 		<title>what-we-do</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/what-we-do-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/what-we-do-2/</link>
 		<pubDate>Mon, 23 Apr 2018 23:20:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/what-we-do-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/what-we-do-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -688,7 +688,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/what-we-do-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/what-we-do-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/what-we-do-1.jpg]]></wp:meta_value>
@@ -700,10 +700,10 @@
 	</item>
 	<item>
 		<title>made-in-us</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/made-in-us-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/made-in-us-2/</link>
 		<pubDate>Mon, 23 Apr 2018 23:21:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/made-in-us-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/made-in-us-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -719,7 +719,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/made-in-us-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/made-in-us-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/made-in-us-1.jpg]]></wp:meta_value>
@@ -731,10 +731,10 @@
 	</item>
 	<item>
 		<title>brands-hover</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/brands-hover-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/brands-hover-2/</link>
 		<pubDate>Mon, 23 Apr 2018 23:23:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/brands-hover-1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/brands-hover-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -750,7 +750,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/brands-hover-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/brands-hover-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/brands-hover-1.jpg]]></wp:meta_value>
@@ -762,10 +762,10 @@
 	</item>
 	<item>
 		<title>3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/attachment/3/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/attachment/3/</link>
 		<pubDate>Mon, 23 Apr 2018 23:25:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/3.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -781,7 +781,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/3.jpg]]></wp:meta_value>
@@ -793,10 +793,10 @@
 	</item>
 	<item>
 		<title>1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/attachment/1/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/attachment/1/</link>
 		<pubDate>Mon, 23 Apr 2018 23:25:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -812,7 +812,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/1.jpg]]></wp:meta_value>
@@ -824,10 +824,10 @@
 	</item>
 	<item>
 		<title>2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/attachment/2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/home/attachment/2/</link>
 		<pubDate>Mon, 23 Apr 2018 23:25:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/2.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -843,7 +843,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/2.jpg]]></wp:meta_value>
@@ -855,10 +855,10 @@
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Tue, 13 Feb 2018 08:54:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -882,7 +882,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35)
 public@unitedthemes.com
 Reply-To: [your-email]
 
@@ -895,7 +895,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35)
 [your-email]
 Reply-To: public@unitedthemes.com
 
@@ -947,7 +947,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -955,7 +955,7 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -972,19 +972,19 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/</link>
 		<pubDate>Mon, 26 Feb 2018 08:59:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?page_id=44</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?page_id=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_section css=".vc_custom_1524493131058{padding-top: 40px !important;padding-bottom: 20px !important;background-color: #adc743 !important;}" el_name="Info Section"][vc_row equal_height="yes" content_placement="middle"][vc_column width="3/12"][ut_custom_heading tag="h3" font_size="30" color="#ffffff"]Info![/ut_custom_heading][/vc_column][vc_column width="9/12"][ut_custom_heading tag="p" align="right" color="#ffffff"]<strong>IN STOCK</strong> Golden Fresh Oranges From Florida[/ut_custom_heading][/vc_column][/vc_row][/vc_section][vc_section el_name="About Section" bklyn_section_anchor_id="About"][vc_row css=".vc_custom_1524507331016{background-color: #fafafa !important;}"][vc_column width="5/12"][ut_animated_image size="full" align="center" image="746"][/vc_column][vc_column width="7/12"][ut_custom_heading tag="h2" font_size="48" line_height="120"]Welcome to our Market[/ut_custom_heading][vc_column_text]Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic.</p>
 <p>Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini. [/vc_column_text][ut_custom_heading tag="div" font_source="google" google_fonts="font_family:Sacramento%3Aregular|font_style:400%20regular%3A400%3Anormal" font_size="30" color="#000000" css=".vc_custom_1524507091640{margin-bottom: 10px !important;}"]Alison Brooklyn[/ut_custom_heading][ut_custom_heading tag="div" font_size="12" line_height="140"]<strong>Founder</strong><br />
 Brooklyn Organic Market[/ut_custom_heading][/vc_column][/vc_row][/vc_section][vc_section el_name="Fresh Fruits and Vegetables" css=".vc_custom_1524518950102{padding-bottom: 80px !important;}"][vc_row][vc_column][ut_animated_image size="large" align="center" image="675"][ut_header title="Fresh Fruits and Vegetables"]Brooklyn is “home to everyone from everywhere” and so is our market![/ut_header][/vc_column][/vc_row][vc_row][vc_column width="1/2"][ut_animated_image size="large" align="center" image="741"][ut_service_column headline=" About our Market"]Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.<br />
 [/ut_service_column][/vc_column][vc_column width="1/2"][ut_animated_image size="large" align="center" image="742"][ut_service_column headline="What we Provide"]Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.<br />
-[/ut_service_column][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524518943130{margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}" el_name="Made in USA" bklyn_section_anchor_id="Helpful"][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" columns_placement="stretch" equal_height="yes" content_placement="middle" css=".vc_custom_1524498385870{padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column width="1/2" css=".vc_custom_1524504300860{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;background-color: #fafafa !important;}"][ut_animated_image size="large" align="center" image="679"][ut_header align="center" title="Made in USA"]Our goal is to provide only the freshest and healthiest vegetables, fruit and ingredients available. Carefully selected with great diligence from across the country.[/ut_header][vc_row_inner][vc_column_inner][ut_probar size="small" width="42" info_font_size="16" info="Florida" background_color="#e3e3e3"][ut_probar size="small" width="77" info_font_size="16" info="Virginia" background_color="#e3e3e3"][ut_probar size="small" width="59" info_font_size="16" info="North Carolina" background_color="#e3e3e3"][ut_probar size="small" width="35" info_font_size="16" info="New York" background_color="#e3e3e3"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2" css=".vc_custom_1524525687184{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 120px !important;padding-left: 8vw !important;background-image: url(http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/made-in-us-1.jpg?id=744) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524518612564{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}" el_name="Our Suppliers"][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" columns_placement="stretch" equal_height="yes" content_placement="middle" css=".vc_custom_1524498385870{padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column width="1/2" distortion="on" distortion_effect="2" distortion_intensity="-20" distortion_ease="Power2.easeOut" bklyn_overlay="true" background_distortion_1="746" background_distortion_2="744" css=".vc_custom_1524525824858{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 120px !important;padding-left: 8vw !important;}" bklyn_overlay_color="rgba(0, 0, 0, 0.2)"][ut_custom_heading tag="div" align="center" font_source="google" google_fonts="font_family:Yellowtail%3Aregular|font_style:400%20regular%3A400%3Anormal" font_size="80" line_height="100" color="#ffffff"]Always fresh![/ut_custom_heading][/vc_column][vc_column width="1/2" css=".vc_custom_1524504306028{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;}"][ut_animated_image size="large" align="center" image="677"][ut_header align="center" title="Our Suppliers"]All our suppliers are placing great value to fulfilling the highest standards and avoiding any kind of genetically manipulated vegetables and fruits.[/ut_header][vc_row_inner][vc_column_inner][ut_image_gallery thumbnail_size="full" grid="3" gap="40" external_link="yes" lazy="true" gallery="748,749,750"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524519093028{padding-top: 0px !important;background-color: #adc743 !important;}" el_name="Locations Section" bklyn_section_anchor_id="Locations"][vc_row][vc_column width="1/3" css=".vc_custom_1524519149724{margin-top: 0px !important;margin-bottom: 0px !important;padding-bottom: 0px !important;background-color: #ffffff !important;}"][ut_custom_heading tag="h4" font_size="24" line_height="100"]Locations[/ut_custom_heading][/vc_column][/vc_row][vc_row][vc_column width="1/3"][ut_service_column headline="Monday to Wednesday" headline_color="#ffffff"]8102 3rd Ave, Brooklyn, NY 11209<br />
+[/ut_service_column][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524518943130{margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}" el_name="Made in USA" bklyn_section_anchor_id="Helpful"][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" columns_placement="stretch" equal_height="yes" content_placement="middle" css=".vc_custom_1524498385870{padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column width="1/2" css=".vc_custom_1524504300860{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;background-color: #fafafa !important;}"][ut_animated_image size="large" align="center" image="679"][ut_header align="center" title="Made in USA"]Our goal is to provide only the freshest and healthiest vegetables, fruit and ingredients available. Carefully selected with great diligence from across the country.[/ut_header][vc_row_inner][vc_column_inner][ut_probar size="small" width="42" info_font_size="16" info="Florida" background_color="#e3e3e3"][ut_probar size="small" width="77" info_font_size="16" info="Virginia" background_color="#e3e3e3"][ut_probar size="small" width="59" info_font_size="16" info="North Carolina" background_color="#e3e3e3"][ut_probar size="small" width="35" info_font_size="16" info="New York" background_color="#e3e3e3"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2" css=".vc_custom_1524525687184{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 120px !important;padding-left: 8vw !important;background-image: url(https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/made-in-us-1.jpg?id=744) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524518612564{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}" el_name="Our Suppliers"][vc_row full_width="stretch_row_content_no_spaces" full_height="yes" columns_placement="stretch" equal_height="yes" content_placement="middle" css=".vc_custom_1524498385870{padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column width="1/2" distortion="on" distortion_effect="2" distortion_intensity="-20" distortion_ease="Power2.easeOut" bklyn_overlay="true" background_distortion_1="746" background_distortion_2="744" css=".vc_custom_1524525824858{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 120px !important;padding-left: 8vw !important;}" bklyn_overlay_color="rgba(0, 0, 0, 0.2)"][ut_custom_heading tag="div" align="center" font_source="google" google_fonts="font_family:Yellowtail%3Aregular|font_style:400%20regular%3A400%3Anormal" font_size="80" line_height="100" color="#ffffff"]Always fresh![/ut_custom_heading][/vc_column][vc_column width="1/2" css=".vc_custom_1524504306028{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;}"][ut_animated_image size="large" align="center" image="677"][ut_header align="center" title="Our Suppliers"]All our suppliers are placing great value to fulfilling the highest standards and avoiding any kind of genetically manipulated vegetables and fruits.[/ut_header][vc_row_inner][vc_column_inner][ut_image_gallery thumbnail_size="full" grid="3" gap="40" external_link="yes" lazy="true" gallery="748,749,750"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524519093028{padding-top: 0px !important;background-color: #adc743 !important;}" el_name="Locations Section" bklyn_section_anchor_id="Locations"][vc_row][vc_column width="1/3" css=".vc_custom_1524519149724{margin-top: 0px !important;margin-bottom: 0px !important;padding-bottom: 0px !important;background-color: #ffffff !important;}"][ut_custom_heading tag="h4" font_size="24" line_height="100"]Locations[/ut_custom_heading][/vc_column][/vc_row][vc_row][vc_column width="1/3"][ut_service_column headline="Monday to Wednesday" headline_color="#ffffff"]8102 3rd Ave, Brooklyn, NY 11209<br />
 8am to 4pm[/ut_service_column][/vc_column][vc_column width="1/3"][ut_service_column headline="Thursday" headline_color="#ffffff"]25 N 5th St, Brooklyn, NY 11211<br />
 8am to 8pm[/ut_service_column][/vc_column][vc_column width="1/3"][ut_service_column headline="Friday to Sunday" headline_color="#ffffff"]90 Kent Ave, Brooklyn, NY 11211<br />
-8am to 6pm[/ut_service_column][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524518505810{margin-top: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #ffffff !important;}" el_name="Contact Section" bklyn_section_anchor_id="Contact"][vc_row full_width="stretch_row_content_no_spaces" equal_height="yes" content_placement="middle"][vc_column width="1/2" css=".vc_custom_1524504311996{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;}"][ut_animated_image size="large" align="center" image="683"][ut_header title="Contact our Market"]We established ourselves in April 2014 with aim to provide the best organic products to the people to make their lives healthy and happy. [/ut_header][vc_row_inner][vc_column_inner][ut_custom_heading tag="h3" align="center" font_size="20"]Call our Market: +45 523-236-658[/ut_custom_heading][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner][ut_c7_shortcode form_id="5"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2"][ut_google_maps theme="ultralight" map_height="100" map_height_tablet="100" map_height_mobile="50" css=".vc_custom_1524527223598{margin-bottom: 0px !important;}" marker="733"]Brooklyn New York[/ut_google_maps][/vc_column][/vc_row][/vc_section][vc_section bklyn_overlay="true" background_position="center top" css=".vc_custom_1524525957974{padding-right: 8vw !important;padding-left: 8vw !important;background-image: url(http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg?id=739) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" bklyn_overlay_color="rgba(0, 0, 0, 0.5)" el_name="Last Section"][vc_row][vc_column][ut_header font_size="88" line_height="88" title="Brooklyn" title_color="#ffffff" lead_color="#ffffff"]We are looking forward to your visit and meeting you in<br />
+8am to 6pm[/ut_service_column][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1524518505810{margin-top: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #ffffff !important;}" el_name="Contact Section" bklyn_section_anchor_id="Contact"][vc_row full_width="stretch_row_content_no_spaces" equal_height="yes" content_placement="middle"][vc_column width="1/2" css=".vc_custom_1524504311996{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;}"][ut_animated_image size="large" align="center" image="683"][ut_header title="Contact our Market"]We established ourselves in April 2014 with aim to provide the best organic products to the people to make their lives healthy and happy. [/ut_header][vc_row_inner][vc_column_inner][ut_custom_heading tag="h3" align="center" font_size="20"]Call our Market: +45 523-236-658[/ut_custom_heading][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner][ut_c7_shortcode form_id="5"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/2"][ut_google_maps theme="ultralight" map_height="100" map_height_tablet="100" map_height_mobile="50" css=".vc_custom_1524527223598{margin-bottom: 0px !important;}" marker="733"]Brooklyn New York[/ut_google_maps][/vc_column][/vc_row][/vc_section][vc_section bklyn_overlay="true" background_position="center top" css=".vc_custom_1524525957974{padding-right: 8vw !important;padding-left: 8vw !important;background-image: url(https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg?id=739) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" bklyn_overlay_color="rgba(0, 0, 0, 0.5)" el_name="Last Section"][vc_row][vc_column][ut_header font_size="88" line_height="88" title="Brooklyn" title_color="#ffffff" lead_color="#ffffff"]We are looking forward to your visit and meeting you in<br />
 person to show you why Brooklyn Market is the best around.<br />
 [/ut_header][/vc_column][/vc_row][vc_row][vc_column][ut_social_follow align="center" gap="40 Pixel" size="50" socials="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22colors%22%3A%22global%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22colors%22%3A%22global%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22colors%22%3A%22global%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D" icon_color="#ffffff" icon_color_hover="rgba(255,255,255,0.5)"][/vc_column][/vc_row][/vc_section]</p>
 ]]></content:encoded>
@@ -1083,7 +1083,7 @@ person to show you why Brooklyn Market is the best around.<br />
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:102:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:9:"no-repeat";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:102:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_tablet]]></wp:meta_key>
@@ -1655,7 +1655,7 @@ person to show you why Brooklyn Market is the best around.<br />
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1524493131058{padding-top: 40px !important;padding-bottom: 20px !important;background-color: #adc743 !important;}.vc_custom_1524518950102{padding-bottom: 80px !important;}.vc_custom_1524518943130{margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1524518612564{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1524519093028{padding-top: 0px !important;background-color: #adc743 !important;}.vc_custom_1524518505810{margin-top: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #ffffff !important;}.vc_custom_1524525957974{padding-right: 8vw !important;padding-left: 8vw !important;background-image: url(http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg?id=739) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1524507331016{background-color: #fafafa !important;}.vc_custom_1524507091640{margin-bottom: 10px !important;}.vc_custom_1524498385870{padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1524504300860{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;background-color: #fafafa !important;}.vc_custom_1524525687184{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 120px !important;padding-left: 8vw !important;background-image: url(http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/made-in-us-1.jpg?id=744) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1524498385870{padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1524525824858{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 120px !important;padding-left: 8vw !important;}.vc_custom_1524504306028{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;}.vc_custom_1524519149724{margin-top: 0px !important;margin-bottom: 0px !important;padding-bottom: 0px !important;background-color: #ffffff !important;}.vc_custom_1524504311996{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;}.vc_custom_1524527223598{margin-bottom: 0px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1524493131058{padding-top: 40px !important;padding-bottom: 20px !important;background-color: #adc743 !important;}.vc_custom_1524518950102{padding-bottom: 80px !important;}.vc_custom_1524518943130{margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1524518612564{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1524519093028{padding-top: 0px !important;background-color: #adc743 !important;}.vc_custom_1524518505810{margin-top: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #ffffff !important;}.vc_custom_1524525957974{padding-right: 8vw !important;padding-left: 8vw !important;background-image: url(https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/hero.jpg?id=739) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1524507331016{background-color: #fafafa !important;}.vc_custom_1524507091640{margin-bottom: 10px !important;}.vc_custom_1524498385870{padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1524504300860{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;background-color: #fafafa !important;}.vc_custom_1524525687184{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 120px !important;padding-left: 8vw !important;background-image: url(https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/made-in-us-1.jpg?id=744) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1524498385870{padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1524525824858{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 120px !important;padding-left: 8vw !important;}.vc_custom_1524504306028{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;}.vc_custom_1524519149724{margin-top: 0px !important;margin-bottom: 0px !important;padding-bottom: 0px !important;background-color: #ffffff !important;}.vc_custom_1524504311996{padding-top: 120px !important;padding-right: 8vw !important;padding-bottom: 80px !important;padding-left: 8vw !important;}.vc_custom_1524527223598{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_navigation_item_separator_style]]></wp:meta_key>
@@ -1688,15 +1688,15 @@ organic products to the people to make their lives healthy and happy.]]></wp:met
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_custom_hero_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Leaf-Logo.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/wp-content/uploads/2018/04/Leaf-Logo.png]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/blog/</link>
 		<pubDate>Mon, 26 Feb 2018 09:00:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?page_id=46</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?page_id=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2367,10 +2367,10 @@ organic products to the people to make their lives healthy and happy.]]></wp:met
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/735/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/2018/04/23/735/</link>
 		<pubDate>Mon, 23 Apr 2018 22:16:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?p=735</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo35/?p=735</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>

@@ -911,7 +911,7 @@ float snoise(vec2 v){
 float quadraticBezier (float x, float a, float b){
   // adapted from BEZMATH.PS (1993)
   // by Don Lancaster, SYNERGETICS Inc. 
-  // http://www.tinaja.com/text/bezmath.html
+  // https://www.tinaja.com/text/bezmath.html
 
   float epsilon = 0.00001;
   a = max(0., min(1., a)); 

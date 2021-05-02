@@ -59,7 +59,7 @@
 		},
 
 		/**
-		 * Stackoverflow: http://stackoverflow.com/questions/1726630/formatting-a-number-with-exactly-two-decimals-in-javascript
+		 * Stackoverflow: https://stackoverflow.com/questions/1726630/formatting-a-number-with-exactly-two-decimals-in-javascript
 		 *
 		 * @param {number} num
 		 * @param {number} decimals

@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.5.3" created="2016-07-20 16:35" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>FanPage Demo Bklyn</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12</link>
 	<description>Just another WordPress site</description>
 	<pubDate>Wed, 20 Jul 2016 16:35:40 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -167,10 +167,10 @@
 
 	<item>
 		<title>St. Louis Blues (1921)</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/audio-post/st-louis-blues-1921/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/audio-post/st-louis-blues-1921/</link>
 		<pubDate>Mon, 18 Nov 2013 16:55:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</guid>
 		<description></description>
 		<content:encoded><![CDATA["St. Louis Blues (1921)" from Victor-18772 by Original Dixieland Jazz Band with Al Bernard. Released: 1921. Genre: Acoustic Era.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -186,7 +186,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3]]></wp:meta_value>
@@ -198,10 +198,10 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/4641/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/4641/</link>
 		<pubDate>Fri, 09 May 2014 11:04:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=4641</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=4641</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -257,10 +257,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/4646/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/4646/</link>
 		<pubDate>Fri, 09 May 2014 11:08:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=4646</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=4646</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -316,10 +316,10 @@
 	</item>
 	<item>
 		<title>Wake Up</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5461/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5461/</link>
 		<pubDate>Mon, 10 Nov 2014 12:23:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5461</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5461</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -375,10 +375,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5475/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5475/</link>
 		<pubDate>Mon, 10 Nov 2014 12:59:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5475</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5475</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -434,10 +434,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5476/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5476/</link>
 		<pubDate>Mon, 10 Nov 2014 12:59:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5476</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5476</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -493,10 +493,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5477/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5477/</link>
 		<pubDate>Mon, 10 Nov 2014 12:59:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5477</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5477</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -552,10 +552,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5478/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5478/</link>
 		<pubDate>Mon, 10 Nov 2014 12:59:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5478</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5478</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -611,10 +611,10 @@
 	</item>
 	<item>
 		<title>reserve your ship</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5496/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5496/</link>
 		<pubDate>Tue, 11 Nov 2014 13:58:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5496</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5496</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -670,10 +670,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5544/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5544/</link>
 		<pubDate>Wed, 12 Nov 2014 13:41:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5544</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5544</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -729,10 +729,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5589/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5589/</link>
 		<pubDate>Mon, 17 Nov 2014 13:28:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5589</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5589</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -788,10 +788,10 @@
 	</item>
 	<item>
 		<title>placeholder1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder1/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder1/</link>
 		<pubDate>Wed, 20 Jul 2016 15:43:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -807,7 +807,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:24:"2016/07/placeholder1.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"placeholder1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"placeholder1-375x250.jpg";s:5:"width";i:375;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"placeholder1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"placeholder1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"blog-default";a:4:{s:4:"file";s:24:"placeholder1-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -819,10 +819,10 @@
 	</item>
 	<item>
 		<title>placeholder2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder2/</link>
 		<pubDate>Wed, 20 Jul 2016 15:45:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder2.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -838,7 +838,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/placeholder2.jpg]]></wp:meta_value>
@@ -850,10 +850,10 @@
 	</item>
 	<item>
 		<title>placeholder3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder3/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder3/</link>
 		<pubDate>Wed, 20 Jul 2016 15:45:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder3.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -869,7 +869,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/placeholder3.jpg]]></wp:meta_value>
@@ -881,10 +881,10 @@
 	</item>
 	<item>
 		<title>placeholder4</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder4/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder4/</link>
 		<pubDate>Wed, 20 Jul 2016 15:45:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder4.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -900,7 +900,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder4.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/placeholder4.jpg]]></wp:meta_value>
@@ -912,10 +912,10 @@
 	</item>
 	<item>
 		<title>brooklyn-logo-gaming</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/brooklyn-logo-gaming-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/brooklyn-logo-gaming-2/</link>
 		<pubDate>Thu, 20 Nov 2014 16:08:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/brooklyn-logo-gaming1.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/brooklyn-logo-gaming1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -931,7 +931,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/brooklyn-logo-gaming1.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/brooklyn-logo-gaming1.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/11/brooklyn-logo-gaming1.png]]></wp:meta_value>
@@ -943,10 +943,10 @@
 	</item>
 	<item>
 		<title>brooklyn-logo-light</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/brooklyn-logo-light/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/brooklyn-logo-light/</link>
 		<pubDate>Thu, 20 Nov 2014 16:11:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/brooklyn-logo-light.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/brooklyn-logo-light.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -962,7 +962,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/brooklyn-logo-light.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/brooklyn-logo-light.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/11/brooklyn-logo-light.png]]></wp:meta_value>
@@ -974,10 +974,10 @@
 	</item>
 	<item>
 		<title>placeholder</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/placeholder/</link>
 		<pubDate>Thu, 20 Nov 2014 22:27:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -993,7 +993,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2014/11/placeholder.jpg]]></wp:meta_value>
@@ -1005,10 +1005,10 @@
 	</item>
 	<item>
 		<title>ut-placeholder</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/ut-placeholder/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/ut-placeholder/</link>
 		<pubDate>Wed, 20 Jul 2016 15:29:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/ut-placeholder.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/ut-placeholder.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1024,7 +1024,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/ut-placeholder.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/ut-placeholder.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:26:"2016/07/ut-placeholder.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"ut-placeholder-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"ut-placeholder-380x214.jpg";s:5:"width";i:380;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"ut-placeholder-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"ut-placeholder-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:12:"blog-default";a:4:{s:4:"file";s:26:"ut-placeholder-806x300.jpg";s:5:"width";i:806;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -1036,10 +1036,10 @@
 	</item>
 	<item>
 		<title>banner-small</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/banner-small/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/banner-small/</link>
 		<pubDate>Wed, 20 Jul 2016 15:52:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1055,7 +1055,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/banner-small.jpg]]></wp:meta_value>
@@ -1067,10 +1067,10 @@
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/blog/</link>
 		<pubDate>Fri, 11 Oct 2013 15:46:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=33</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=33</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1101,10 +1101,10 @@
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/</link>
 		<pubDate>Fri, 11 Oct 2013 15:46:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=35</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=35</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1131,12 +1131,12 @@
 	</item>
 	<item>
 		<title>You wake up...</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/</link>
 		<pubDate>Mon, 10 Nov 2014 12:23:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5458</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5458</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="CHRIS ROBERTS IS BACK!" poster="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
+		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="CHRIS ROBERTS IS BACK!" poster="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5458</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-10 12:23:13]]></wp:post_date>
@@ -1208,7 +1208,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:9:"right top";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:9:"right top";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -1571,12 +1571,12 @@ With the Credits you make delivering this cargo, you should be able to buy your 
 	</item>
 	<item>
 		<title>Your boards light up...</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/your-boards-light-up/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/your-boards-light-up/</link>
 		<pubDate>Mon, 10 Nov 2014 12:31:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5463</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5463</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="IMMERSION AND PLAYER CHOICE..." poster="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
+		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="IMMERSION AND PLAYER CHOICE..." poster="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5463</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-10 12:31:30]]></wp:post_date>
@@ -1640,7 +1640,7 @@ With the Credits you make delivering this cargo, you should be able to buy your 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder1.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder1.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -2015,14 +2015,14 @@ You keep bearing and speed, keep shields at current levels. Don't do anything to
 	</item>
 	<item>
 		<title>Nope...</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/your-boards-light-up/nope/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/your-boards-light-up/nope/</link>
 		<pubDate>Mon, 10 Nov 2014 12:37:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5466</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5466</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="COMING TO A PC NEAR YOU..." poster="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]
+		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="COMING TO A PC NEAR YOU..." poster="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]
 
-[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="ECONOMY AND PLAYER IMPACT..." poster="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
+[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="ECONOMY AND PLAYER IMPACT..." poster="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5466</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-10 12:37:06]]></wp:post_date>
@@ -2094,7 +2094,7 @@ You keep bearing and speed, keep shields at current levels. Don't do anything to
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -2457,14 +2457,14 @@ The pirates fan out in an attack formation... but first, you have to make it thr
 	</item>
 	<item>
 		<title>Life on the drift...</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/your-boards-light-up/nope/life-on-the-drift/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/your-boards-light-up/nope/life-on-the-drift/</link>
 		<pubDate>Mon, 10 Nov 2014 12:39:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5469</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5469</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="LIVE YOUR DREAM..." poster="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]
+		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="LIVE YOUR DREAM..." poster="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]
 
-[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="REAL PHYSICS, REAL CONSEQUENCES..." poster="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
+[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="REAL PHYSICS, REAL CONSEQUENCES..." poster="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5469</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-10 12:39:05]]></wp:post_date>
@@ -2536,7 +2536,7 @@ The pirates fan out in an attack formation... but first, you have to make it thr
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder4.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder4.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -2901,14 +2901,14 @@ The pirates fan out in an attack formation... but first, you have to make it thr
 	</item>
 	<item>
 		<title>Help be the architect of your dream...</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/your-boards-light-up/nope/life-on-the-drift/help-be-the-architect-of-your-dream/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/you-wake-up/your-boards-light-up/nope/life-on-the-drift/help-be-the-architect-of-your-dream/</link>
 		<pubDate>Mon, 10 Nov 2014 12:40:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5472</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5472</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="THE POWER OF CROWFUNDING..." poster="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]
+		<content:encoded><![CDATA[[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="THE POWER OF CROWFUNDING..." poster="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]
 
-[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="CITIZENSHIP HAS ITS PERKS" poster="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
+[ut_united_video url="https://www.youtube.com/watch?v=4eKIjkk0NVY" caption="CITIZENSHIP HAS ITS PERKS" poster="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5472</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-10 12:40:43]]></wp:post_date>
@@ -2980,7 +2980,7 @@ The pirates fan out in an attack formation... but first, you have to make it thr
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:5:"fixed";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -3270,7 +3270,7 @@ Become a backer and have your voice heard with a level of access unprecedented i
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_9ad3abdacd21f688d78a0987d262249d]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/vO7RxsZpcKc?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/vO7RxsZpcKc?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_9ad3abdacd21f688d78a0987d262249d]]></wp:meta_key>
@@ -3278,7 +3278,7 @@ Become a backer and have your voice heard with a level of access unprecedented i
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_379254bb62a5a6fe09f906ab1194c769]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/YTBzrUwB6Qo?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/YTBzrUwB6Qo?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_379254bb62a5a6fe09f906ab1194c769]]></wp:meta_key>
@@ -3355,10 +3355,10 @@ Become a backer and have your voice heard with a level of access unprecedented i
 	</item>
 	<item>
 		<title>Want to reserve your ship?</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/want-to-reserve-your-ship/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/want-to-reserve-your-ship/</link>
 		<pubDate>Tue, 11 Nov 2014 13:58:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5494</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5494</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_pricing id="3487"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3412,7 +3412,7 @@ Become a backer and have your voice heard with a level of access unprecedented i
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:8:"repeat-x";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder1.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:8:"repeat-x";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder1.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -3767,10 +3767,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title>WHAT WE DO</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/</link>
 		<pubDate>Wed, 12 Nov 2014 13:40:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5542</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5542</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4213,10 +4213,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title>Civilian Craft</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/civilian-craft/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/civilian-craft/</link>
 		<pubDate>Wed, 12 Nov 2014 13:42:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5545</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5545</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4655,10 +4655,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title>Military Craft</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/civilian-craft/military-craft/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/civilian-craft/military-craft/</link>
 		<pubDate>Wed, 12 Nov 2014 13:42:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5547</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5547</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5101,10 +5101,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title>Engine Development</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/civilian-craft/military-craft/engine-development/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/civilian-craft/military-craft/engine-development/</link>
 		<pubDate>Wed, 12 Nov 2014 13:43:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5549</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5549</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5527,10 +5527,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title>Full-scale Avionics &amp; NavDrives</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/civilian-craft/military-craft/engine-development/full-scale-avionics-navdrives/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/what-we-do/civilian-craft/military-craft/engine-development/full-scale-avionics-navdrives/</link>
 		<pubDate>Wed, 12 Nov 2014 13:44:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5551</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5551</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5973,10 +5973,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5590/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5590/</link>
 		<pubDate>Mon, 17 Nov 2014 13:28:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5590</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5590</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6032,10 +6032,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5591/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5591/</link>
 		<pubDate>Mon, 17 Nov 2014 13:28:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5591</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5591</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6091,10 +6091,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5592/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5592/</link>
 		<pubDate>Mon, 17 Nov 2014 13:28:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5592</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5592</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6150,10 +6150,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title>SHIP STATS</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/ship-stats/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/ship-stats/</link>
 		<pubDate>Wed, 19 Nov 2014 11:16:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5642</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?page_id=5642</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_showcase id="45"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6207,7 +6207,7 @@ Pledge today and become a contributor to the development of the next-generation 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:8:"repeat-x";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder2.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:8:"repeat-x";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2014/11/placeholder2.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -6522,10 +6522,10 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5644/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/5644/</link>
 		<pubDate>Wed, 19 Nov 2014 11:17:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5644</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=5644</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6581,26 +6581,26 @@ Pledge today and become a contributor to the development of the next-generation 
 	</item>
 	<item>
 		<title>THE M50 INTERCEPTOR</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-m50-interceptor/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-m50-interceptor/</link>
 		<pubDate>Wed, 19 Nov 2014 11:25:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5648</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5648</guid>
 		<description></description>
 		<content:encoded><![CDATA[The Origin M50 Interceptor
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 In-Hangar
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Back View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Engine View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 <h2><span style="color: #00e1ff;">The Manufacturers</span></h2>
 &nbsp;
 
-[ut_custom_box title="Origin Jumpworks, GmbH" logo="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] There is a place where beauty and power meet. The designers and engineers at Origin Jumpworks have spent the past two hundred years building the high-performance ships to take you there. While the price may seem high, you can rest assured that every ship that bears the Origin logo has been thoroughly refined. Owning an Origin craft is the beginning of your flight to perfection. [/ut_custom_box]]]></content:encoded>
+[ut_custom_box title="Origin Jumpworks, GmbH" logo="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] There is a place where beauty and power meet. The designers and engineers at Origin Jumpworks have spent the past two hundred years building the high-performance ships to take you there. While the price may seem high, you can rest assured that every ship that bears the Origin logo has been thoroughly refined. Owning an Origin craft is the beginning of your flight to perfection. [/ut_custom_box]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5648</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-19 11:25:28]]></wp:post_date>
@@ -6873,7 +6873,7 @@ Engine View
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_video_poster]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_overlay_color]]></wp:meta_key>
@@ -6930,29 +6930,29 @@ Engine View
 	</item>
 	<item>
 		<title>THE F7C-M SUPER HORNET</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-f7c-m-super-hornet/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-f7c-m-super-hornet/</link>
 		<pubDate>Wed, 19 Nov 2014 12:11:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5658</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5658</guid>
 		<description></description>
 		<content:encoded><![CDATA[The F7C-M Super Hornet
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Front View
 
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Back View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Flight Mode
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20" ]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20" ]
 
 Cockpit View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Weapon loadout - 2x Klaus &amp; Werner CF-117 Badger
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 &nbsp;
 <h2><span style="color: #00e1ff;">Variants matrix</span></h2>
@@ -6964,7 +6964,7 @@ Weapon loadout - 2x Klaus &amp; Werner CF-117 Badger
 <h2><span style="color: #00e1ff;">The Manufacturers</span></h2>
 &nbsp;
 
-[ut_custom_box title="Anvil Aerospace" logo="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] Founded in 2772, Anvil has been reliably delivering military-grade equipment to the UEE navy for almost two centuries. The company has produced dozens of successful and iconic military spacecraft over the years, including the Hurricane, Osprey, Devastator, Hornet and Gladi¬ator. No military campaign in the last two centu¬ries has been launched without Anvil spacecraft in the forefront, and no carrier in UEE space today operates without at least a squadron of Anvil-designed fighters. On the civilian side, the Hornet is holding steady as the third best-selling single-seat spacecraft design available, trumped only by the Aurora and 300i. [/ut_custom_box]]]></content:encoded>
+[ut_custom_box title="Anvil Aerospace" logo="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] Founded in 2772, Anvil has been reliably delivering military-grade equipment to the UEE navy for almost two centuries. The company has produced dozens of successful and iconic military spacecraft over the years, including the Hurricane, Osprey, Devastator, Hornet and Gladi¬ator. No military campaign in the last two centu¬ries has been launched without Anvil spacecraft in the forefront, and no carrier in UEE space today operates without at least a squadron of Anvil-designed fighters. On the civilian side, the Hornet is holding steady as the third best-selling single-seat spacecraft design available, trumped only by the Aurora and 300i. [/ut_custom_box]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5658</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-19 12:11:39]]></wp:post_date>
@@ -7205,7 +7205,7 @@ Weapon loadout - 2x Klaus &amp; Werner CF-117 Badger
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_video_poster]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_overlay_color]]></wp:meta_key>
@@ -7294,12 +7294,12 @@ Weapon loadout - 2x Klaus &amp; Werner CF-117 Badger
 	</item>
 	<item>
 		<title>10 For the Chairman Episode 45</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/standard-blog-post-with-all-the-trimmings/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/standard-blog-post-with-all-the-trimmings/</link>
 		<pubDate>Sat, 09 Nov 2013 10:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=1</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://youtu.be/HkBTXwIt7Mw
+		<content:encoded><![CDATA[https://youtu.be/HkBTXwIt7Mw
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 
@@ -7366,7 +7366,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_391cc12e670812af6db893eb00f03ddd]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/HkBTXwIt7Mw?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/HkBTXwIt7Mw?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_391cc12e670812af6db893eb00f03ddd]]></wp:meta_key>
@@ -7406,7 +7406,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_607777731fc06b5a236e464d852f37a7]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/WQqynHF0XG8?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/WQqynHF0XG8?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_607777731fc06b5a236e464d852f37a7]]></wp:meta_key>
@@ -7416,7 +7416,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 			<wp:comment_id>1</wp:comment_id>
 			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2013-10-07 10:38:23]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2013-10-07 10:38:23]]></wp:comment_date_gmt>
@@ -7472,10 +7472,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Grid Gallery</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-manager/carousel-showcase/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-manager/carousel-showcase/</link>
 		<pubDate>Sat, 12 Oct 2013 11:11:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio-manager&#038;p=45</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio-manager&#038;p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7530,10 +7530,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Awesome Gallery Post</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/post-format-gallery/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/post-format-gallery/</link>
 		<pubDate>Thu, 07 Nov 2013 08:14:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=555</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery ids="5740,5764,5763,5762,5761"]
 
@@ -7597,12 +7597,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>AWESOME WORDPRESS THEMES</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/post-format-link/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/post-format-link/</link>
 		<pubDate>Tue, 05 Nov 2013 08:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=565</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="http://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
+		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="https://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -7635,13 +7635,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Post Format: Quote</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/post-format-quote/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/post-format-quote/</link>
 		<pubDate>Thu, 07 Nov 2013 08:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=575</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=575</guid>
 		<description></description>
 		<content:encoded><![CDATA[<blockquote>Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-<cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
+<cite><a href="https://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>575</wp:post_id>
@@ -7671,12 +7671,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Super Duper Audio Post</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/audio-post/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/audio-post/</link>
 		<pubDate>Tue, 05 Nov 2013 08:36:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=587</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=587</guid>
 		<description></description>
-		<content:encoded><![CDATA[[audio mp3="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3"][/audio]
+		<content:encoded><![CDATA[[audio mp3="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3"][/audio]
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -7717,7 +7717,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[enclosure]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/originaldixielandjazzbandwithalbernard-stlouisblues.mp3
 3043247
 audio/mpeg
 ]]></wp:meta_value>
@@ -7749,18 +7749,18 @@ audio/mpeg
 	</item>
 	<item>
 		<title>Our Trip in Star Citizen</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/our-trip-in-brooklyn/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/our-trip-in-brooklyn/</link>
 		<pubDate>Fri, 08 Nov 2013 03:20:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=2442</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=2442</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 <!--more-->
 
-[caption id="attachment_2449" align="alignleft" width="300"]<a href="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/6192158335_b8df98f254_b.jpg"><img class="size-medium wp-image-2449   " src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/6192158335_b8df98f254_b-300x201.jpg" alt="6192158335_b8df98f254_b" width="300" height="201" /></a> Great Image Caption[/caption]
+[caption id="attachment_2449" align="alignleft" width="300"]<a href="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/6192158335_b8df98f254_b.jpg"><img class="size-medium wp-image-2449   " src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/6192158335_b8df98f254_b-300x201.jpg" alt="6192158335_b8df98f254_b" width="300" height="201" /></a> Great Image Caption[/caption]
 
-<a href="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/5812686238_579c215e66_b.jpg"><img class="size-medium wp-image-2451 alignnone" style="margin-top: 5px; margin-bottom: 5px;" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/5812686238_579c215e66_b-300x201.jpg" alt="5812686238_579c215e66_b" width="300" height="201" /></a>
+<a href="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/5812686238_579c215e66_b.jpg"><img class="size-medium wp-image-2451 alignnone" style="margin-top: 5px; margin-bottom: 5px;" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2013/11/5812686238_579c215e66_b-300x201.jpg" alt="5812686238_579c215e66_b" width="300" height="201" /></a>
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7816,10 +7816,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Standard Post without Image</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/post-without-image/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/post-without-image/</link>
 		<pubDate>Tue, 05 Nov 2013 05:58:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=2484</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=2484</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
@@ -7849,12 +7849,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Summer 2011 in Brooklyn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/summer-2011-in-brooklyn/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/summer-2011-in-brooklyn/</link>
 		<pubDate>Tue, 05 Nov 2013 06:01:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=2486</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?p=2486</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://youtu.be/HkBTXwIt7Mw
+		<content:encoded><![CDATA[https://youtu.be/HkBTXwIt7Mw
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -7882,15 +7882,15 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_9edd1db7d8369e94aaeca0c2b85f4bf3]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_97a8298a26f9b27992f8fee3a0341760]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="474" height="267" src="http://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="474" height="267" src="https://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_391cc12e670812af6db893eb00f03ddd]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/HkBTXwIt7Mw?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/HkBTXwIt7Mw?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_activate_csection]]></wp:meta_key>
@@ -7919,10 +7919,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Basic</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/ut-table-manager/basic/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/ut-table-manager/basic/</link>
 		<pubDate>Sat, 28 Dec 2013 22:38:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=ut-table-manager&#038;p=3487</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=ut-table-manager&#038;p=3487</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7961,22 +7961,22 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>THE CONSTELLATION ANDROMEDA</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-constellation-andromeda/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-constellation-andromeda/</link>
 		<pubDate>Wed, 19 Nov 2014 12:15:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5663</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5663</guid>
 		<description></description>
 		<content:encoded><![CDATA[The RSI Constellation Andromeda
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Front View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Flight Mode
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Cockpit View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 <h2><span style="color: #00e1ff;">Variants matrix</span></h2>
 &nbsp;
 
@@ -7986,7 +7986,7 @@ Cockpit View
 <h2><span style="color: #00e1ff;">The Manufacturers</span></h2>
 &nbsp;
 
-[ut_custom_box title="Roberts Space Industries (RSI)" logo="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] The original creators of the engine that kickstarted humanity's expansion into space, Roberts Space Industries build a wide range of spaceships that serve all needs starting at basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is "Roberts Space Industries: Delivering the Stars since 2075" [/ut_custom_box]]]></content:encoded>
+[ut_custom_box title="Roberts Space Industries (RSI)" logo="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] The original creators of the engine that kickstarted humanity's expansion into space, Roberts Space Industries build a wide range of spaceships that serve all needs starting at basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is "Roberts Space Industries: Delivering the Stars since 2075" [/ut_custom_box]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5663</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-19 12:15:41]]></wp:post_date>
@@ -8223,7 +8223,7 @@ Cockpit View
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_video_poster]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_overlay_color]]></wp:meta_key>
@@ -8316,34 +8316,34 @@ Cockpit View
 	</item>
 	<item>
 		<title>THE FREELANCER MAX</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-freelancer-max/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-freelancer-max/</link>
 		<pubDate>Wed, 19 Nov 2014 12:18:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5665</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5665</guid>
 		<description></description>
 		<content:encoded><![CDATA[The MISC Freelancer MAX
 
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" margin_bottom="20" effect="fadeIn" align="center"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" margin_bottom="20" effect="fadeIn" align="center"]
 
 Front View
 
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Back View
 
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Cargo View
 
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Flight Mode
 
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Cockpit View
 
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 &nbsp;
 <h2><span style="color: #00e1ff;">Variants Matrix</span></h2>
@@ -8355,7 +8355,7 @@ Cockpit View
 <h2><span style="color: #00e1ff;">The Manufacturers</span></h2>
 &nbsp;
 
-[ut_custom_box title="Musashi Industrial &amp; Starflight Concern (MISC)" logo="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] Before becoming one of the first Corps to attempt a crossborder merger with a Xi'An company, MISC has long been one of the most dependable names in hauling transports. Their efficient, modular designs are capable of handling cargo of all sizes and within all price-ranges making them the ideal craft of choice for independent traders and large corporations. [/ut_custom_box]]]></content:encoded>
+[ut_custom_box title="Musashi Industrial &amp; Starflight Concern (MISC)" logo="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] Before becoming one of the first Corps to attempt a crossborder merger with a Xi'An company, MISC has long been one of the most dependable names in hauling transports. Their efficient, modular designs are capable of handling cargo of all sizes and within all price-ranges making them the ideal craft of choice for independent traders and large corporations. [/ut_custom_box]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5665</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-19 12:18:30]]></wp:post_date>
@@ -8588,7 +8588,7 @@ Cockpit View
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_video_poster]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_overlay_color]]></wp:meta_key>
@@ -8677,25 +8677,25 @@ Cockpit View
 	</item>
 	<item>
 		<title>THE 300I</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-300i/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-300i/</link>
 		<pubDate>Wed, 19 Nov 2014 12:21:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5667</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5667</guid>
 		<description></description>
 		<content:encoded><![CDATA[The Origin Jumpworks 300i
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Front View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Back View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Flight Mode
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Cockpit View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 &nbsp;
 <h2><span style="color: #00e1ff;">Variants matrix</span></h2>
@@ -8707,7 +8707,7 @@ Cockpit View
 <h2><span style="color: #00e1ff;">The Manufacturers</span></h2>
 &nbsp;
 
-[ut_custom_box title="Origin Jumpworks, GmbH" logo="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] There is a place where beauty and power meet. The designers and engineers at Origin Jumpworks have spent the past two hundred years building the high-performance ships to take you there. While the price may seem high, you can rest assured that every ship that bears the Origin logo has been thoroughly refined. Owning an Origin craft is the beginning of your flight to perfection. [/ut_custom_box]]]></content:encoded>
+[ut_custom_box title="Origin Jumpworks, GmbH" logo="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] There is a place where beauty and power meet. The designers and engineers at Origin Jumpworks have spent the past two hundred years building the high-performance ships to take you there. While the price may seem high, you can rest assured that every ship that bears the Origin logo has been thoroughly refined. Owning an Origin craft is the beginning of your flight to perfection. [/ut_custom_box]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5667</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-19 12:21:00]]></wp:post_date>
@@ -8948,7 +8948,7 @@ Cockpit View
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_video_poster]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_overlay_color]]></wp:meta_key>
@@ -9029,23 +9029,23 @@ Cockpit View
 	</item>
 	<item>
 		<title>THE AURORA ES</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-aurora-es/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/portfolio-slug/the-aurora-es/</link>
 		<pubDate>Wed, 19 Nov 2014 12:23:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5669</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/?post_type=portfolio&#038;p=5669</guid>
 		<description></description>
 		<content:encoded><![CDATA[Front View
 
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Back View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Flight Mode
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 Cockpit View
-[ut_animate_image image="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
+[ut_animate_image image="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" effect="fadeIn" align="center" margin_bottom="20"]
 
 &nbsp;
 <h2><span style="color: #00e1ff;">Variants matrix</span></h2>
@@ -9057,7 +9057,7 @@ Cockpit View
 <h2><span style="color: #00e1ff;">The Manufacturers</span></h2>
 &nbsp;
 
-[ut_custom_box title="Roberts Space Industries (RSI)" logo="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] The original creators of the engine that kickstarted humanity's expansion into space, Roberts Space Industries build a wide range of spaceships that serve all needs starting at basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is "Roberts Space Industries: Delivering the Stars since 2075" [/ut_custom_box]]]></content:encoded>
+[ut_custom_box title="Roberts Space Industries (RSI)" logo="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/banner-small.jpg" title_color="#ffae00" text_color="#999999" border_width="1" border_color="#a0c3d5" margin_top="0" padding_left="20" padding_top="20" padding_right="20" padding_bottom="10" border_style="solid" effect="fadeIn"] The original creators of the engine that kickstarted humanity's expansion into space, Roberts Space Industries build a wide range of spaceships that serve all needs starting at basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is "Roberts Space Industries: Delivering the Stars since 2075" [/ut_custom_box]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5669</wp:post_id>
 		<wp:post_date><![CDATA[2014-11-19 12:23:05]]></wp:post_date>
@@ -9294,7 +9294,7 @@ Cockpit View
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_video_poster]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo12/wp-content/uploads/2016/07/placeholder1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_portfolio_details]]></wp:meta_key>

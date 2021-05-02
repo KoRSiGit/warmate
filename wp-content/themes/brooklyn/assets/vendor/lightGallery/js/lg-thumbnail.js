@@ -1,5 +1,5 @@
 /*! lightgallery - v1.2.6 - 2015-10-07
-* http://sachinchoolur.github.io/lightGallery/
+* https://sachinchoolur.github.io/lightGallery/
 * Copyright (c) 2015 Sachin N; Licensed Apache 2.0 */
 (function($, window, document, undefined) {
 
@@ -184,7 +184,7 @@
             var vimeoVideoId = $this.attr('data-vimeo-id');
 
             if (vimeoVideoId) {
-                $.getJSON('http://www.vimeo.com/api/v2/video/' + vimeoVideoId + '.json?callback=?', {
+                $.getJSON('https://www.vimeo.com/api/v2/video/' + vimeoVideoId + '.json?callback=?', {
                     format: 'json'
                 }, function(data) {
                     $this.find('img').attr('src', data[0][_this.core.s.vimeoThumbSize]);

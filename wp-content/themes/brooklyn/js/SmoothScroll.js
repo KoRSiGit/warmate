@@ -1,6 +1,6 @@
 //
 // SmoothScroll for websites v1.4.6 (Balazs Galambosi)
-// http://www.smoothscroll.net/
+// https://www.smoothscroll.net/
 //
 // Licensed under the terms of the MIT license.
 //
@@ -666,7 +666,7 @@ var getScrollRoot = (function() {
  * Viscous fluid with a pulse for part and decay for the rest.
  * - Applies a fixed force over an interval (a damped acceleration), and
  * - Lets the exponential bleed away the velocity over a longer interval
- * - Michael Herf, http://stereopsis.com/stopping/
+ * - Michael Herf, https://stereopsis.com/stopping/
  */
 function pulse_(x) {
     var val, start, expx;

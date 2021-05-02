@@ -1,17 +1,17 @@
 /*!
  * jQuery UI Effects Slide 1.12.1
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 //>>label: Slide Effect
 //>>group: Effects
 //>>description: Slides an element in and out of the viewport.
-//>>docs: http://api.jqueryui.com/slide-effect/
-//>>demos: http://jqueryui.com/effect/
+//>>docs: https://api.jqueryui.com/slide-effect/
+//>>demos: https://jqueryui.com/effect/
 
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {

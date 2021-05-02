@@ -319,7 +319,7 @@ function getProtocol(url) {
  * const isNotValid = isValidProtocol( 'https :' ); // false
  * ```
  *
- * @return {boolean} True if the argument is a valid protocol (e.g. http:, tel:).
+ * @return {boolean} True if the argument is a valid protocol (e.g. https:, tel:).
  */
 function isValidProtocol(protocol) {
   if (!protocol) {
@@ -381,7 +381,7 @@ function isValidAuthority(authority) {
  *
  * @example
  * ```js
- * const path1 = getPath( 'http://localhost:8080/this/is/a/test?query=true' ); // 'this/is/a/test'
+ * const path1 = getPath( 'https://localhost:8080/this/is/a/test?query=true' ); // 'this/is/a/test'
  * const path2 = getPath( 'https://wordpress.org/help/faq/' ); // 'help/faq'
  * ```
  *
@@ -425,7 +425,7 @@ function isValidPath(path) {
  *
  * @example
  * ```js
- * const queryString = getQueryString( 'http://localhost:8080/this/is/a/test?query=true#fragment' ); // 'query=true'
+ * const queryString = getQueryString( 'https://localhost:8080/this/is/a/test?query=true#fragment' ); // 'query=true'
  * ```
  *
  * @return {string|void} The query string part of the URL.
@@ -434,7 +434,7 @@ function getQueryString(url) {
   var query;
 
   try {
-    query = new URL(url, 'http://example.com').search.substring(1);
+    query = new URL(url, 'https://example.com').search.substring(1);
   } catch (error) {}
 
   if (query) {
@@ -564,7 +564,7 @@ function isValidQueryString(queryString) {
  *
  * @example
  * ```js
- * const pathAndQueryString1 = getPathAndQueryString( 'http://localhost:8080/this/is/a/test?query=true' ); // '/this/is/a/test?query=true'
+ * const pathAndQueryString1 = getPathAndQueryString( 'https://localhost:8080/this/is/a/test?query=true' ); // '/this/is/a/test?query=true'
  * const pathAndQueryString2 = getPathAndQueryString( 'https://wordpress.org/help/faq/' ); // '/help/faq'
  * ```
  *
@@ -588,7 +588,7 @@ function getPathAndQueryString(url) {
  *
  * @example
  * ```js
- * const fragment1 = getFragment( 'http://localhost:8080/this/is/a/test?query=true#fragment' ); // '#fragment'
+ * const fragment1 = getFragment( 'https://localhost:8080/this/is/a/test?query=true#fragment' ); // '#fragment'
  * const fragment2 = getFragment( 'https://wordpress.org#another-fragment?query=true' ); // '#another-fragment'
  * ```
  *
@@ -876,13 +876,13 @@ function removeQueryArgs(url) {
 
 var USABLE_HREF_REGEXP = /^(?:[a-z]+:|#|\?|\.|\/)/i;
 /**
- * Prepends "http://" to a url, if it looks like something that is meant to be a TLD.
+ * Prepends "https://" to a url, if it looks like something that is meant to be a TLD.
  *
  * @param {string} url The URL to test.
  *
  * @example
  * ```js
- * const actualURL = prependHTTP( 'wordpress.org' ); // http://wordpress.org
+ * const actualURL = prependHTTP( 'wordpress.org' ); // https://wordpress.org
  * ```
  *
  * @return {string} The updated URL.
@@ -896,7 +896,7 @@ function prependHTTP(url) {
   url = url.trim();
 
   if (!USABLE_HREF_REGEXP.test(url) && !isEmail(url)) {
-    return 'http://' + url;
+    return 'https://' + url;
   }
 
   return url;

@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.5.3" created="2016-07-07 12:27" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>The Bklyn Guys</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15</link>
 	<description>Burgers and Fries since 1968</description>
 	<pubDate>Thu, 07 Jul 2016 12:27:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[public@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -167,10 +167,10 @@
 
 	<item>
 		<title>Contact</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/contact/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/contact/</link>
 		<pubDate>Wed, 27 Apr 2016 08:43:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/contact/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -226,10 +226,10 @@
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/about/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/about/</link>
 		<pubDate>Wed, 27 Apr 2016 08:43:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/about/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/about/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -285,10 +285,10 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/home-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/home-2/</link>
 		<pubDate>Wed, 27 Apr 2016 08:47:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2708</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2708</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -335,7 +335,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_menutype]]></wp:meta_key>
@@ -344,10 +344,10 @@
 	</item>
 	<item>
 		<title>bklynguys-hero-logo</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-hero-logo/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-hero-logo/</link>
 		<pubDate>Sun, 19 Jun 2016 11:43:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/bklynguys-hero-logo.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/bklynguys-hero-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -363,7 +363,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/bklynguys-hero-logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/bklynguys-hero-logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/bklynguys-hero-logo.png]]></wp:meta_value>
@@ -375,10 +375,10 @@
 	</item>
 	<item>
 		<title>045</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/045/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/045/</link>
 		<pubDate>Mon, 20 Jun 2016 03:24:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/045.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/045.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -394,7 +394,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/045.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/045.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/045.png]]></wp:meta_value>
@@ -406,10 +406,10 @@
 	</item>
 	<item>
 		<title>088</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/088/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/088/</link>
 		<pubDate>Mon, 20 Jun 2016 03:24:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/088.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/088.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -425,7 +425,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/088.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/088.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/088.png]]></wp:meta_value>
@@ -437,10 +437,10 @@
 	</item>
 	<item>
 		<title>024</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/024/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/024/</link>
 		<pubDate>Mon, 20 Jun 2016 03:24:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/024.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/024.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -456,7 +456,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/024.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/024.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/024.png]]></wp:meta_value>
@@ -468,10 +468,10 @@
 	</item>
 	<item>
 		<title>026</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/026/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/026/</link>
 		<pubDate>Mon, 20 Jun 2016 03:24:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/026.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/026.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -487,7 +487,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/026.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/026.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/026.png]]></wp:meta_value>
@@ -499,10 +499,10 @@
 	</item>
 	<item>
 		<title>bklynguys-logo-dark</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-logo-dark/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-logo-dark/</link>
 		<pubDate>Mon, 20 Jun 2016 03:28:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/bklynguys-logo-dark.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/bklynguys-logo-dark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -518,7 +518,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/bklynguys-logo-dark.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/bklynguys-logo-dark.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/bklynguys-logo-dark.png]]></wp:meta_value>
@@ -530,10 +530,10 @@
 	</item>
 	<item>
 		<title>bklynguys-logo</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-logo/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-logo/</link>
 		<pubDate>Mon, 20 Jun 2016 03:29:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/bklynguys-logo.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/bklynguys-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -549,7 +549,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/bklynguys-logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/bklynguys-logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/bklynguys-logo.png]]></wp:meta_value>
@@ -561,10 +561,10 @@
 	</item>
 	<item>
 		<title>010</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/010/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/010/</link>
 		<pubDate>Mon, 20 Jun 2016 23:35:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/010.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/010.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -580,7 +580,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/010.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/010.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/010.png]]></wp:meta_value>
@@ -592,10 +592,10 @@
 	</item>
 	<item>
 		<title>049</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/049/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/049/</link>
 		<pubDate>Mon, 20 Jun 2016 23:35:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/049.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/049.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -611,7 +611,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/049.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/049.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/049.png]]></wp:meta_value>
@@ -623,10 +623,10 @@
 	</item>
 	<item>
 		<title>052</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/052/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/052/</link>
 		<pubDate>Mon, 20 Jun 2016 23:35:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/052.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/052.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -642,7 +642,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/052.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/052.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/052.png]]></wp:meta_value>
@@ -654,10 +654,10 @@
 	</item>
 	<item>
 		<title>069</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/069/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/069/</link>
 		<pubDate>Mon, 20 Jun 2016 23:35:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/069.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/wp-content/uploads/2016/06/069.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -673,7 +673,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/069.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/069.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/069.png]]></wp:meta_value>
@@ -685,10 +685,10 @@
 	</item>
 	<item>
 		<title>bklynguys-logo-dark-small</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-logo-dark-small/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-logo-dark-small/</link>
 		<pubDate>Sat, 02 Jul 2016 12:36:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo15/wp-content/uploads/2016/07/bklynguys-logo-dark-small.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo15/wp-content/uploads/2016/07/bklynguys-logo-dark-small.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -704,7 +704,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/bklynguys-logo-dark-small.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/bklynguys-logo-dark-small.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/bklynguys-logo-dark-small.png]]></wp:meta_value>
@@ -716,10 +716,10 @@
 	</item>
 	<item>
 		<title>bklynguys-logo-small</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-logo-small/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklynguys-logo-small/</link>
 		<pubDate>Sat, 02 Jul 2016 12:36:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo15/wp-content/uploads/2016/07/bklynguys-logo-small.png</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo15/wp-content/uploads/2016/07/bklynguys-logo-small.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -735,7 +735,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/bklynguys-logo-small.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/bklynguys-logo-small.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/bklynguys-logo-small.png]]></wp:meta_value>
@@ -747,10 +747,10 @@
 	</item>
 	<item>
 		<title>ut-placeholder</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-placeholder/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-placeholder/</link>
 		<pubDate>Thu, 07 Jul 2016 00:19:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -766,7 +766,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/ut-placeholder.jpg]]></wp:meta_value>
@@ -778,10 +778,10 @@
 	</item>
 	<item>
 		<title>member</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/member/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/member/</link>
 		<pubDate>Thu, 07 Jul 2016 00:32:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -797,7 +797,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/member.jpg]]></wp:meta_value>
@@ -809,10 +809,10 @@
 	</item>
 	<item>
 		<title>banner-bottom</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/our-famous-menu-link-section/banner-bottom/#main</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/our-famous-menu-link-section/banner-bottom/#main</link>
 		<pubDate>Thu, 07 Jul 2016 01:18:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -828,7 +828,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/06/banner-bottom.jpg]]></wp:meta_value>
@@ -840,10 +840,10 @@
 	</item>
 	<item>
 		<title>banner-small</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/banner-small/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/banner-small/</link>
 		<pubDate>Thu, 07 Jul 2016 12:23:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/banner-small.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/banner-small.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -859,7 +859,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/banner-small.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/banner-small.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2016/07/banner-small.jpg]]></wp:meta_value>
@@ -871,10 +871,10 @@
 	</item>
 	<item>
 		<title>Front Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/</link>
 		<pubDate>Thu, 17 Dec 2015 22:56:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=8</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1205,10 +1205,10 @@
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/blog/</link>
 		<pubDate>Thu, 17 Dec 2015 22:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=10</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1539,10 +1539,10 @@
 	</item>
 	<item>
 		<title>Contact Us</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/contact-us/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/contact-us/</link>
 		<pubDate>Fri, 11 Oct 2013 14:31:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?page_id=30</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?page_id=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1569,18 +1569,18 @@
 	</item>
 	<item>
 		<title>About The Bklyn Guys</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/about-the-bklyn-guys/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/about-the-bklyn-guys/</link>
 		<pubDate>Sun, 20 Oct 2013 13:42:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?page_id=1777</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?page_id=1777</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_service_column color="#ffffff" background="#CF0A2C" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/026.png" headline="Organic Meat" shape="round" width="half" last="false" class="add-bottom" align="right" effect="fadeInLeft"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_column]
+		<content:encoded><![CDATA[[ut_service_column color="#ffffff" background="#CF0A2C" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/026.png" headline="Organic Meat" shape="round" width="half" last="false" class="add-bottom" align="right" effect="fadeInLeft"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_column]
 
-[ut_service_column color="#ffffff" background="#CF0A2C" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/045.png" headline="Fresh Organic Salad" shape="round" width="half" last="true" class="add-bottom" align="left" effect="fadeInRight"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_column]
+[ut_service_column color="#ffffff" background="#CF0A2C" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/045.png" headline="Fresh Organic Salad" shape="round" width="half" last="true" class="add-bottom" align="left" effect="fadeInRight"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_column]
 
-[ut_service_column color="#ffffff" background="#CF0A2C" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/088.png" headline="Delicious Organic Fries" shape="round" width="half"   last="false" class="add-bottom" align="right" effect="fadeInLeft"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_column]
+[ut_service_column color="#ffffff" background="#CF0A2C" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/088.png" headline="Delicious Organic Fries" shape="round" width="half"   last="false" class="add-bottom" align="right" effect="fadeInLeft"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_column]
 
-[ut_service_column color="#ffffff" background="#CF0A2C" icon="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/024.png" headline="Homemade Organic Bread" shape="round" width="half" last="true" class="add-bottom" align="left" effect="fadeInRight"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_column]]]></content:encoded>
+[ut_service_column color="#ffffff" background="#CF0A2C" icon="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/024.png" headline="Homemade Organic Bread" shape="round" width="half" last="true" class="add-bottom" align="left" effect="fadeInRight"] Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna. [/ut_service_column]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1777</wp:post_id>
 		<wp:post_date><![CDATA[2013-10-20 13:42:18]]></wp:post_date>
@@ -1993,10 +1993,10 @@
 	</item>
 	<item>
 		<title>About The Bklyn Guys Quote Section</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/about-the-bklyn-guys/about-the-bklyn-guys-quote-section/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/about-the-bklyn-guys/about-the-bklyn-guys-quote-section/</link>
 		<pubDate>Mon, 21 Oct 2013 21:36:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?page_id=1889</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?page_id=1889</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_parallax_quote cite="Some Guy Who likes Burger" fontsize="45px"] BEST BURGER IN TOWN [/ut_parallax_quote]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2387,10 +2387,10 @@
 	</item>
 	<item>
 		<title>Get Connected</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/get-connected/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/get-connected/</link>
 		<pubDate>Tue, 29 Oct 2013 22:26:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?page_id=2139</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?page_id=2139</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_social_media]
 [ut_social title="Twitter" url="#" icon="fa-twitter"] Follow us on Twitter [/ut_social]
@@ -2787,10 +2787,10 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/home-3/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/home-3/</link>
 		<pubDate>Wed, 27 Apr 2016 08:47:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2712</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2712</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2837,7 +2837,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/?lang=de]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/?lang=de]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_menutype]]></wp:meta_key>
@@ -2846,10 +2846,10 @@
 	</item>
 	<item>
 		<title>Our Famous Menu</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/</link>
 		<pubDate>Sun, 19 Jun 2016 17:55:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2763</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2763</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_menu id="3060"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3221,10 +3221,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/2765/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/2765/</link>
 		<pubDate>Sun, 19 Jun 2016 17:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2765</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2765</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3280,10 +3280,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Our Famous Menu Quote Section</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/our-famous-menu-quote-section/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/our-famous-menu-quote-section/</link>
 		<pubDate>Sun, 19 Jun 2016 23:08:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2808</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2808</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_parallax_quote cite="Gigi Hadid"] THE FIRST YEAR I LIVED IN NEW YORK, I TRIED A DIFFERENT BURGER EVERY WEEK TO FIND MY FAVORITE BURGER IN NY [/ut_parallax_quote]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3654,10 +3654,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>About The Bklyn Guys Photo Section</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/about-the-bklyn-guys/about-the-bklyn-guys-quote-section/bout-the-bklyn-guys-photo-section/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/about-the-bklyn-guys/about-the-bklyn-guys-quote-section/bout-the-bklyn-guys-photo-section/</link>
 		<pubDate>Mon, 20 Jun 2016 01:03:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2835</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2835</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3731,7 +3731,7 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:112:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:112:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_section_video_state]]></wp:meta_key>
@@ -4052,10 +4052,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/2903/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/2903/</link>
 		<pubDate>Mon, 20 Jun 2016 03:04:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2903</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2903</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4111,10 +4111,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Our Famous Menu Photo Section</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/our-famous-menu-quote-section/our-famous-menu-photo-section/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/our-famous-menu-quote-section/our-famous-menu-photo-section/</link>
 		<pubDate>Mon, 20 Jun 2016 14:37:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2925</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2925</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4212,7 +4212,7 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_parallax_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:112:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:112:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_overlay_section]]></wp:meta_key>
@@ -4501,10 +4501,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>For Reservations Call</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/extremely-satisfied-customers/for-reservations-call/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/extremely-satisfied-customers/for-reservations-call/</link>
 		<pubDate>Mon, 20 Jun 2016 15:55:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2932</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2932</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2 style="text-align: center;">For Reservations Call 111-222-333-BKLYN</h2>
 ]]></content:encoded>
@@ -4852,10 +4852,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/2942/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/2942/</link>
 		<pubDate>Mon, 20 Jun 2016 16:24:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=2942</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=2942</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4911,26 +4911,26 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Menu Card</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/menu-card/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/menu-card/</link>
 		<pubDate>Mon, 20 Jun 2016 18:34:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=2967</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=2967</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ut_menu id="3065"]
 
-<img class="aligncenter wp-image-3100 size-full" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg" width="1770" height="400" />
+<img class="aligncenter wp-image-3100 size-full" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg" width="1770" height="400" />
 
 &nbsp;
 
 [ut_menu id="3066"]
 
-<img class="aligncenter wp-image-3100 size-full" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg" width="1770" height="400" />
+<img class="aligncenter wp-image-3100 size-full" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg" width="1770" height="400" />
 
 &nbsp;
 
 [ut_menu id="3067"]
 
-<img class="aligncenter wp-image-3100 size-full" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg" width="1770" height="400" />]]></content:encoded>
+<img class="aligncenter wp-image-3100 size-full" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg" width="1770" height="400" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2967</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-20 18:34:22]]></wp:post_date>
@@ -4978,7 +4978,7 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:112:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:112:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_split_content_type]]></wp:meta_key>
@@ -5356,18 +5356,18 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Extremely Satisfied Customers</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/extremely-satisfied-customers/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/extremely-satisfied-customers/</link>
 		<pubDate>Tue, 21 Jun 2016 00:26:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=3020</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=3020</guid>
 		<description></description>
-		<content:encoded><![CDATA[[ut_single_quote author="John Bison" company="" title="Best Burger in Town" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] A great meal at a good price. We sat outside and enjoyed the food and friendly staff. Enjoy a wide selection of food and drink. Highly recommend! [/ut_single_quote]
+		<content:encoded><![CDATA[[ut_single_quote author="John Bison" company="" title="Best Burger in Town" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] A great meal at a good price. We sat outside and enjoyed the food and friendly staff. Enjoy a wide selection of food and drink. Highly recommend! [/ut_single_quote]
 
-[ut_single_quote author="Will Clark" company="" title="Flawless Burger" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] I always get the Bklyn Special Burger here and it is always amazing. [/ut_single_quote]
+[ut_single_quote author="Will Clark" company="" title="Flawless Burger" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] I always get the Bklyn Special Burger here and it is always amazing. [/ut_single_quote]
 
-[ut_single_quote author="Elton Martin" company="" title="Awesome Burger and Location" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Very good food especially after a long morning flight into Brooklyn. We had to kill a little time for our hotel room to get ready. I'd eat here again. [/ut_single_quote]
+[ut_single_quote author="Elton Martin" company="" title="Awesome Burger and Location" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="false" effect="fadeIn"] Very good food especially after a long morning flight into Brooklyn. We had to kill a little time for our hotel room to get ready. I'd eat here again. [/ut_single_quote]
 
-[ut_single_quote author="Roger Wilson" company="" title="Still No.1" avatar="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] My family likes Bklyn Guys so much that we are regulars. Not cheap food and that's the point. Good quality meat and food everyone likes. [/ut_single_quote]]]></content:encoded>
+[ut_single_quote author="Roger Wilson" company="" title="Still No.1" avatar="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/member.jpg" date="" margin_bottom="20" rating="five" width="half" last="true" effect="fadeIn"] My family likes Bklyn Guys so much that we are regulars. Not cheap food and that's the point. Good quality meat and food everyone likes. [/ut_single_quote]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3020</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-21 00:26:04]]></wp:post_date>
@@ -5756,10 +5756,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Reservation</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/reservation/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/reservation/</link>
 		<pubDate>Tue, 21 Jun 2016 00:48:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=3034</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=3034</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5815,10 +5815,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/home-4/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/home-4/</link>
 		<pubDate>Tue, 21 Jun 2016 00:52:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=3035</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=3035</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5874,10 +5874,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/3083/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/3083/</link>
 		<pubDate>Tue, 21 Jun 2016 04:37:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/demo15/?p=3083</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/demo15/?p=3083</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5933,10 +5933,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Grid Gallery</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-manager/grid-gallery/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-manager/grid-gallery/</link>
 		<pubDate>Thu, 17 Dec 2015 22:56:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=6</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio-manager&#038;p=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5987,10 +5987,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Video</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/video/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/video/</link>
 		<pubDate>Sun, 20 Mar 2016 22:50:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=27</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=portfolio&#038;p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6242,10 +6242,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Grid Gallery</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-manager/carousel-showcase/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-manager/carousel-showcase/</link>
 		<pubDate>Sat, 12 Oct 2013 11:11:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio-manager&#038;p=45</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio-manager&#038;p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6300,10 +6300,10 @@ Mayo, Lettuce, Pickles, Tomatoes, Grilled Onions, Grilled Mushrooms, Ketchup, Mu
 	</item>
 	<item>
 		<title>Awesome Gallery Post</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/post-format-gallery/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/post-format-gallery/</link>
 		<pubDate>Thu, 07 Nov 2013 07:24:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=555</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery ids="3097"]
 
@@ -6386,12 +6386,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>AWESOME WORDPRESS THEMES</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/post-format-link/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/post-format-link/</link>
 		<pubDate>Tue, 05 Nov 2013 08:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=565</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="http://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
+		<content:encoded><![CDATA[<a title="Premium WordPress Themes" href="https://unitedthemes.com">Premium WordPress Themes powered by UNITED THEMES</a>
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -6420,10 +6420,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Jerry&#039;s Diner - Bounce In Place</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/jerrys-diner-bounce-in-place/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/jerrys-diner-bounce-in-place/</link>
 		<pubDate>Tue, 05 Nov 2013 08:36:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=587</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=587</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167220706&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -6515,12 +6515,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Summer 2011 in Brooklyn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/sennheiser/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/sennheiser/</link>
 		<pubDate>Wed, 23 Oct 2013 21:58:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2039</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2039</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://www.youtube.com/watch?v=8TbZlk8TqsM
+		<content:encoded><![CDATA[https://www.youtube.com/watch?v=8TbZlk8TqsM
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -6541,7 +6541,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		<category domain="portfolio-category" nicename="video"><![CDATA[Video]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_a18c1a86529631e8887ec8b36a2d7f6d]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6550,10 +6550,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Kate</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/blues/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/blues/</link>
 		<pubDate>Wed, 23 Oct 2013 22:30:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2044</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2044</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -6581,10 +6581,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Explorador Iberia</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/streets/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/streets/</link>
 		<pubDate>Wed, 23 Oct 2013 22:34:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2046</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2046</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery ids="2893,2893,2893"]
 
@@ -6619,10 +6619,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Sinhazinhas</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/cecilia/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/cecilia/</link>
 		<pubDate>Wed, 23 Oct 2013 22:39:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2048</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2048</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery ids="2893,2893,2893,2893"]
 
@@ -6651,10 +6651,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Soul Digital</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/dogwalk/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/dogwalk/</link>
 		<pubDate>Wed, 23 Oct 2013 22:46:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2050</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2050</guid>
 		<description></description>
 		<content:encoded><![CDATA[[gallery ids="2893,2893,2893,2893"]
 
@@ -6685,10 +6685,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Angelica</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/angelica/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/angelica/</link>
 		<pubDate>Wed, 23 Oct 2013 23:30:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2052</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2052</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -6943,10 +6943,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>The Hive</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/timeless/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/timeless/</link>
 		<pubDate>Wed, 23 Oct 2013 23:34:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2054</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2054</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
@@ -7199,10 +7199,10 @@ sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
 	</item>
 	<item>
 		<title>Merrell</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/merrell/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/merrell/</link>
 		<pubDate>Wed, 23 Oct 2013 23:45:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2061</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2061</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
@@ -7462,12 +7462,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam voluptua. At v
 	</item>
 	<item>
 		<title>8 Hours in Brooklyn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/transparent-machines/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/portfolio-item/transparent-machines/</link>
 		<pubDate>Wed, 23 Oct 2013 23:47:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2063</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=portfolio&#038;p=2063</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://vimeo.com/27260633
+		<content:encoded><![CDATA[https://vimeo.com/27260633
 
 All footage was shot within an 8 hour span in Brooklyn, NYC. This piece serves as a visual case study on several aspects of daily life in the borough of Brooklyn.
 
@@ -7741,10 +7741,10 @@ Song used: Skream – “Where you should be”]]></content:encoded>
 	</item>
 	<item>
 		<title>Bklyn Special Burger</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklyn-special-burger/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/bklyn-special-burger/</link>
 		<pubDate>Fri, 08 Nov 2013 03:20:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2442</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2442</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -7821,10 +7821,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Epic Burger Food Porn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/epic-burger-food-porn/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/epic-burger-food-porn/</link>
 		<pubDate>Thu, 07 Nov 2013 04:01:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2469</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2469</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://player.vimeo.com/video/73395793?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -7919,10 +7919,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Standard Post without Image</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/post-without-image/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/post-without-image/</link>
 		<pubDate>Tue, 05 Nov 2013 05:58:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2484</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2484</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -7992,10 +7992,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Hello Brooklyn</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/hello-brooklyn/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/hello-brooklyn/</link>
 		<pubDate>Tue, 05 Nov 2013 06:01:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=2486</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=2486</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://player.vimeo.com/video/10089801?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -8041,7 +8041,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_9edd1db7d8369e94aaeca0c2b85f4bf3]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="http://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<iframe width="1170" height="658" src="https://www.youtube.com/embed/8TbZlk8TqsM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_activate_csection]]></wp:meta_key>
@@ -8086,12 +8086,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Our Famous Menu Link Section</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/our-famous-menu-link-section/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/our-famous-menu/our-famous-menu-link-section/</link>
 		<pubDate>Tue, 21 Jun 2016 01:00:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?page_id=3037</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?page_id=3037</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/menu-card/"><img class="aligncenter wp-image-3100 size-full" src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg" width="1770" height="400" /></a>]]></content:encoded>
+		<content:encoded><![CDATA[<a href="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/menu-card/"><img class="aligncenter wp-image-3100 size-full" src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/06/banner-bottom.jpg" width="1770" height="400" /></a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3037</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-21 01:00:47]]></wp:post_date>
@@ -8472,10 +8472,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Hello world!</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/hello-world__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/hello-world__trashed/</link>
 		<pubDate>Thu, 17 Dec 2015 22:51:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?p=1</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -8554,10 +8554,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Thu, 17 Dec 2015 22:52:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>Your Name (required)<br />
     [text* your-name] </p>
@@ -8581,7 +8581,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn Demo 15 (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15)
+This e-mail was sent from a contact form on Brooklyn Demo 15 (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15)
 public@unitedthemes.com
 Reply-To: [your-email]
 
@@ -8594,7 +8594,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn Demo 15 (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15)
+This e-mail was sent from a contact form on Brooklyn Demo 15 (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15)
 [your-email]
 Reply-To: public@unitedthemes.com
 
@@ -8646,7 +8646,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn Demo 15 (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn Demo 15 (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -8654,7 +8654,7 @@ This e-mail was sent from a contact form on Brooklyn Demo 15 (http://themeforest
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn Demo 15 (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn Demo 15 (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:33:"Reply-To: public@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -8675,13 +8675,13 @@ This e-mail was sent from a contact form on Brooklyn Demo 15 (http://themeforest
 	</item>
 	<item>
 		<title>Post Format: Quote</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/post-format-quote/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/post-format-quote/</link>
 		<pubDate>Fri, 08 Nov 2013 08:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=575</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=575</guid>
 		<description></description>
 		<content:encoded><![CDATA[<blockquote>Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-<cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
+<cite><a href="https://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite></blockquote>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>575</wp:post_id>
@@ -8707,10 +8707,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	</item>
 	<item>
 		<title>Standard Blog Post With All The Trimmings</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/standard-blog-post-with-all-the-trimmings/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/standard-blog-post-with-all-the-trimmings/</link>
 		<pubDate>Sat, 09 Nov 2013 10:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?p=1</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -8800,7 +8800,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2013-10-07 10:38:23]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2013-10-07 10:38:23]]></wp:comment_date_gmt>
@@ -8856,10 +8856,10 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/?post_type=wpcf7_contact_form&#038;p=2689</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/?post_type=wpcf7_contact_form&#038;p=2689</link>
 		<pubDate>Mon, 18 Nov 2013 18:55:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>Your Name (required)<br />
     [text* your-name akismet:author] </p>
@@ -8883,7 +8883,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn Classic (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic)
+This e-mail was sent from a contact form on Brooklyn Classic (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic)
 public@unitedthemes.com
 
 
@@ -8895,7 +8895,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn Classic (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic)
+This e-mail was sent from a contact form on Brooklyn Classic (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic)
 [your-email]
 
 
@@ -8959,7 +8959,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn Classic (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:0:"";s:11:"attachments";s:0:"";s:8:"use_html";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn Classic (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic)";s:9:"recipient";s:23:"public@unitedthemes.com";s:18:"additional_headers";s:0:"";s:11:"attachments";s:0:"";s:8:"use_html";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -8967,7 +8967,7 @@ This e-mail was sent from a contact form on Brooklyn Classic (http://themeforest
 [your-message]
 
 --
-This e-mail was sent from a contact form on Brooklyn Classic (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:0:"";s:11:"attachments";s:0:"";s:8:"use_html";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn Classic (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/basic)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:0:"";s:11:"attachments";s:0:"";s:8:"use_html";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -8984,10 +8984,10 @@ This e-mail was sent from a contact form on Brooklyn Classic (http://themeforest
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/?post_type=wpcf7_contact_form&#038;p=2690</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/?post_type=wpcf7_contact_form&#038;p=2690</link>
 		<pubDate>Fri, 11 Oct 2013 14:41:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/onepage/?post_type=wpcf7_contact_form&#038;p=32</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/onepage/?post_type=wpcf7_contact_form&#038;p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>Your Name (required)<br />
     [text* your-name akismet:author] </p>
@@ -9008,7 +9008,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.com/onepage)
+This e-mail was sent from a contact form on OnePage (https://beta.unitedthemes.com/onepage)
 demo@unitedthemes.com
 
 
@@ -9020,7 +9020,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.com/onepage)
+This e-mail was sent from a contact form on OnePage (https://beta.unitedthemes.com/onepage)
 [your-email]
 
 
@@ -9081,7 +9081,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.com/onepage)";s:9:"recipient";s:21:"demo@unitedthemes.com";s:18:"additional_headers";s:0:"";s:11:"attachments";s:0:"";s:8:"use_html";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on OnePage (https://beta.unitedthemes.com/onepage)";s:9:"recipient";s:21:"demo@unitedthemes.com";s:18:"additional_headers";s:0:"";s:11:"attachments";s:0:"";s:8:"use_html";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -9089,7 +9089,7 @@ This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.co
 [your-message]
 
 --
-This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.com/onepage)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:0:"";s:11:"attachments";s:0:"";s:8:"use_html";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on OnePage (https://beta.unitedthemes.com/onepage)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:0:"";s:11:"attachments";s:0:"";s:8:"use_html";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -9106,10 +9106,10 @@ This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.co
 	</item>
 	<item>
 		<title>Our Famous Menu</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/our-famous-menu__trashed/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/our-famous-menu__trashed/</link>
 		<pubDate>Mon, 20 Jun 2016 09:52:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2923</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=2923</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9148,10 +9148,10 @@ This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.co
 	</item>
 	<item>
 		<title>Front Page Menu</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/3060/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/3060/</link>
 		<pubDate>Tue, 21 Jun 2016 02:07:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=3060</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=3060</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9181,15 +9181,15 @@ This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.co
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_menu_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:1;a:4:{s:8:"headline";s:7:"Burgers";s:6:"header";s:216:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-burger" width="1024" height="576" class="aligncenter size-large wp-image-2998" />";s:5:"foods";a:7:{i:1;a:3:{s:5:"title";s:9:"Hamburger";s:11:"ingredients";s:41:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup";s:5:"price";s:15:"5 <sup>00</sup>";}i:2;a:3:{s:5:"title";s:12:"Cheeseburger";s:11:"ingredients";s:59:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, american cheddar";s:5:"price";s:15:"6 <sup>00</sup>";}i:3;a:3:{s:5:"title";s:12:"Bacon Burger";s:11:"ingredients";s:48:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, bacon";s:5:"price";s:15:"6 <sup>00</sup>";}i:4;a:3:{s:5:"title";s:20:"Bklyn Special Burger";s:11:"ingredients";s:85:"Mayo, Lettuce, Pickles, Tomatoes, bacon, american cheddar, Bklyn burger souce, Onions";s:5:"price";s:15:"8 <sup>50</sup>";}i:5;a:3:{s:5:"title";s:25:"Bklyn Double Cheeseburger";s:11:"ingredients";s:59:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, american cheddar";s:5:"price";s:15:"11<sup>50</sup>";}i:6;a:3:{s:5:"title";s:25:"Bklyn Double Bronx Burger";s:11:"ingredients";s:87:"Mayo, Lettuce, Pickles, Tomatoes, american cheddar, Bklyn burger souce, Bklyn-Hot Souce";s:5:"price";s:15:"11<sup>50</sup>";}i:7;a:3:{s:5:"title";s:20:"Bklyn Tripple Burger";s:11:"ingredients";s:113:"Mayo, Lettuce, Pickles, Tomatoes, bacon, american cheddar, Bklyn burger souce, Onions, Mustard, Grilled Mushrooms";s:5:"price";s:15:"16<sup>00</sup>";}}s:6:"footer";s:0:"";}i:2;a:4:{s:8:"headline";s:5:"Fries";s:6:"header";s:215:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-fries" width="1024" height="576" class="aligncenter size-large wp-image-3000" />";s:5:"foods";a:5:{i:1;a:3:{s:5:"title";s:11:"Bklyn Style";s:11:"ingredients";s:47:"salt, Jalapeno Peppers, Green Peppers, potatoes";s:5:"price";s:14:"3<sup>50</sup>";}i:2;a:3:{s:5:"title";s:12:"German Style";s:11:"ingredients";s:14:"salt, potatoes";s:5:"price";s:14:"3<sup>50</sup>";}i:3;a:3:{s:5:"title";s:14:"American Style";s:11:"ingredients";s:13:"salt, cheddar";s:5:"price";s:14:"3<sup>50</sup>";}i:4;a:3:{s:5:"title";s:11:"Onion Rings";s:11:"ingredients";s:22:"salt, onions, potatoes";s:5:"price";s:14:"4<sup>50</sup>";}i:5;a:3:{s:5:"title";s:18:"Cheese Onion Rings";s:11:"ingredients";s:31:"salt, onions, potatoes, cheddar";s:5:"price";s:14:"5<sup>00</sup>";}}s:6:"footer";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:2:{i:1;a:4:{s:8:"headline";s:7:"Burgers";s:6:"header";s:216:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-burger" width="1024" height="576" class="aligncenter size-large wp-image-2998" />";s:5:"foods";a:7:{i:1;a:3:{s:5:"title";s:9:"Hamburger";s:11:"ingredients";s:41:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup";s:5:"price";s:15:"5 <sup>00</sup>";}i:2;a:3:{s:5:"title";s:12:"Cheeseburger";s:11:"ingredients";s:59:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, american cheddar";s:5:"price";s:15:"6 <sup>00</sup>";}i:3;a:3:{s:5:"title";s:12:"Bacon Burger";s:11:"ingredients";s:48:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, bacon";s:5:"price";s:15:"6 <sup>00</sup>";}i:4;a:3:{s:5:"title";s:20:"Bklyn Special Burger";s:11:"ingredients";s:85:"Mayo, Lettuce, Pickles, Tomatoes, bacon, american cheddar, Bklyn burger souce, Onions";s:5:"price";s:15:"8 <sup>50</sup>";}i:5;a:3:{s:5:"title";s:25:"Bklyn Double Cheeseburger";s:11:"ingredients";s:59:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, american cheddar";s:5:"price";s:15:"11<sup>50</sup>";}i:6;a:3:{s:5:"title";s:25:"Bklyn Double Bronx Burger";s:11:"ingredients";s:87:"Mayo, Lettuce, Pickles, Tomatoes, american cheddar, Bklyn burger souce, Bklyn-Hot Souce";s:5:"price";s:15:"11<sup>50</sup>";}i:7;a:3:{s:5:"title";s:20:"Bklyn Tripple Burger";s:11:"ingredients";s:113:"Mayo, Lettuce, Pickles, Tomatoes, bacon, american cheddar, Bklyn burger souce, Onions, Mustard, Grilled Mushrooms";s:5:"price";s:15:"16<sup>00</sup>";}}s:6:"footer";s:0:"";}i:2;a:4:{s:8:"headline";s:5:"Fries";s:6:"header";s:215:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-fries" width="1024" height="576" class="aligncenter size-large wp-image-3000" />";s:5:"foods";a:5:{i:1;a:3:{s:5:"title";s:11:"Bklyn Style";s:11:"ingredients";s:47:"salt, Jalapeno Peppers, Green Peppers, potatoes";s:5:"price";s:14:"3<sup>50</sup>";}i:2;a:3:{s:5:"title";s:12:"German Style";s:11:"ingredients";s:14:"salt, potatoes";s:5:"price";s:14:"3<sup>50</sup>";}i:3;a:3:{s:5:"title";s:14:"American Style";s:11:"ingredients";s:13:"salt, cheddar";s:5:"price";s:14:"3<sup>50</sup>";}i:4;a:3:{s:5:"title";s:11:"Onion Rings";s:11:"ingredients";s:22:"salt, onions, potatoes";s:5:"price";s:14:"4<sup>50</sup>";}i:5;a:3:{s:5:"title";s:18:"Cheese Onion Rings";s:11:"ingredients";s:31:"salt, onions, potatoes, cheddar";s:5:"price";s:14:"5<sup>00</sup>";}}s:6:"footer";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Burger Single Menu Card Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/burger-single-menu-card-page/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/burger-single-menu-card-page/</link>
 		<pubDate>Tue, 21 Jun 2016 02:14:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=3065</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=3065</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9219,15 +9219,15 @@ This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.co
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_menu_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;a:4:{s:8:"headline";s:7:"Burgers";s:6:"header";s:216:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-burger" width="1024" height="576" class="aligncenter size-large wp-image-2998" />";s:5:"foods";a:7:{i:1;a:3:{s:5:"title";s:9:"Hamburger";s:11:"ingredients";s:41:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup";s:5:"price";s:15:"5 <sup>00</sup>";}i:2;a:3:{s:5:"title";s:12:"Cheeseburger";s:11:"ingredients";s:59:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, american cheddar";s:5:"price";s:15:"6 <sup>00</sup>";}i:3;a:3:{s:5:"title";s:12:"Bacon Burger";s:11:"ingredients";s:48:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, bacon";s:5:"price";s:15:"6 <sup>00</sup>";}i:4;a:3:{s:5:"title";s:20:"Bklyn Special Burger";s:11:"ingredients";s:85:"Mayo, Lettuce, Pickles, Tomatoes, bacon, american cheddar, Bklyn burger souce, Onions";s:5:"price";s:15:"8 <sup>50</sup>";}i:5;a:3:{s:5:"title";s:25:"Bklyn Double Cheeseburger";s:11:"ingredients";s:59:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, american cheddar";s:5:"price";s:15:"11<sup>50</sup>";}i:6;a:3:{s:5:"title";s:25:"Bklyn Double Bronx Burger";s:11:"ingredients";s:87:"Mayo, Lettuce, Pickles, Tomatoes, american cheddar, Bklyn burger souce, Bklyn-Hot Souce";s:5:"price";s:15:"11<sup>50</sup>";}i:7;a:3:{s:5:"title";s:20:"Bklyn Tripple Burger";s:11:"ingredients";s:113:"Mayo, Lettuce, Pickles, Tomatoes, bacon, american cheddar, Bklyn burger souce, Onions, Mustard, Grilled Mushrooms";s:5:"price";s:15:"16<sup>00</sup>";}}s:6:"footer";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{i:1;a:4:{s:8:"headline";s:7:"Burgers";s:6:"header";s:216:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-burger" width="1024" height="576" class="aligncenter size-large wp-image-2998" />";s:5:"foods";a:7:{i:1;a:3:{s:5:"title";s:9:"Hamburger";s:11:"ingredients";s:41:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup";s:5:"price";s:15:"5 <sup>00</sup>";}i:2;a:3:{s:5:"title";s:12:"Cheeseburger";s:11:"ingredients";s:59:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, american cheddar";s:5:"price";s:15:"6 <sup>00</sup>";}i:3;a:3:{s:5:"title";s:12:"Bacon Burger";s:11:"ingredients";s:48:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, bacon";s:5:"price";s:15:"6 <sup>00</sup>";}i:4;a:3:{s:5:"title";s:20:"Bklyn Special Burger";s:11:"ingredients";s:85:"Mayo, Lettuce, Pickles, Tomatoes, bacon, american cheddar, Bklyn burger souce, Onions";s:5:"price";s:15:"8 <sup>50</sup>";}i:5;a:3:{s:5:"title";s:25:"Bklyn Double Cheeseburger";s:11:"ingredients";s:59:"Mayo, Lettuce, Pickles, Tomatoes, Ketchup, american cheddar";s:5:"price";s:15:"11<sup>50</sup>";}i:6;a:3:{s:5:"title";s:25:"Bklyn Double Bronx Burger";s:11:"ingredients";s:87:"Mayo, Lettuce, Pickles, Tomatoes, american cheddar, Bklyn burger souce, Bklyn-Hot Souce";s:5:"price";s:15:"11<sup>50</sup>";}i:7;a:3:{s:5:"title";s:20:"Bklyn Tripple Burger";s:11:"ingredients";s:113:"Mayo, Lettuce, Pickles, Tomatoes, bacon, american cheddar, Bklyn burger souce, Onions, Mustard, Grilled Mushrooms";s:5:"price";s:15:"16<sup>00</sup>";}}s:6:"footer";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Sandwiches and Dogs Menu Card Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/sandwiches-and-dogs-menu-card-page/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/sandwiches-and-dogs-menu-card-page/</link>
 		<pubDate>Tue, 21 Jun 2016 02:23:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=3066</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=3066</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9257,15 +9257,15 @@ This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.co
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_menu_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:1;a:4:{s:8:"headline";s:4:"Dogs";s:6:"header";s:213:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-dog" width="1024" height="576" class="aligncenter size-large wp-image-2999" />";s:5:"foods";a:4:{i:1;a:3:{s:5:"title";s:19:"Bklyn Style Hot Dog";s:11:"ingredients";s:59:"Bklyn-B-Q Souce, Mustard, Grilled Onions, Grilled Mushrooms";s:5:"price";s:14:"8<sup>00</sup>";}i:2;a:3:{s:5:"title";s:10:"Cheese Dog";s:11:"ingredients";s:34:"Ketchup, Mustard, American Cheddar";s:5:"price";s:14:"5<sup>00</sup>";}i:3;a:3:{s:5:"title";s:9:"Bacon Dog";s:11:"ingredients";s:23:"Ketchup, Mustard, bacon";s:5:"price";s:14:"5<sup>00</sup>";}i:4;a:3:{s:5:"title";s:16:"Bacon Cheese Dog";s:11:"ingredients";s:41:"Ketchup, Mustard, American Cheddar, bacon";s:5:"price";s:14:"6<sup>00</sup>";}}s:6:"footer";s:0:"";}i:2;a:4:{s:8:"headline";s:10:"Sandwiches";s:6:"header";s:218:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-sandwich" width="1024" height="576" class="aligncenter size-large wp-image-3001" />";s:5:"foods";a:4:{i:1;a:3:{s:5:"title";s:15:"Veggie Sandwich";s:11:"ingredients";s:74:"Mayo, Pickles, Green Peppers, Tomatoes, Grilled Onions, Grilled Mushrooms,";s:5:"price";s:14:"6<sup>00</sup>";}i:2;a:3:{s:5:"title";s:22:"Cheese Veggie Sandwich";s:11:"ingredients";s:91:"Mayo, Pickles, Green Peppers, Tomatoes, Grilled Onions, Grilled Mushrooms, American Cheddar";s:5:"price";s:14:"7<sup>00</sup>";}i:3;a:3:{s:5:"title";s:14:"Grilled Cheese";s:11:"ingredients";s:57:"Mayo, Grilled Onions, Grilled Mushrooms, American Cheddar";s:5:"price";s:14:"7<sup>50</sup>";}i:4;a:3:{s:5:"title";s:24:"Bacon Hot Spicey Sanwich";s:11:"ingredients";s:84:"Mayo, Pickles, Lettuce, Tomatoes, Grilled Onions, Grilled Mushrooms, Bklyn-Hot Souce";s:5:"price";s:14:"8<sup>00</sup>";}}s:6:"footer";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:2:{i:1;a:4:{s:8:"headline";s:4:"Dogs";s:6:"header";s:213:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-dog" width="1024" height="576" class="aligncenter size-large wp-image-2999" />";s:5:"foods";a:4:{i:1;a:3:{s:5:"title";s:19:"Bklyn Style Hot Dog";s:11:"ingredients";s:59:"Bklyn-B-Q Souce, Mustard, Grilled Onions, Grilled Mushrooms";s:5:"price";s:14:"8<sup>00</sup>";}i:2;a:3:{s:5:"title";s:10:"Cheese Dog";s:11:"ingredients";s:34:"Ketchup, Mustard, American Cheddar";s:5:"price";s:14:"5<sup>00</sup>";}i:3;a:3:{s:5:"title";s:9:"Bacon Dog";s:11:"ingredients";s:23:"Ketchup, Mustard, bacon";s:5:"price";s:14:"5<sup>00</sup>";}i:4;a:3:{s:5:"title";s:16:"Bacon Cheese Dog";s:11:"ingredients";s:41:"Ketchup, Mustard, American Cheddar, bacon";s:5:"price";s:14:"6<sup>00</sup>";}}s:6:"footer";s:0:"";}i:2;a:4:{s:8:"headline";s:10:"Sandwiches";s:6:"header";s:218:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-sandwich" width="1024" height="576" class="aligncenter size-large wp-image-3001" />";s:5:"foods";a:4:{i:1;a:3:{s:5:"title";s:15:"Veggie Sandwich";s:11:"ingredients";s:74:"Mayo, Pickles, Green Peppers, Tomatoes, Grilled Onions, Grilled Mushrooms,";s:5:"price";s:14:"6<sup>00</sup>";}i:2;a:3:{s:5:"title";s:22:"Cheese Veggie Sandwich";s:11:"ingredients";s:91:"Mayo, Pickles, Green Peppers, Tomatoes, Grilled Onions, Grilled Mushrooms, American Cheddar";s:5:"price";s:14:"7<sup>00</sup>";}i:3;a:3:{s:5:"title";s:14:"Grilled Cheese";s:11:"ingredients";s:57:"Mayo, Grilled Onions, Grilled Mushrooms, American Cheddar";s:5:"price";s:14:"7<sup>50</sup>";}i:4;a:3:{s:5:"title";s:24:"Bacon Hot Spicey Sanwich";s:11:"ingredients";s:84:"Mayo, Pickles, Lettuce, Tomatoes, Grilled Onions, Grilled Mushrooms, Bklyn-Hot Souce";s:5:"price";s:14:"8<sup>00</sup>";}}s:6:"footer";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Fries Single Menu Card Page</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/fries-single-menu-card-page/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/ut-menu-manager/fries-single-menu-card-page/</link>
 		<pubDate>Tue, 21 Jun 2016 02:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=3067</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/brooklyn/?post_type=ut-menu-manager&#038;p=3067</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9295,7 +9295,7 @@ This e-mail was sent from a contact form on OnePage (http://beta.unitedthemes.co
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_menu_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;a:4:{s:8:"headline";s:5:"Fries";s:6:"header";s:215:"<img src="http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-fries" width="1024" height="576" class="aligncenter size-large wp-image-3000" />";s:5:"foods";a:5:{i:1;a:3:{s:5:"title";s:11:"Bklyn Style";s:11:"ingredients";s:47:"salt, Jalapeno Peppers, Green Peppers, potatoes";s:5:"price";s:14:"3<sup>50</sup>";}i:2;a:3:{s:5:"title";s:12:"German Style";s:11:"ingredients";s:14:"salt, potatoes";s:5:"price";s:14:"3<sup>50</sup>";}i:3;a:3:{s:5:"title";s:14:"American Style";s:11:"ingredients";s:13:"salt, cheddar";s:5:"price";s:14:"3<sup>50</sup>";}i:4;a:3:{s:5:"title";s:11:"Onion Rings";s:11:"ingredients";s:22:"salt, onions, potatoes";s:5:"price";s:14:"4<sup>50</sup>";}i:5;a:3:{s:5:"title";s:18:"Cheese Onion Rings";s:11:"ingredients";s:31:"salt, onions, potatoes, cheddar";s:5:"price";s:14:"5<sup>00</sup>";}}s:6:"footer";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{i:1;a:4:{s:8:"headline";s:5:"Fries";s:6:"header";s:215:"<img src="https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo15/wp-content/uploads/2016/07/ut-placeholder.jpg" alt="bklyn-fries" width="1024" height="576" class="aligncenter size-large wp-image-3000" />";s:5:"foods";a:5:{i:1;a:3:{s:5:"title";s:11:"Bklyn Style";s:11:"ingredients";s:47:"salt, Jalapeno Peppers, Green Peppers, potatoes";s:5:"price";s:14:"3<sup>50</sup>";}i:2;a:3:{s:5:"title";s:12:"German Style";s:11:"ingredients";s:14:"salt, potatoes";s:5:"price";s:14:"3<sup>50</sup>";}i:3;a:3:{s:5:"title";s:14:"American Style";s:11:"ingredients";s:13:"salt, cheddar";s:5:"price";s:14:"3<sup>50</sup>";}i:4;a:3:{s:5:"title";s:11:"Onion Rings";s:11:"ingredients";s:22:"salt, onions, potatoes";s:5:"price";s:14:"4<sup>50</sup>";}i:5;a:3:{s:5:"title";s:18:"Cheese Onion Rings";s:11:"ingredients";s:31:"salt, onions, potatoes, cheddar";s:5:"price";s:14:"5<sup>00</sup>";}}s:6:"footer";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

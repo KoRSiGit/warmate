@@ -1,5 +1,5 @@
 /*! lightgallery - v1.2.6 - 2015-10-07
-* http://sachinchoolur.github.io/lightGallery/
+* https://sachinchoolur.github.io/lightGallery/
 * Copyright (c) 2015 Sachin N; Licensed Apache 2.0 */
 (function($, window, document, undefined) {
 
@@ -232,7 +232,7 @@
                 a = a + '&' + $.param(this.core.s.vimeoPlayerParams);
             }
 
-            video = '<iframe class="lg-video-object lg-vimeo ' + addClass + '" width="560" height="315"  src="http://player.vimeo.com/video/' + isVideo.vimeo[1] + a + '" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>';
+            video = '<iframe class="lg-video-object lg-vimeo ' + addClass + '" width="560" height="315"  src="https://player.vimeo.com/video/' + isVideo.vimeo[1] + a + '" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>';
 
         } else if (isVideo.dailymotion) {
 

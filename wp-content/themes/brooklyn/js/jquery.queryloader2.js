@@ -2,12 +2,12 @@
  * QueryLoader v2 - A simple script to create a preloader for images
  *
  * For instructions read the original post:
- * http://www.gayadesign.com/diy/queryloader2-preload-your-images-with-ease/
+ * https://www.gayadesign.com/diy/queryloader2-preload-your-images-with-ease/
  *
  * Copyright (c) 2011 - Gaya Kessler
  *
  * Licensed under the MIT license:
- *   http://www.opensource.org/licenses/mit-license.php
+ *   https://www.opensource.org/licenses/mit-license.php
  *
  * Version:  2.2
  * Last update: 03-04-2012

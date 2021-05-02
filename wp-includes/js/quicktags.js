@@ -22,7 +22,7 @@
 
 // New edit toolbar used with permission
 // by Alex King
-// http://www.alexking.org/
+// https://www.alexking.org/
 
 /* global adminpage, wpActiveEditor, quicktagsL10n, wpLink, prompt, edButtons */
 
@@ -639,7 +639,7 @@ window.edToolbar = function(){};
 		}
 
 		if ( ! defaultValue ) {
-			defaultValue = 'http://';
+			defaultValue = 'https://';
 		}
 
 		if ( t.isOpen(ed) === false ) {
@@ -664,7 +664,7 @@ window.edToolbar = function(){};
 	qt.ImgButton.prototype = new qt.TagButton();
 	qt.ImgButton.prototype.callback = function(e, c, ed, defaultValue) {
 		if ( ! defaultValue ) {
-			defaultValue = 'http://';
+			defaultValue = 'https://';
 		}
 		var src = prompt(quicktagsL10n.enterImageURL, defaultValue), alt;
 		if ( src ) {

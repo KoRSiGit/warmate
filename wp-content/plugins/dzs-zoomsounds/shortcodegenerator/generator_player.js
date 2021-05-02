@@ -474,7 +474,7 @@ jQuery(document).ready(function($){
     function prepare_fout_single(){
         fout='';
 
-//    [zoomsounds_player source="http://localhost/wordpress/wp-content/uploads/2013/11/song.mp3" config="skinwave-with-comments" playerid="4306" waveformbg="http://localhost/wordpress/wp-content/plugins/dzs-zoomsounds/waves/scrubbg_songmp3.png" waveformprog="http://localhost/wordpress/wp-content/plugins/dzs-zoomsounds/waves/scrubprog_songmp3.png" thumb="http://localhost/wordpress/wp-content/uploads/2013/03/1185428_13454282.jpeg" autoplay="on" cue="on" enable_likes="off" enable_views="off" playfrom="10"]
+//    [zoomsounds_player source="https://localhost/wordpress/wp-content/uploads/2013/11/song.mp3" config="skinwave-with-comments" playerid="4306" waveformbg="https://localhost/wordpress/wp-content/plugins/dzs-zoomsounds/waves/scrubbg_songmp3.png" waveformprog="https://localhost/wordpress/wp-content/plugins/dzs-zoomsounds/waves/scrubprog_songmp3.png" thumb="https://localhost/wordpress/wp-content/uploads/2013/03/1185428_13454282.jpeg" autoplay="on" cue="on" enable_likes="off" enable_views="off" playfrom="10"]
 
         fout+='[zoomsounds_player';
 

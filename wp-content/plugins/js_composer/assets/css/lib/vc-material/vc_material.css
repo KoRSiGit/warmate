@@ -1196,7 +1196,7 @@
 .vc-material-hourglass_full:before {
   content: "\e88c";
 }
-.vc-material-http:before {
+.vc-material-https:before {
   content: "\e902";
 }
 .vc-material-lock:before {

@@ -57,7 +57,7 @@
                 case "rem":
                     return value * getEmSize();
                 // Viewport units!
-                // According to http://quirksmode.org/mobile/tableViewport.html
+                // According to https://quirksmode.org/mobile/tableViewport.html
                 // documentElement.clientWidth/Height gets us the most reliable info
                 case "vw":
                     return value * document.documentElement.clientWidth / 100;

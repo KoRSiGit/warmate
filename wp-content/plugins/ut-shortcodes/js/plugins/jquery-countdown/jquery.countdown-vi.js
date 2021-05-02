@@ -1,4 +1,4 @@
-/* http://keith-wood.name/countdown.html
+/* https://keith-wood.name/countdown.html
  * Vietnamese initialisation for the jQuery countdown extension
  * Written by Pham Tien Hung phamtienhung@gmail.com (2010) */
 (function($) {

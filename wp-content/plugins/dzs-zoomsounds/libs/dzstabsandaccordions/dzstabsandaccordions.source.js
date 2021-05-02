@@ -1,7 +1,7 @@
 // ==DZS ZoomTabs and Accordions
 // @version 1.23
 // @this is not free software
-// == DZS ZoomTabs and Accordions == copyright == http://digitalzoomstudio.net
+// == DZS ZoomTabs and Accordions == copyright == https://digitalzoomstudio.net
 
 
 "use strict";
@@ -237,7 +237,7 @@ function dzstaa_preInit() {
 
             if (cthis.hasClass('skin-blue')) {
 
-              aux_tab_menu += '<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px"	 height="20px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve"><g id="Layer_1">	<circle fill="#65398E" cx="10" cy="9.998" r="10"/></g><g id="Layer_3">	<rect x="3.817" y="8.69" fill="#FFFFFF" width="12.366" height="2.152"/>	<rect class="rect-2" x="8.924" y="3.583" fill="#FFFFFF" width="2.152" height="12.366"/></g></svg>';
+              aux_tab_menu += '<svg version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="20px"	 height="20px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve"><g id="Layer_1">	<circle fill="#65398E" cx="10" cy="9.998" r="10"/></g><g id="Layer_3">	<rect x="3.817" y="8.69" fill="#FFFFFF" width="12.366" height="2.152"/>	<rect class="rect-2" x="8.924" y="3.583" fill="#FFFFFF" width="2.152" height="12.366"/></g></svg>';
             }
 
 
@@ -344,7 +344,7 @@ function dzstaa_preInit() {
           if (cthis.hasClass('skin-chef') || cthis.hasClass('skin-qcre')) {
             _tabsMenu.children().each(function () {
               var _t = $(this).children('.tab-menu');
-              _t.prependOnce('<span class="plus-sign"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="12px" height="12px" viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve"> <circle fill="#999999" cx="6" cy="6" r="6"/><rect class="rect1" x="5" y="2" fill="#FFFFFF" width="2" height="8"/><rect class="rect2" x="2" y="5" fill="#FFFFFF" width="8" height="2"/></svg></span>');
+              _t.prependOnce('<span class="plus-sign"><svg version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="12px" height="12px" viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve"> <circle fill="#999999" cx="6" cy="6" r="6"/><rect class="rect1" x="5" y="2" fill="#FFFFFF" width="2" height="8"/><rect class="rect2" x="2" y="5" fill="#FFFFFF" width="8" height="2"/></svg></span>');
             })
           }
 

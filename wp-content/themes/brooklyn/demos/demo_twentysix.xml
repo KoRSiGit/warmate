@@ -18,22 +18,22 @@
 
 <!-- generator="WordPress/4.8" created="2017-07-14 11:55" -->
 <rss version="2.0"
-	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:wp="http://wordpress.org/export/1.2/"
+	xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:wp="https://wordpress.org/export/1.2/"
 >
 
 <channel>
 	<title>John Brooklyn</title>
-	<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26</link>
+	<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26</link>
 	<description>Demo 26</description>
 	<pubDate>Fri, 14 Jul 2017 11:55:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26</wp:base_site_url>
-	<wp:base_blog_url>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26</wp:base_blog_url>
+	<wp:base_site_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26</wp:base_site_url>
+	<wp:base_blog_url>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[john@unitedthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -88,10 +88,10 @@
 
 	<item>
 		<title>demo-26-hero</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/demo-26-hero/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/demo-26-hero/</link>
 		<pubDate>Fri, 02 Jun 2017 06:57:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/demo-26-hero.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/demo-26-hero.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -107,7 +107,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:24:"2017/05/demo-26-hero.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"demo-26-hero-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"demo-26-hero-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"demo-26-hero-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"demo-26-hero-1160x1160.jpg";s:5:"width";i:1160;s:6:"height";i:1160;s:9:"mime-type";s:10:"image/jpeg";}s:11:"ut-lightbox";a:4:{s:4:"file";s:25:"demo-26-hero-1080x720.jpg";s:5:"width";i:1080;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -119,10 +119,10 @@
 	</item>
 	<item>
 		<title>app-icon</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/app-icon/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/app-icon/</link>
 		<pubDate>Thu, 01 Jun 2017 08:38:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/app-icon.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/app-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -138,7 +138,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/app-icon.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/app-icon.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/app-icon.png]]></wp:meta_value>
@@ -150,10 +150,10 @@
 	</item>
 	<item>
 		<title>Camera-4_90px</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/camera-4_90px/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/camera-4_90px/</link>
 		<pubDate>Fri, 02 Jun 2017 12:02:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/Camera-4_90px.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/Camera-4_90px.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -169,7 +169,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/Camera-4_90px.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/Camera-4_90px.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/Camera-4_90px.png]]></wp:meta_value>
@@ -181,10 +181,10 @@
 	</item>
 	<item>
 		<title>web-icon</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/web-icon/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/web-icon/</link>
 		<pubDate>Thu, 01 Jun 2017 08:40:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/web-icon.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/web-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -200,7 +200,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/web-icon.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/web-icon.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/web-icon.png]]></wp:meta_value>
@@ -212,10 +212,10 @@
 	</item>
 	<item>
 		<title>simon-wakaba-139880</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-last-festival/simon-wakaba-139880/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-last-festival/simon-wakaba-139880/</link>
 		<pubDate>Thu, 01 Jun 2017 09:13:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/simon-wakaba-139880.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/simon-wakaba-139880.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -231,7 +231,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/simon-wakaba-139880.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/simon-wakaba-139880.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/simon-wakaba-139880.jpg]]></wp:meta_value>
@@ -243,10 +243,10 @@
 	</item>
 	<item>
 		<title>zachary-nelson-192289</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/zachary-nelson-192289/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/zachary-nelson-192289/</link>
 		<pubDate>Thu, 01 Jun 2017 09:26:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/zachary-nelson-192289.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/zachary-nelson-192289.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -262,7 +262,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/zachary-nelson-192289.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/zachary-nelson-192289.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/zachary-nelson-192289.jpg]]></wp:meta_value>
@@ -274,10 +274,10 @@
 	</item>
 	<item>
 		<title>watch</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/watch-design/watch/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/watch-design/watch/</link>
 		<pubDate>Fri, 02 Jun 2017 10:29:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/watch.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/watch.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -293,7 +293,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/watch.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/watch.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1631;s:4:"file";s:17:"2017/06/watch.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"watch-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"watch-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:17:"watch-768x783.jpg";s:5:"width";i:768;s:6:"height";i:783;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"watch-1160x1160.jpg";s:5:"width";i:1160;s:6:"height";i:1160;s:9:"mime-type";s:10:"image/jpeg";}s:11:"ut-lightbox";a:4:{s:4:"file";s:17:"watch-706x720.jpg";s:5:"width";i:706;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:5:{i:0;s:9:"1160x1182";i:1;s:7:"700x800";i:2;s:10:"700x800@2x";i:3;s:7:"700x714";i:4;s:10:"700x714@2x";}}}]]></wp:meta_value>
@@ -305,10 +305,10 @@
 	</item>
 	<item>
 		<title>92</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/girl-listen-music/attachment/92/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/girl-listen-music/attachment/92/</link>
 		<pubDate>Thu, 01 Jun 2017 10:51:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/92.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/92.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -324,7 +324,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/92.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/92.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/92.jpg]]></wp:meta_value>
@@ -336,10 +336,10 @@
 	</item>
 	<item>
 		<title>desktop</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-website/desktop/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-website/desktop/</link>
 		<pubDate>Fri, 02 Jun 2017 15:01:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/desktop.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/desktop.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -355,7 +355,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/desktop.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/desktop.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/desktop.png]]></wp:meta_value>
@@ -367,10 +367,10 @@
 	</item>
 	<item>
 		<title>p1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/p1/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/p1/</link>
 		<pubDate>Fri, 02 Jun 2017 10:02:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/p1.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/p1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Step 1]]></excerpt:encoded>
@@ -386,7 +386,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/p1.jpg]]></wp:meta_value>
@@ -398,10 +398,10 @@
 	</item>
 	<item>
 		<title>p2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/p2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/p2/</link>
 		<pubDate>Fri, 02 Jun 2017 10:02:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/p2.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/p2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Step 2]]></excerpt:encoded>
@@ -417,7 +417,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/p2.jpg]]></wp:meta_value>
@@ -429,10 +429,10 @@
 	</item>
 	<item>
 		<title>p3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/p3/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/p3/</link>
 		<pubDate>Fri, 02 Jun 2017 10:02:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/p3.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/p3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Step 3]]></excerpt:encoded>
@@ -448,7 +448,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/p3.jpg]]></wp:meta_value>
@@ -460,10 +460,10 @@
 	</item>
 	<item>
 		<title>p1-hero</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/p1-hero/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/p1-hero/</link>
 		<pubDate>Fri, 02 Jun 2017 10:41:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/p1-hero.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/p1-hero.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -479,7 +479,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p1-hero.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p1-hero.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1200;s:4:"file";s:19:"2017/06/p1-hero.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"p1-hero-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"p1-hero-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"p1-hero-768x480.jpg";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"p1-hero-1160x1160.jpg";s:5:"width";i:1160;s:6:"height";i:1160;s:9:"mime-type";s:10:"image/jpeg";}s:11:"ut-lightbox";a:4:{s:4:"file";s:20:"p1-hero-1152x720.jpg";s:5:"width";i:1152;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:1:{i:0;s:8:"1160x725";}}}]]></wp:meta_value>
@@ -491,10 +491,10 @@
 	</item>
 	<item>
 		<title>web-design</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/26/my-last-website/web-design/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/26/my-last-website/web-design/</link>
 		<pubDate>Fri, 02 Jun 2017 15:45:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/web-design.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/web-design.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -510,7 +510,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/web-design.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/web-design.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/web-design.jpg]]></wp:meta_value>
@@ -522,10 +522,10 @@
 	</item>
 	<item>
 		<title>demo-26-hero-mobile</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/demo-26-hero-mobile/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/demo-26-hero-mobile/</link>
 		<pubDate>Fri, 02 Jun 2017 12:13:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/demo-26-hero-mobile.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/demo-26-hero-mobile.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -541,7 +541,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero-mobile.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero-mobile.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/demo-26-hero-mobile.jpg]]></wp:meta_value>
@@ -553,10 +553,10 @@
 	</item>
 	<item>
 		<title>demo-26-hero-tablet</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/demo-26-hero-tablet/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/home/demo-26-hero-tablet/</link>
 		<pubDate>Fri, 02 Jun 2017 12:17:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/demo-26-hero-tablet.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/05/demo-26-hero-tablet.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -572,7 +572,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero-tablet.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero-tablet.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/05/demo-26-hero-tablet.jpg]]></wp:meta_value>
@@ -584,10 +584,10 @@
 	</item>
 	<item>
 		<title>blog-post</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog-post/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog-post/</link>
 		<pubDate>Fri, 02 Jun 2017 13:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -603,7 +603,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:2876;s:4:"file";s:21:"2017/06/blog-post.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"blog-post-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"blog-post-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"blog-post-768x1150.jpg";s:5:"width";i:768;s:6:"height";i:1150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"blog-post-1160x1160.jpg";s:5:"width";i:1160;s:6:"height";i:1160;s:9:"mime-type";s:10:"image/jpeg";}s:11:"ut-lightbox";a:4:{s:4:"file";s:21:"blog-post-481x720.jpg";s:5:"width";i:481;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:4:{i:0;s:8:"1288x724";i:1;s:11:"1288x724@2x";i:2;s:7:"720x600";i:3;s:10:"720x600@2x";}}}]]></wp:meta_value>
@@ -615,10 +615,10 @@
 	</item>
 	<item>
 		<title>joey-thompson-63366</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-last-festival/joey-thompson-63366/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-last-festival/joey-thompson-63366/</link>
 		<pubDate>Fri, 02 Jun 2017 14:02:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/joey-thompson-63366.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/joey-thompson-63366.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -634,7 +634,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/joey-thompson-63366.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/joey-thompson-63366.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/joey-thompson-63366.jpg]]></wp:meta_value>
@@ -646,10 +646,10 @@
 	</item>
 	<item>
 		<title>phone</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-website/phone/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-website/phone/</link>
 		<pubDate>Fri, 02 Jun 2017 15:01:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/phone.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/phone.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -665,7 +665,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/phone.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/phone.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:369;s:6:"height";i:657;s:4:"file";s:17:"2017/06/phone.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"phone-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"phone-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:14:"resized_images";a:2:{i:0;s:9:"1160x1160";i:1;s:7:"720x600";}}}]]></wp:meta_value>
@@ -677,10 +677,10 @@
 	</item>
 	<item>
 		<title>tablet</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-website/tablet/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-website/tablet/</link>
 		<pubDate>Fri, 02 Jun 2017 15:01:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/tablet.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/tablet.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -696,7 +696,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/tablet.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/tablet.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/tablet.png]]></wp:meta_value>
@@ -708,10 +708,10 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/</link>
 		<pubDate>Wed, 31 May 2017 00:57:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?page_id=6</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section css=".vc_custom_1496316007823{background-color: #111314 !important;}" bklyn_section_anchor_id="about"][vc_row hide_on_tablet="true" hide_on_mobile="true" animate_once="yes" delay="true" effect="fadeIn" delay_timer="50"][vc_column][ut_header title="I'm a creative freelancer located in Brooklyn, New York. I’ve won a ton of awards and have been featured in all of the magazines." title_color="#ffffff"][/ut_header][/vc_column][/vc_row][vc_row hide_on_desktop="true" animate_once="yes" delay="true" effect="fadeIn" delay_timer="50"][vc_column][ut_header title="I'm a creative freelancer located in Brooklyn, New York. I’ve won a ton of awards and have been featured in all of the magazines." title_color="#ffffff" font_size="25px"][/ut_header][/vc_column][/vc_row][vc_row][vc_column width="1/3" animate_once="yes" delay="true" effect="fadeInUp" delay_timer="100"][ut_service_column headline="MOBILE DESIGN" imageicon="123" text_color="#d1d1cf" headline_color="#e8e8e6" headline_margin_bottom="20px"]Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna.[/ut_service_column][/vc_column][vc_column width="1/3" animate_once="yes" delay="true" effect="fadeInUp" delay_timer="150"][ut_service_column headline="WEB DESIGN" imageicon="126" text_color="#d1d1cf" headline_color="#e8e8e6" headline_margin_bottom="20px"]Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna.[/ut_service_column][/vc_column][vc_column width="1/3" animate_once="yes" delay="true" effect="fadeInUp" delay_timer="200"][ut_service_column headline="PHOTOGRAPHY" imageicon="278" text_color="#d1d1cf" headline_color="#e8e8e6" headline_margin_bottom="20px"]Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. Nullam bibendum porta magna.[/ut_service_column][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1496316230426{padding-bottom: 0px !important;}"][vc_row hide_on_tablet="true" hide_on_mobile="true" effect="none" css=".vc_custom_1496425752192{background-color: #ff3f00 !important;}"][vc_column animate_once="yes" delay="true" effect="fadeIn" delay_timer="50" offset="vc_hidden-md vc_hidden-sm vc_hidden-xs"][ut_header style="global" align="global" title="Browse my most recent projects below and enjoy my handmade work with love for every detail." title_color="#ffffff"][/ut_header][/vc_column][/vc_row][vc_row hide_on_desktop="true" effect="none" css=".vc_custom_1496425756570{background-color: #ff3f00 !important;}"][vc_column animate_once="yes" delay="true" effect="fadeIn" delay_timer="50"][ut_header style="global" align="global" title="Browse my most recent projects below and enjoy my handmade work with love for every detail." title_color="#ffffff" font_size="25px"][/ut_header][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1496418932119{margin-top: 0px !important;}" bklyn_section_anchor_id="portfolio"][vc_column][ut_custom_shortcode css=".vc_custom_1496315950159{margin-bottom: 0px !important;}"][ut_showcase id="138" name="Demo 26 – Showcase"][/ut_custom_shortcode][/vc_column][/vc_row][/vc_section][vc_section css=".vc_custom_1496421318519{background-color: #ff3f00 !important;}" bklyn_section_anchor_id="Contact"][vc_row hide_on_tablet="true" hide_on_mobile="true"][vc_column animate_once="yes" delay="true" effect="fadeIn" delay_timer="50"][ut_header align="left" title="I welcome you to contact me for more information about any of my products or services." title_color="#ffffff" lead_accent_color="#ffffff"][/ut_header][ut_fancy_list values="%5B%7B%22icon%22%3A%22fa%20fa-phone%22%2C%22title%22%3A%22(156)%20444%2B558%2B696%22%7D%2C%7B%22icon%22%3A%22fa%20fa-envelope-o%22%2C%22title%22%3A%22your%40awesome-email.com%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3Amailto%253Acontact%2540yoursite.com%7C%7C%7C%22%7D%5D" icon_color="#ffffff" text_color="#ffffff" icon_color_hover="#ffffff" text_color_hover="#ffffff"][vc_custom_heading text="FOLLOW ME ON" font_container="tag:h3|text_align:left|color:%23ffffff" use_theme_fonts="yes" css=".vc_custom_1496417267509{margin-bottom: 40px !important;}"][ut_social_follow gap="40 Pixel" size="30" socials="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22colors%22%3A%22global%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22colors%22%3A%22global%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22colors%22%3A%22global%22%7D%5D" icon_color="#ffffff" icon_color_hover="#ffffff"][/vc_column][/vc_row][vc_row hide_on_desktop="true"][vc_column animate_once="yes" delay="true" effect="fadeIn" delay_timer="50"][ut_header align="left" title="I welcome you to contact me for more information about any of my products or services." title_color="#ffffff" lead_accent_color="#ffffff" font_size="25px"][/ut_header][ut_fancy_list values="%5B%7B%22icon%22%3A%22fa%20fa-phone%22%2C%22title%22%3A%22(156)%20444%2B558%2B696%22%7D%2C%7B%22icon%22%3A%22fa%20fa-envelope-o%22%2C%22title%22%3A%22your%40awesome-email.com%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3Amailto%253Acontact%2540yoursite.com%7C%7C%7C%22%7D%5D" icon_color="#ffffff" text_color="#ffffff" icon_color_hover="#ffffff" text_color_hover="#ffffff"][vc_custom_heading text="FOLLOW ME ON" font_container="tag:h3|text_align:left|color:%23ffffff" use_theme_fonts="yes" css=".vc_custom_1496417267509{margin-bottom: 40px !important;}"][ut_social_follow gap="40 Pixel" size="30" socials="%5B%7B%22icon%22%3A%22fa%20fa-facebook%22%2C%22colors%22%3A%22global%22%7D%2C%7B%22icon%22%3A%22fa%20fa-twitter%22%2C%22colors%22%3A%22global%22%7D%2C%7B%22icon%22%3A%22fa%20fa-instagram%22%2C%22colors%22%3A%22global%22%7D%5D" icon_color="#ffffff" icon_color_hover="#ffffff"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -785,7 +785,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:9:"no-repeat";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:9:"no-repeat";s:15:"background-size";s:5:"cover";s:16:"background-image";s:110:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_split_content_type]]></wp:meta_key>
@@ -1219,11 +1219,11 @@ Photography.]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_tablet]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:117:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero-tablet.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:117:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero-tablet.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_mobile]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:117:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero-mobile.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:117:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/05/demo-26-hero-mobile.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_subfooter_border_top]]></wp:meta_key>
@@ -1240,10 +1240,10 @@ Photography.]]></wp:meta_value>
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/31/49/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/31/49/</link>
 		<pubDate>Wed, 31 May 2017 14:53:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?p=49</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?p=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1303,10 +1303,10 @@ Photography.]]></wp:meta_value>
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/01/about/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/01/about/</link>
 		<pubDate>Thu, 01 Jun 2017 07:43:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/2017/06/01/about/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/2017/06/01/about/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1357,15 +1357,15 @@ Photography.]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/#section-about]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/#section-about]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Portfolio</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/01/portfolio/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/01/portfolio/</link>
 		<pubDate>Thu, 01 Jun 2017 07:45:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/2017/06/01/portfolio/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/2017/06/01/portfolio/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1416,15 +1416,15 @@ Photography.]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/#section-portfolio]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/#section-portfolio]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>My Last Festival</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-last-festival/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-last-festival/</link>
 		<pubDate>Thu, 01 Jun 2017 09:12:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=139</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=139</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1912,10 +1912,10 @@ Photography.]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Watch Design</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/watch-design/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/watch-design/</link>
 		<pubDate>Thu, 01 Jun 2017 09:18:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=149</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=149</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section full_width=""][vc_row full_width="" animate_once="yes" delay="true" effect="fadeIn" delay_timer="50"][vc_column][vc_custom_heading text="WHAT I DID" font_container="tag:h3|text_align:left" use_theme_fonts="yes" css=".vc_custom_1496417431941{margin-bottom: 10px !important;}"][ut_header title="BEAUTIFUL HANDMADE WATCH DESIGN" title_color="#252525"]I believe my work speaks for itself. Browse my most recent projects below
 and enjoy my <b>handmade work</b> with love for every detail.[/ut_header][ut_portfolio_details style="inline" values="%5B%7B%22title%22%3A%22CLIENT%3A%22%2C%22description%22%3A%22Envato%22%7D%2C%7B%22title%22%3A%22DATE%3A%22%2C%22description%22%3A%22May%2029%2C%202017%22%2C%22is_link%22%3A%22true%22%7D%2C%7B%22title%22%3A%22PROJECT%3A%22%2C%22description%22%3A%22www.yourlink.com%22%2C%22is_link%22%3A%22true%22%2C%22link%22%3A%22url%3A%2523%7C%7C%7C%22%7D%5D"][/vc_column][/vc_row][vc_row full_width="" animate_once="yes" delay="true" effect="fadeIn" delay_timer="100"][vc_column width="1/2"][vc_custom_heading text="Brooklyn Design" font_container="tag:h3|text_align:left|color:%23252525" use_theme_fonts="yes" text_transform="uppercase"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][vc_column width="1/2"][vc_custom_heading text="Way of Life" font_container="tag:h3|text_align:left|color:%23252525" use_theme_fonts="yes" text_transform="uppercase"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.[/vc_column_text][/vc_column][/vc_row][vc_row full_width="" animate_once="yes" delay="true" effect="fadeIn" delay_timer="200"][vc_column][ut_social_share_bar border="true" share_text="SHARE:"][/vc_column][/vc_row][/vc_section]]]></content:encoded>
@@ -2417,10 +2417,10 @@ WATCH]]></wp:meta_value>
 	</item>
 	<item>
 		<title>My Website</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-website/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/my-website/</link>
 		<pubDate>Thu, 01 Jun 2017 09:18:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=150</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=150</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column width="1/2"][vc_custom_heading text="RESPONSIVE IN EVERY WAY" font_container="tag:h3|text_align:left|color:%23252525" use_theme_fonts="yes" css=".vc_custom_1496415774430{margin-bottom: 10px !important;}"][ut_header align="left" title="My Beautiful Website"]Bold, clean, modern and timeless design.[/ut_header][vc_row_inner][vc_column_inner][vc_custom_heading text="BOLD &amp; MODERN" font_container="tag:h3|text_align:left|color:%23252525" use_theme_fonts="yes"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
@@ -2924,10 +2924,10 @@ Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog/</link>
 		<pubDate>Fri, 02 Jun 2017 13:33:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?page_id=298</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?page_id=298</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3007,7 +3007,7 @@ my Blog]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_mobile]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:114:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-mobile.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:114:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-mobile.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_split_content_type]]></wp:meta_key>
@@ -3079,11 +3079,11 @@ my Blog]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:9:"no-repeat";s:15:"background-size";s:5:"cover";s:16:"background-image";s:107:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:9:"no-repeat";s:15:"background-size";s:5:"cover";s:16:"background-image";s:107:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image_tablet]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:114:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-tablet.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:17:"background-repeat";s:9:"no-repeat";s:21:"background-attachment";s:6:"scroll";s:19:"background-position";s:13:"center center";s:15:"background-size";s:5:"cover";s:16:"background-image";s:114:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-tablet.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_tabs_tablet_color]]></wp:meta_key>
@@ -3416,10 +3416,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title></title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/299/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/299/</link>
 		<pubDate>Fri, 02 Jun 2017 13:33:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/2017/06/02/299/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/2017/06/02/299/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3923,10 +3923,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>blog-post-2</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/01/my-favorite-song/blog-post-2/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/01/my-favorite-song/blog-post-2/</link>
 		<pubDate>Fri, 02 Jun 2017 15:51:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-2.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3942,7 +3942,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/blog-post-2.jpg]]></wp:meta_value>
@@ -3954,10 +3954,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>blog-post-3</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/blog-post-3/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/blog-post-3/</link>
 		<pubDate>Fri, 02 Jun 2017 16:04:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-3.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3973,7 +3973,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-3.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/blog-post-3.jpg]]></wp:meta_value>
@@ -3985,10 +3985,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>blog-post-31</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/blog-post-31/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/blog-post-31/</link>
 		<pubDate>Fri, 02 Jun 2017 16:04:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-31.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-31.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4004,7 +4004,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-31.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-31.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/blog-post-31.jpg]]></wp:meta_value>
@@ -4016,10 +4016,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>blog-post-32</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/blog-post-32/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/blog-post-32/</link>
 		<pubDate>Fri, 02 Jun 2017 16:04:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-32.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-32.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4035,7 +4035,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-32.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-32.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/blog-post-32.jpg]]></wp:meta_value>
@@ -4047,10 +4047,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>blog-post-33</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/blog-post-33/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/blog-post-33/</link>
 		<pubDate>Fri, 02 Jun 2017 16:04:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-33.jpg</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/blog-post-33.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4066,7 +4066,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-33.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-post-33.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/blog-post-33.jpg]]></wp:meta_value>
@@ -4078,10 +4078,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Contact John</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/contact/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/contact/</link>
 		<pubDate>Fri, 02 Jun 2017 16:40:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/2017/06/02/contact/</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/2017/06/02/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4100,7 +4100,7 @@ my Blog]]></wp:meta_value>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/#section-contact]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/#section-contact]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -4137,10 +4137,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>preloader-logo-demo-26</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/preloader-logo-demo-26/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/preloader-logo-demo-26/</link>
 		<pubDate>Fri, 02 Jun 2017 17:35:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/preloader-logo-demo-26.png</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/wp-content/uploads/2017/06/preloader-logo-demo-26.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4156,7 +4156,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/preloader-logo-demo-26.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/preloader-logo-demo-26.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:164;s:6:"height";i:32;s:4:"file";s:34:"2017/06/preloader-logo-demo-26.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"preloader-logo-demo-26-150x32.png";s:5:"width";i:150;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -4168,10 +4168,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Demos</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/08/demos/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/08/demos/</link>
 		<pubDate>Thu, 08 Jun 2017 17:54:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/?p=384</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/?p=384</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4222,15 +4222,15 @@ my Blog]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://unitedthemes.com/previews/brooklyn/#section-demos-demos-demos]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://unitedthemes.com/previews/brooklyn/#section-demos-demos-demos]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>blog-hero-tablet</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog/blog-hero-tablet/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog/blog-hero-tablet/</link>
 		<pubDate>Thu, 08 Jun 2017 18:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-tablet.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-tablet.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4246,7 +4246,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-tablet.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-tablet.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/blog-hero-tablet.jpg]]></wp:meta_value>
@@ -4258,10 +4258,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>blog-hero-mobile</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog/blog-hero-mobile/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog/blog-hero-mobile/</link>
 		<pubDate>Thu, 08 Jun 2017 18:06:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-mobile.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-mobile.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4277,7 +4277,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-mobile.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero-mobile.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/blog-hero-mobile.jpg]]></wp:meta_value>
@@ -4289,10 +4289,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>blog-hero</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog/blog-hero/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/blog/blog-hero/</link>
 		<pubDate>Thu, 08 Jun 2017 18:09:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero.jpg</guid>
+		<guid isPermaLink="false">https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4308,7 +4308,7 @@ my Blog]]></wp:meta_value>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/blog-hero.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2017/06/blog-hero.jpg]]></wp:meta_value>
@@ -4320,10 +4320,10 @@ my Blog]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Wed, 31 May 2017 00:56:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your Name (required)
     [text* your-name] </label>
@@ -4347,7 +4347,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26)
 john@unitedthemes.com
 Reply-To: [your-email]
 
@@ -4360,7 +4360,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26)
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26)
 [your-email]
 Reply-To: john@unitedthemes.com
 
@@ -4416,7 +4416,7 @@ Message Body:
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26)";s:9:"recipient";s:21:"john@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26)";s:9:"recipient";s:21:"john@unitedthemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -4424,7 +4424,7 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 [your-message]
 
 -- 
-This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: john@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Brooklyn (https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: john@unitedthemes.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -4441,10 +4441,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Demo 26 Showcase</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-manager/demo-26-showcase/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-manager/demo-26-showcase/</link>
 		<pubDate>Thu, 01 Jun 2017 09:12:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=portfolio-manager&#038;p=138</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=portfolio-manager&#038;p=138</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4507,10 +4507,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>A Cool Wife With Sunglasses</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/cool-wife-with-sunglasses/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/cool-wife-with-sunglasses/</link>
 		<pubDate>Thu, 01 Jun 2017 09:18:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=151</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=151</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4994,10 +4994,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Girl Listen Music</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/girl-listen-music/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/girl-listen-music/</link>
 		<pubDate>Thu, 01 Jun 2017 09:32:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=158</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=158</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5481,10 +5481,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Friends Of Me</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/portfolio-1-6/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/portfolio-1-6/</link>
 		<pubDate>Thu, 01 Jun 2017 09:28:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=159</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=159</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5976,10 +5976,10 @@ This e-mail was sent from a contact form on Brooklyn (http://themeforest.unitedt
 	</item>
 	<item>
 		<title>Tablet Smartcover Design</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/portfolio-item/tablet-smartcover-design/</link>
 		<pubDate>Thu, 01 Jun 2017 09:26:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=160</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?post_type=portfolio&#038;p=160</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row animate_once="yes" delay="true" effect="fadeIn" delay_timer="50"][vc_column][vc_custom_heading text="WHAT I DID" font_container="tag:h3|text_align:left" use_theme_fonts="yes" css=".vc_custom_1496405092546{margin-bottom: 10px !important;}"][ut_header title="Tablet Smartcover Design"]I believe my work speaks for itself. Browse my most recent projects below
 and enjoy my <b>handmade work</b> with love for every detail.[/ut_header][/vc_column][/vc_row][vc_row animate_once="yes" delay="true" effect="fadeIn" delay_timer="100"][vc_column width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
@@ -6055,7 +6055,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_image]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:16:"background-image";s:105:"http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p1-hero.jpg";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:3:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:16:"background-image";s:105:"https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/wp-content/uploads/2017/06/p1-hero.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[ut_page_hero_split_content_type]]></wp:meta_key>
@@ -6493,10 +6493,10 @@ Smartcover Design]]></wp:meta_value>
 	</item>
 	<item>
 		<title>Video Post</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/20/video-post/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/20/video-post/</link>
 		<pubDate>Sat, 20 May 2017 13:44:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?p=305</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?p=305</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column][vc_column_text]<strong>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</strong>
 
@@ -6614,10 +6614,10 @@ It is a paradisematic country, in which roasted parts of sentences fly into your
 	</item>
 	<item>
 		<title>My Last Website</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/26/my-last-website/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/26/my-last-website/</link>
 		<pubDate>Fri, 26 May 2017 13:47:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?p=308</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?p=308</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column][vc_column_text]<strong>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</strong>
 
@@ -6746,10 +6746,10 @@ Even the all-powerful Pointing has no control about the blind texts it is an alm
 	</item>
 	<item>
 		<title>I WILL ROCK YOU</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/28/utututdr6u/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/28/utututdr6u/</link>
 		<pubDate>Sun, 28 May 2017 13:57:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?p=317</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?p=317</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6842,10 +6842,10 @@ Even the all-powerful Pointing has no control about the blind texts it is an alm
 	</item>
 	<item>
 		<title>Tablet Mockup</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/29/tablet-mockup/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/05/29/tablet-mockup/</link>
 		<pubDate>Mon, 29 May 2017 15:38:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?p=345</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?p=345</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column][vc_column_text]<strong>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</strong>
 
@@ -6983,10 +6983,10 @@ Even the all-powerful Pointing has no control about the blind texts it is an alm
 	</item>
 	<item>
 		<title>My Favorite Song</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/01/my-favorite-song/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/01/my-favorite-song/</link>
 		<pubDate>Thu, 01 Jun 2017 15:50:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?p=354</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?p=354</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column][vc_column_text]<strong>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</strong>
 
@@ -7047,7 +7047,7 @@ Even the all-powerful Pointing has no control about the blind texts it is an alm
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_format_audio_embed]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[audio mp3="http://brooklyn.unitedthemes.com/wp-content/uploads/2013/03/Eddy-Need-Remix.mp3"][/audio]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[audio mp3="https://brooklyn.unitedthemes.com/wp-content/uploads/2013/03/Eddy-Need-Remix.mp3"][/audio]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_format_video_embed]]></wp:meta_key>
@@ -7132,10 +7132,10 @@ Even the all-powerful Pointing has no control about the blind texts it is an alm
 	</item>
 	<item>
 		<title>My Gallery Post</title>
-		<link>http://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/</link>
+		<link>https://themeforest.unitedthemes.com/wpversions/brooklyn/xml/demo26/2017/06/02/my-gallery-post/</link>
 		<pubDate>Fri, 02 Jun 2017 16:01:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://beta.unitedthemes.com/demo_setup/?p=362</guid>
+		<guid isPermaLink="false">https://beta.unitedthemes.com/demo_setup/?p=362</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_section][vc_row][vc_column][vc_column_text]<strong>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</strong>
 

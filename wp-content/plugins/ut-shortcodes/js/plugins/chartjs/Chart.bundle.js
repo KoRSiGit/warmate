@@ -1,6 +1,6 @@
 /*!
  * Chart.js
- * http://chartjs.org/
+ * https://chartjs.org/
  * Version: 2.7.1
  *
  * Copyright 2017 Nick Downie
@@ -413,7 +413,7 @@ Color.prototype = {
 	},
 
 	luminosity: function () {
-		// http://www.w3.org/TR/WCAG20/#relativeluminancedef
+		// https://www.w3.org/TR/WCAG20/#relativeluminancedef
 		var rgb = this.values.rgb;
 		var lum = [];
 		for (var i = 0; i < rgb.length; i++) {
@@ -424,7 +424,7 @@ Color.prototype = {
 	},
 
 	contrast: function (color2) {
-		// http://www.w3.org/TR/WCAG20/#contrast-ratiodef
+		// https://www.w3.org/TR/WCAG20/#contrast-ratiodef
 		var lum1 = this.luminosity();
 		var lum2 = color2.luminosity();
 		if (lum1 > lum2) {
@@ -443,7 +443,7 @@ Color.prototype = {
 	},
 
 	dark: function () {
-		// YIQ equation from http://24ways.org/2010/calculating-color-contrast
+		// YIQ equation from https://24ways.org/2010/calculating-color-contrast
 		var rgb = this.values.rgb;
 		var yiq = (rgb[0] * 299 + rgb[1] * 587 + rgb[2] * 114) / 1000;
 		return yiq < 128;
@@ -506,7 +506,7 @@ Color.prototype = {
 
 	greyscale: function () {
 		var rgb = this.values.rgb;
-		// http://en.wikipedia.org/wiki/Grayscale#Converting_color_to_grayscale
+		// https://en.wikipedia.org/wiki/Grayscale#Converting_color_to_grayscale
 		var val = rgb[0] * 0.3 + rgb[1] * 0.59 + rgb[2] * 0.11;
 		this.setValues('rgb', [val, val, val]);
 		return this;
@@ -1039,7 +1039,7 @@ function hsv2keyword(args) {
   return rgb2keyword(hsv2rgb(args));
 }
 
-// http://dev.w3.org/csswg/css-color/#hwb-to-rgb
+// https://dev.w3.org/csswg/css-color/#hwb-to-rgb
 function hwb2rgb(hwb) {
   var h = hwb[0] / 360,
       wh = hwb[1] / 100,
@@ -2393,7 +2393,7 @@ function getParseRegexForToken (token, config) {
     return regexes[token](config._strict, config._locale);
 }
 
-// Code from http://stackoverflow.com/questions/3561493/is-there-a-regexp-escape-function-in-javascript
+// Code from https://stackoverflow.com/questions/3561493/is-there-a-regexp-escape-function-in-javascript
 function unescapeFormat(s) {
     return regexEscape(s.replace('\\', '').replace(/\\(\[)|\\(\])|\[([^\]\[]*)\]|\\(.)/g, function (matched, p1, p2, p3, p4) {
         return p1 || p2 || p3 || p4;
@@ -3535,7 +3535,7 @@ function defineLocale (name, config) {
                     'use moment.updateLocale(localeName, config) to change ' +
                     'an existing locale. moment.defineLocale(localeName, ' +
                     'config) should only be used for creating a new locale ' +
-                    'See http://momentjs.com/guides/#/warnings/define-locale/ for more info.');
+                    'See https://momentjs.com/guides/#/warnings/define-locale/ for more info.');
             parentConfig = locales[name]._config;
         } else if (config.parentLocale != null) {
             if (locales[config.parentLocale] != null) {
@@ -3850,7 +3850,7 @@ hooks.createFromInputFallback = deprecate(
     'value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), ' +
     'which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are ' +
     'discouraged and will be removed in an upcoming major release. Please refer to ' +
-    'http://momentjs.com/guides/#/warnings/js-date/ for more info.',
+    'https://momentjs.com/guides/#/warnings/js-date/ for more info.',
     function (config) {
         config._d = new Date(config._i + (config._useUTC ? ' UTC' : ''));
     }
@@ -4257,7 +4257,7 @@ function createLocal (input, format, locale, strict) {
 }
 
 var prototypeMin = deprecate(
-    'moment().min is deprecated, use moment.max instead. http://momentjs.com/guides/#/warnings/min-max/',
+    'moment().min is deprecated, use moment.max instead. https://momentjs.com/guides/#/warnings/min-max/',
     function () {
         var other = createLocal.apply(null, arguments);
         if (this.isValid() && other.isValid()) {
@@ -4269,7 +4269,7 @@ var prototypeMin = deprecate(
 );
 
 var prototypeMax = deprecate(
-    'moment().max is deprecated, use moment.min instead. http://momentjs.com/guides/#/warnings/min-max/',
+    'moment().max is deprecated, use moment.min instead. https://momentjs.com/guides/#/warnings/min-max/',
     function () {
         var other = createLocal.apply(null, arguments);
         if (this.isValid() && other.isValid()) {
@@ -4623,7 +4623,7 @@ function isUtc () {
 // ASP.NET json date format regex
 var aspNetRegex = /^(\-)?(?:(\d*)[. ])?(\d+)\:(\d+)(?:\:(\d+)(\.\d*)?)?$/;
 
-// from http://docs.closure-library.googlecode.com/git/closure_goog_date_date.js.source.html
+// from https://docs.closure-library.googlecode.com/git/closure_goog_date_date.js.source.html
 // somewhat more in line with 4.4.3.2 2004 spec, but allows decimal anywhere
 // and further modified to allow for strings containing both week and day
 var isoRegex = /^(-)?P(?:(-?[0-9,.]*)Y)?(?:(-?[0-9,.]*)M)?(?:(-?[0-9,.]*)W)?(?:(-?[0-9,.]*)D)?(?:T(?:(-?[0-9,.]*)H)?(?:(-?[0-9,.]*)M)?(?:(-?[0-9,.]*)S)?)?$/;
@@ -4740,7 +4740,7 @@ function createAdder(direction, name) {
         //invert the arguments, but complain about it
         if (period !== null && !isNaN(+period)) {
             deprecateSimple(name, 'moment().' + name  + '(period, number) is deprecated. Please use moment().' + name + '(number, period). ' +
-            'See http://momentjs.com/guides/#/warnings/add-inverted-param/ for more info.');
+            'See https://momentjs.com/guides/#/warnings/add-inverted-param/ for more info.');
             tmp = val; val = period; period = tmp;
         }
 
@@ -5551,8 +5551,8 @@ proto.zoneName = getZoneName;
 proto.dates  = deprecate('dates accessor is deprecated. Use date instead.', getSetDayOfMonth);
 proto.months = deprecate('months accessor is deprecated. Use month instead', getSetMonth);
 proto.years  = deprecate('years accessor is deprecated. Use year instead', getSetYear);
-proto.zone   = deprecate('moment().zone is deprecated, use moment().utcOffset instead. http://momentjs.com/guides/#/warnings/zone/', getSetZone);
-proto.isDSTShifted = deprecate('isDSTShifted is deprecated. See http://momentjs.com/guides/#/warnings/dst-shifted/ for more information', isDaylightSavingTimeShifted);
+proto.zone   = deprecate('moment().zone is deprecated, use moment().utcOffset instead. https://momentjs.com/guides/#/warnings/zone/', getSetZone);
+proto.isDSTShifted = deprecate('isDSTShifted is deprecated. See https://momentjs.com/guides/#/warnings/dst-shifted/ for more information', isDaylightSavingTimeShifted);
 
 function createUnix (input) {
     return createLocal(input * 1000);
@@ -9716,7 +9716,7 @@ module.exports = function(Chart) {
 	};
 	helpers.splineCurve = function(firstPoint, middlePoint, afterPoint, t) {
 		// Props to Rob Spencer at scaled innovation for his post on splining between points
-		// http://scaledinnovation.com/analytics/splines/aboutSplines.html
+		// https://scaledinnovation.com/analytics/splines/aboutSplines.html
 
 		// This function must also respect "skipped" points
 
@@ -9880,7 +9880,7 @@ module.exports = function(Chart) {
 
 		return niceFraction * Math.pow(10, exponent);
 	};
-	// Request animation polyfill - http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/
+	// Request animation polyfill - https://www.paulirish.com/2011/requestanimationframe-for-smart-animating/
 	helpers.requestAnimFrame = (function() {
 		if (typeof window === 'undefined') {
 			return function(callback) {
@@ -9915,7 +9915,7 @@ module.exports = function(Chart) {
 
 		// Scale mouse coordinates into canvas coordinates
 		// by following the pattern laid out by 'jerryj' in the comments of
-		// http://www.html5canvastutorials.com/advanced/html5-canvas-mouse-coordinates/
+		// https://www.html5canvastutorials.com/advanced/html5-canvas-mouse-coordinates/
 		var paddingLeft = parseFloat(helpers.getStyle(canvas, 'padding-left'));
 		var paddingTop = parseFloat(helpers.getStyle(canvas, 'padding-top'));
 		var paddingRight = parseFloat(helpers.getStyle(canvas, 'padding-right'));
@@ -9964,7 +9964,7 @@ module.exports = function(Chart) {
 	// @param domNode : the node to check the constraint on
 	// @param maxStyle : the style that defines the maximum for the direction we are using (maxWidth / maxHeight)
 	// @param percentageProperty : property of parent to use when calculating width as a percentage
-	// @see http://www.nathanaeljones.com/blog/2013/reading-max-width-cross-browser
+	// @see https://www.nathanaeljones.com/blog/2013/reading-max-width-cross-browser
 	function getConstraintDimension(domNode, maxStyle, percentageProperty) {
 		var view = document.defaultView;
 		var parentNode = domNode.parentNode;
@@ -12364,7 +12364,7 @@ module.exports = {
 		linear: function(generationOptions, dataRange) {
 			var ticks = [];
 			// To get a "nice" value for the tick spacing, we will use the appropriately named
-			// "nice number" algorithm. See http://stackoverflow.com/questions/8506881/nice-label-algorithm-for-charts-with-minimum-ticks
+			// "nice number" algorithm. See https://stackoverflow.com/questions/8506881/nice-label-algorithm-for-charts-with-minimum-ticks
 			// for details.
 
 			var spacing;
@@ -14344,7 +14344,7 @@ var helpers = {
 
 	/**
 	 * Returns true if the `a0` and `a1` arrays have the same content, else returns false.
-	 * @see http://stackoverflow.com/a/14853974
+	 * @see https://stackoverflow.com/a/14853974
 	 * @param {Array} a0 - The array to compare
 	 * @param {Array} a1 - The array to compare
 	 * @returns {Boolean}
@@ -14571,7 +14571,7 @@ var helpers = require(42);
 /**
  * Easing functions adapted from Robert Penner's easing equations.
  * @namespace Chart.helpers.easingEffects
- * @see http://www.robertpenner.com/easing/
+ * @see https://www.robertpenner.com/easing/
  */
 var effects = {
 	linear: function(t) {
@@ -15240,7 +15240,7 @@ function removeResizeListener(node) {
 }
 
 function injectCSS(platform, css) {
-	// http://stackoverflow.com/q/3922139
+	// https://stackoverflow.com/q/3922139
 	var style = platform._style || document.createElement('style');
 	if (!platform._style) {
 		platform._style = style;
@@ -17985,7 +17985,7 @@ function buildLookupTable(timestamps, min, max, distribution) {
 	return table;
 }
 
-// @see adapted from http://www.anujgakhar.com/2014/03/01/binary-search-in-javascript/
+// @see adapted from https://www.anujgakhar.com/2014/03/01/binary-search-in-javascript/
 function lookup(table, key, value) {
 	var lo = 0;
 	var hi = table.length - 1;
@@ -18034,7 +18034,7 @@ function interpolate(table, skey, sval, tkey) {
 
 /**
  * Convert the given value to a moment object using the given time options.
- * @see http://momentjs.com/docs/#/parsing/
+ * @see https://momentjs.com/docs/#/parsing/
  */
 function momentify(value, options) {
 	var parser = options.parser;
@@ -18282,15 +18282,15 @@ module.exports = function(Chart) {
 		bounds: 'data',
 
 		time: {
-			parser: false, // false == a pattern string from http://momentjs.com/docs/#/parsing/string-format/ or a custom callback that converts its argument to a moment
-			format: false, // DEPRECATED false == date objects, moment object, callback or a pattern string from http://momentjs.com/docs/#/parsing/string-format/
+			parser: false, // false == a pattern string from https://momentjs.com/docs/#/parsing/string-format/ or a custom callback that converts its argument to a moment
+			format: false, // DEPRECATED false == date objects, moment object, callback or a pattern string from https://momentjs.com/docs/#/parsing/string-format/
 			unit: false, // false == automatic or override with week, month, year, etc.
 			round: false, // none, or override with week, month, year, etc.
 			displayFormat: false, // DEPRECATED
-			isoWeekday: false, // override week start day - see http://momentjs.com/docs/#/get-set/iso-weekday/
+			isoWeekday: false, // override week start day - see https://momentjs.com/docs/#/get-set/iso-weekday/
 			minUnit: 'millisecond',
 
-			// defaults to unit's corresponding unitFormat below or override using pattern string from http://momentjs.com/docs/#/displaying/format/
+			// defaults to unit's corresponding unitFormat below or override using pattern string from https://momentjs.com/docs/#/displaying/format/
 			displayFormats: {
 				millisecond: 'h:mm:ss.SSS a', // 11:20:01.123 AM,
 				second: 'h:mm:ss a', // 11:20:01 AM
@@ -18966,7 +18966,7 @@ function chartInViewport(chart) {
 	var options = chart[MODEL_KEY].options;
 	var canvas = chart.chart.canvas;
 
-	// http://stackoverflow.com/a/21696585
+	// https://stackoverflow.com/a/21696585
 	if (!canvas || canvas.offsetParent === null) {
 		return false;
 	}

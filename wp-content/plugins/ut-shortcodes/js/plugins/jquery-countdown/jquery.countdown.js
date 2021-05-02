@@ -1,7 +1,7 @@
-/*! http://keith-wood.name/countdown.html
+/*! https://keith-wood.name/countdown.html
 	Countdown for jQuery v2.1.0.
 	Written by Keith Wood (wood.keith{at}optusnet.com.au) January 2008.
-	Available under the MIT (http://keith-wood.name/licence.html) license. 
+	Available under the MIT (https://keith-wood.name/licence.html) license.
 	Please attribute the author if you use it. */
 
 (function($) { // Hide scope, no $ conflict
@@ -51,7 +51,7 @@
 			@this <code>$.countdown</code>
 			@example serverSync: function() {
   var time = null;
-  $.ajax({url: 'http://myserver.com/serverTime.php',
+  $.ajax({url: 'https://myserver.com/serverTime.php',
     async: false, dataType: 'text',
     success: function(text) {
       time = new Date(text);
